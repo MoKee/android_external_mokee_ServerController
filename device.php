@@ -113,6 +113,7 @@ $device_fullname = array(
     'pyramid' => 'HTC Sensation',
     'r950' => 'Samsung Galaxy Note II (US Cellular)',
     'saga' => 'HTC Desire S (G12)',
+    'shamu' => 'Google Nexus 6',
     'sc03e' => 'Samsung Galaxy S III LTE (Japan)',
     'serrano3gxx' => 'Samsung Galaxy S4 Mini (3G)',
     'serranoltexx' => 'Samsung Galaxy S4 Mini (Intl)',
