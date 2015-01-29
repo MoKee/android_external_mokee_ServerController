@@ -141,4 +141,6 @@ $device_fullname = array(
     'vs985' => 'LG G3 (Verizon)',
     'X9180' => 'ZTE V5',
     'yuga' => 'Sony Xperia Z',
+    'z3' => 'Sony Xperia Z3',
+    'z3c' => 'Sony Xperia Z3C',
 );
