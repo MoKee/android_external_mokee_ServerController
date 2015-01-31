@@ -43,6 +43,7 @@ $device_fullname = array(
     'falcon' => 'Motorola Moto G (Unified)',
     'find5' => 'Oppo Find 5',
     'find7' => 'Oppo Find 7 (A/S)',
+    'find7s' => 'Oppo Find 7 (S)',
     'flo' => 'Google Nexus 7 2013 (Wi-Fi)',
     'galaxysmtd' => 'Samsung Galaxy S',
     'ghost' => 'Motorola Moto X (Unified)',
