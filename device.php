@@ -145,6 +145,7 @@ $device_fullname = array(
     'tsubasa' => 'Sony Xperia V ',
     'umts_spyder' => 'Motorola Razr / Razr MAXX (GSM)',
     'urushi' => 'Sony Xperia Ray',
+    'victara' => 'Motorola Moto X 2014 (Unified)',
     'ville' => 'HTC One S',
     'viva' => 'Huawei U9200',
     'vs980' => 'LG G2 (Verizon)',
