@@ -70,6 +70,7 @@ $device_fullname = array(
     'i9500' => 'Samsung Galaxy S4 (GT-I9500)',
     'jflte' => 'Samsung Galaxy S4',
     'jflteatt' => 'Samsung Galaxy S4 (AT&T)',
+    'jfltespr' => 'Samsung Galaxy S4 (Sprint)',
     'jfltetmo' => 'Samsung Galaxy S4 (T-Mobile)',
     'jfltevzw' => 'Samsung Galaxy S4 (Verizon)',
     'jfltexx' => 'Samsung Galaxy S4 (Intl)',
