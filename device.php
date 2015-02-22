@@ -153,6 +153,7 @@ $device_fullname = array(
     'X9180' => 'ZTE V5',
     'xt907' => 'Motorola Droid RAZR M',
     'xt925' => 'Motorola Droid RAZR HD (GSM)',
+    'xt925_jbbl' => 'Motorola Droid RAZR HD (GSM) JBBL',
     'xt926' => 'Motorola Droid RAZR HD (CDMA)',
     'yuga' => 'Sony Xperia Z',
     'z3' => 'Sony Xperia Z3',
