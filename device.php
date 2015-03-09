@@ -151,6 +151,7 @@ $device_fullname = array(
     'vs980' => 'LG G2 (Verizon)',
     'vs985' => 'LG G3 (Verizon)',
     'X9180' => 'ZTE V5',
+    'xt897' => 'Motorola Photon Q',
     'xt907' => 'Motorola Droid RAZR M',
     'xt925' => 'Motorola Droid RAZR HD (GSM)',
     'xt925_jbbl' => 'Motorola Droid RAZR HD (GSM) JBBL',
