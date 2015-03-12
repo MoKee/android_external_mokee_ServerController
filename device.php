@@ -101,6 +101,7 @@ $device_fullname = array(
     'moto_msm8960' => 'Motorola Atrix HD / Razr M / Razr HD / Electrify M',
     'moto_msm8960_jbbl' => 'Motorola Atrix HD / Razr M / Razr HD / Electrify M (JBBL)',
     'n1' => 'Oppo N1',
+    'n3' => 'Oppo N3',
     'n7000' => 'Samsung Galaxy Note (Intl)',
     'n7100' => 'Samsung Galaxy Note II (GSM Non-LTE)',
     'nicki' => 'Sony Xperia M',
