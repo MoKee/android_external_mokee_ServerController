@@ -122,6 +122,7 @@ $device_fullname = array(
     'peregrine' => 'Motorola Moto G 4G (Unified)',
     'pisces' => 'XiaoMi 3TD',
     'pyramid' => 'HTC Sensation',
+    'quark' => 'Motorola Moto MAXX',
     'r950' => 'Samsung Galaxy Note II (US Cellular)',
     'saga' => 'HTC Desire S (G12)',
     'shamu' => 'Google Nexus 6',
