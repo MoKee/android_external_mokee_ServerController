@@ -49,6 +49,7 @@ $device_fullname = array(
     'ghost' => 'Motorola Moto X (Unified)',
     'grouper' => 'Google Nexus 7 (Wi-Fi)',
     'hammerhead' => 'Google Nexus 5',
+    'hammerheadcaf' => 'Google Nexus 5 CAF',
     'haida' => 'Sony Xperia Neo V',
     'hallon' => 'Sony Xperia Neo',
     'hikari' => 'Sony Xperia Arco S',
