@@ -13,6 +13,7 @@ $device_fullname = array(
     'cancro' => 'XiaoMi 3/4 (C/W)',
     'castor' => 'Sony Xperia Z2 Tablet LTE',
     'castor_windy' => 'Sony Xperia Z2 Tablet WiFi',
+    'condor' => 'Motorola Moto E',  
     'crespo' => 'Google Nexus S',
     'c2005' => 'Sony Xperia M Dual',
     'c8817d' => 'Huawei Honor 4/4X (Unified)',
