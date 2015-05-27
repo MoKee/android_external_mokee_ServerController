@@ -83,6 +83,7 @@ $device_fullname = array(
     'jfltexx' => 'Samsung Galaxy S4 (Intl)',
     'jordanplus' => 'Motorola Defy / Defy Plus',
     'klte' => 'Samsung Galaxy S5 (GSM)',
+    'kltechn' => 'Samsung Galaxy S5 (China)',
     'kltechnduo' => 'Samsung Galaxy S5 (China Dual SIM)',
     'kltespr' => 'Samsung Galaxy S5 (Sprint)',
     'klteusc' => 'Samsung Galaxy S5 (US Cellular)',
