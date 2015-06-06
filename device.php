@@ -85,6 +85,7 @@ $device_fullname = array(
     'klte' => 'Samsung Galaxy S5 (GSM)',
     'kltechn' => 'Samsung Galaxy S5 (China)',
     'kltechnduo' => 'Samsung Galaxy S5 (China Dual SIM)',
+    'kltekdi' => 'Samsung Galaxy S5 au (KDDI)',
     'kltespr' => 'Samsung Galaxy S5 (Sprint)',
     'klteusc' => 'Samsung Galaxy S5 (US Cellular)',
     'kltevzw' => 'Samsung Galaxy S5 (Verizon)',
