@@ -95,6 +95,7 @@ $device_fullname = array(
     'lettuce' => 'YU Yuphoria (YU5010)',
     'ls970' => 'LG Optimus G (Sprint)',
     'ls980' => 'LG G2 (Sprint)',
+    'ls990' => 'LG G3 (Sprint)',
     'lt013g' => 'Samsung Galaxy Tab3 8" T311',
     'lt01lte' => 'Samsung Galaxy Tab3 8" T315',
     'lt01wifi' => 'Samsung Galaxy Tab3 8" T310',
