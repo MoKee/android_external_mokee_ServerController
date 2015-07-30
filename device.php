@@ -46,6 +46,7 @@ $device_fullname = array(
     'enrc2b' => 'HTC One X+',
     'evita' => 'HTC One XL',
     'falcon' => 'Motorola Moto G (Unified)',
+    'ferrari' => 'XiaoMi 4i',
     'find5' => 'Oppo Find 5',
     'find7' => 'Oppo Find 7 (A/S)',
     'find7s' => 'Oppo Find 7 (S)',
