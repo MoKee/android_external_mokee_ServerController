@@ -120,6 +120,7 @@ $device_fullname = array(
     'n7100' => 'Samsung Galaxy Note II (GSM Non-LTE)',
     'nicki' => 'Sony Xperia M',
     'nozomi' => 'Sony Xperia S',
+    'nx40x' => 'Nubia Z5 Mini',
     'nx403a' => 'Nubia Z5S Mini',
     'nx503a' => 'Nubia Z5S',
     'nx507j' => 'Nubia Z7 Mini',
