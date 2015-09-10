@@ -14,6 +14,7 @@ $device_fullname = array(
     'condor' => 'Motorola Moto E',
     'crespo' => 'Google Nexus S',
     'c8817d' => 'Huawei Honor 4/4X (Unified)',
+    'cherry' => 'Huawei G620S, Honor 4/4X',
     'd2att' => 'Samsung Galaxy S III (AT&T)',
     'd2spr' => 'Samsung Galaxy S III (Sprint)',
     'd2tmo' => 'Samsung Galaxy S III (T-Mobile)',
