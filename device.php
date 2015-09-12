@@ -120,6 +120,7 @@ $device_fullname = array(
     'odin' => 'Sony Xperia ZL',
     'otter' => 'Amazon Kindle Fire (1st gen)',
     'otter2' => 'Amazon Kindle Fire (2nd gen)',
+    'otus' => 'Motorola Moto E (2015)',
     'ovation' => 'Barnes & Noble Nook HD+',
     'p1' => 'Samsung Galaxy Tab (GSM)',
     'p3100' => 'Samsung Galaxy Tab 2 7 (GSM)',
