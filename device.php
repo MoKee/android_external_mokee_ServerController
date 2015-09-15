@@ -83,6 +83,7 @@ $device_fullname = array(
     'kltevzw' => 'Samsung Galaxy S5 (Verizon)',
     'ks01lte' => 'Samsung Galaxy S4 LTE-A',
     'l01f' => 'LG G2 (Japan)',
+    'l55t' => 'Sony Xperia Z3 (TD-SCDMA)',
     'l900' => 'Samsung Galaxy Note II (Sprint)',
     'lettuce' => 'YU Yuphoria (YU5010)',
     'ls970' => 'LG Optimus G (Sprint)',
