@@ -120,6 +120,7 @@ $device_fullname = array(
     'nx510j' => 'Nubia Z9 Max',
     'obake' => 'Motorola Droid Mini / Ultra / MAXX',
     'odin' => 'Sony Xperia ZL',
+    'osprey' => 'Motorola Moto G (2015)',
     'otter' => 'Amazon Kindle Fire (1st gen)',
     'otter2' => 'Amazon Kindle Fire (2nd gen)',
     'otus' => 'Motorola Moto E (2015)',
