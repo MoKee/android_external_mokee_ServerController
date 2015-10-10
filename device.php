@@ -137,6 +137,7 @@ $device_fullname = array(
     'pisces' => 'XiaoMi 3TD',
     'pyramid' => 'HTC Sensation',
     'quark' => 'Motorola Moto MAXX',
+    'r7plus' => 'Oppo R7 Plus',
     'r950' => 'Samsung Galaxy Note II (US Cellular)',
     'sc03e' => 'Samsung Galaxy S III LTE (Japan)',
     'serrano3gxx' => 'Samsung Galaxy S4 Mini (3G)',
