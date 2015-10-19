@@ -148,6 +148,7 @@ $devices_info = array(
     array('name' => 'Droid Razr / Razr MAXX (CDMA)', 'brand' => 'Motorola', 'model' => 'spyder'),
     array('name' => 'Galaxy Premier (WCDMA)', 'brand' => 'Samsung', 'model' => 'superior'),
     array('name' => 'Galaxy Premier (TD-SCDMA)', 'brand' => 'Samsung', 'model' => 'superiorcmcc'),
+    array('name' => 'Moto E LTE (2015)', 'brand' => 'Motorola', 'model' => 'surnia'),
     array('name' => 'Galaxy Note II (GSM LTE)', 'brand' => 'Samsung', 'model' => 't0lte'),
     array('name' => 'One Max (GSM)', 'brand' => 'HTC', 'model' => 't6'),
     array('name' => 'One Max (Sprint)', 'brand' => 'HTC', 'model' => 't6spr'),
