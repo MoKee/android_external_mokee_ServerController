@@ -196,10 +196,18 @@ $hardware_info = array(
                      'ram' => '3GB/4GB of LP-DDR4',
                      'rom' => '16GB/64GB',
                      'battery' => '3300 mAh'),
-    'Xperia Z' => array('cpu' => 'Qualcomm®Snapdragon™ 800（MSM8274)',
+    'yuga' => array('cpu' => 'Qualcomm®Snapdragon™ 800',
                      'ram' => '2GB',
                      'rom' => '16GB',
                      'battery' => '3000 mAh'),
+    'z3' => array('cpu' => 'Qualcomm® Snapdragon™ 801',
+                     'ram' => '3GB',
+                     'rom' => '16GB',
+                     'battery' => '3100 mAh'),
+    'z3c' => array('cpu' => 'Qualcomm®Snapdragon™ 801',
+                     'ram' => '2GB',
+                     'rom' => '16GB',
+                     'battery' => '2600 mAh'),
 );
 
 foreach ($devices_info as $k => $val) {
