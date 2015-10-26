@@ -234,6 +234,10 @@ $hardware_info = array(
                      'ram' => '2GB',
                      'rom' => '16GB',
                      'battery' => '2600 mAh'),
+    'victara' => array('cpu' => 'Qualcomm®Snapdragon™ 801',
+                     'ram' => '2GB',
+                     'rom' => '16GB/32GB',
+                     'battery' => '2300 mAh'),
 );
 
 foreach ($devices_info as $k => $val) {
