@@ -183,6 +183,17 @@ $devices_info = array(
     array('name' => 'Xperia Z3 Compact', 'brand' => 'Sony', 'model' => 'z3c'),
 );
 
+$hardware_info = array(
+    'bacon' => array('cpu' => 'Qualcomm® Snapdragon™ 801',
+                     'ram' => '3GB of LP-DDR3',
+                     'rom' => '16GB/64GB',
+                     'battery' => '3100 mAh'),
+    'tocino' => array('cpu' => 'Qualcomm® Snapdragon™ 810',
+                     'ram' => '3GB/4GB of LP-DDR4',
+                     'rom' => '16GB/64GB',
+                     'battery' => '3300 mAh'),
+);
+
 foreach ($devices_info as $k => $val) {
     $device_info[$val['model']] = $val['brand'] . ' ' . $val['name'];
 }
