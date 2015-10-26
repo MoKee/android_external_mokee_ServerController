@@ -196,6 +196,10 @@ $hardware_info = array(
                      'ram' => '3GB/4GB of LP-DDR4',
                      'rom' => '16GB/64GB',
                      'battery' => '3300 mAh'),
+    'nx510j' => array('cpu' => 'Qualcomm® Snapdragon™ 810',
+                     'ram' => '3GB of LP-DDR4',
+                     'rom' => '16GB',
+                     'battery' => '2900 mAh'),
 );
 
 foreach ($devices_info as $k => $val) {
