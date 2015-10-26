@@ -193,9 +193,13 @@ $hardware_info = array(
                      'rom' => '32G/64GB',
                      'battery' => '3220 mAh'),
     'tocino' => array('cpu' => 'Qualcomm® Snapdragon™ 810',
-                     'ram' => '3GB/4GB of LP-DDR4',
-                     'rom' => '16GB/64GB',
-                     'battery' => '3300 mAh'),
+                      'ram' => '3GB/4GB of LP-DDR4',
+                      'rom' => '16GB/64GB',
+                      'battery' => '3300 mAh'),
+    'yuga' => array('cpu' => 'Qualcomm® Snapdragon™ 800',
+                    'ram' => '2GB',
+                    'rom' => '16GB',
+                    'battery' => '3000 mAh'),
 );
 
 foreach ($devices_info as $k => $val) {
