@@ -172,6 +172,7 @@ $devices_info = array(
     array('name' => 'G2 (Verizon)', 'brand' => 'LG', 'model' => 'vs980'),
     array('name' => 'G3 (Verizon)', 'brand' => 'LG', 'model' => 'vs985'),
     array('name' => 'RedBull V5', 'brand' => 'ZTE', 'model' => 'x9180'),
+    array('name' => 'Photon Q', 'brand' => 'Motorola', 'model' => 'xt897'),
     array('name' => 'Droid RAZR M', 'brand' => 'Motorola', 'model' => 'xt907'),
     array('name' => 'Droid RAZR HD (GSM)', 'brand' => 'Motorola', 'model' => 'xt925'),
     array('name' => 'Droid RAZR HD (CDMA)', 'brand' => 'Motorola', 'model' => 'xt926'),
