@@ -210,17 +210,17 @@ $hardware_info = array(
     'nx40x' => array('cpu' => 'Qualcomm® Snapdragon™ APQ8064',
                      'ram' => '2GB',
                      'rom' => '16GB',
-                     'battery' => '2300 mAh'
+                     'battery' => '2300 mAh',
                      'cpuarch' => 'Arm'),
     'nx403a' => array('cpu' => 'Qualcomm® Snapdragon™ 600',
                      'ram' => '2GB',
                      'rom' => '16GB',
-                     'battery' => '2000 mAh'
+                     'battery' => '2000 mAh',
                      'cpuarch' => 'Arm'),
     'nx507j' => array('cpu' => 'Qualcomm® Snapdragon™ 801',
                      'ram' => '2GB',
                      'rom' => '16GB',
-                     'battery' => '2300 mAh'
+                     'battery' => '2300 mAh',
                      'cpuarch' => 'Arm'),
     'nx510j' => array('cpu' => 'Qualcomm® Snapdragon™ 810',
                      'ram' => '3GB of LP-DDR4',
