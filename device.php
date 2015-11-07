@@ -214,6 +214,12 @@ $hardware_info = array(
                      'battery' => '3080 mAh',
                      'display' => '5 inch, 1920x1080 pixel(441ppi)',
                      'cpuarch' => 'Arm 64'),
+    'i9500' => array('cpu' => 'Samsung Exynos Professor 5410',
+                     'ram' => '2GB',
+                     'rom' => '16GB',
+                     'battery' => '2600 mAh',
+                     'display' => '5.0 inch, 1920x1080 pixel(441ppi)',
+                     'cpuarch' => 'Arm'),
     'nx40x' => array('cpu' => 'Qualcomm® Snapdragon™ APQ8064',
                      'ram' => '2GB',
                      'rom' => '16GB',
@@ -351,7 +357,7 @@ $hardware_info = array(
                      'rom' => '16GB',
                      'battery' => '2600 mAh',
                      'display' => '4.6 inch, 1280x720 pixel(319ppi)',
-                     'cpuarch' => 'Arm'),
+                     'cpuarch' => 'Arm'),                 
 );
 
 foreach ($devices_info as $k => $val) {
