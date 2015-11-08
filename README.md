@@ -3,20 +3,15 @@
  
 #### 准备：
 * [gerrit](http://review.mfunz.com)账号
-* [mokee open source源码](http://github.com/mokee)
 * 一台能上网的linux或mac
 
 －－－－－－－－－－－－－－－－－－
 
 ##一 、准备折腾环境
 
-* <font size=5 color=#999999>1、执行repo init和repo sync同步代码</font>	
+* <font size=5 color=#999999>1、执行git clone,将需要的代码库同步</font>	
 
-	`repo init -u https://github.com/MoKee/android.git -b mkl-mr1`												`repo sync`
-	
-* <font size=5 color=#999999>2、修改前建立分支</font>
-
-	`repo start [分支名] --all`
+	`git clone ssh://yourusername@review.mfunz.com:29418/MoKee/android_external_mokee_ServerController && scp -p -P 29418 yourusername@review.mfunz.com:hooks/commit-msg android_external_mokee_ServerController/.git/hooks/`
 	
 * <font size=5 color=#999999>3、git配置</font>
 	
@@ -42,12 +37,12 @@ Gerrit邮箱必须是xxx
 		(推荐分辨率：109*124)	
 			
 	2⃣️机型参数	 	
->  处理器():	
-   内存容量:		
-   存储容量:	
-   电池容量:	
-   屏幕信息:	
-   处理器架构:	
+>  处理器(cpu):		
+   内存容量(ram):		
+   存储容量(rom):	
+   电池容量(battery):	
+   屏幕信息(display):	
+   处理器架构(cpuarch):	
    
  
 *  <font size=5 color=#999999>2、更新device.php和图片</font>	
@@ -87,11 +82,14 @@ Gerrit邮箱必须是xxx
 `git add <path>		//path是你修改过的文件`
 `git commit -a -m"修改内容说明，请使用英文"`
 
-* <font size=5 color=#999999>上传到服务器等待审核</font>	
-	`repo upload`
+* <font size=5 color=#999999>上传到服务器等待审核</font>
+	`git push ssh://<username>@review.mfunz.com:29418/android_external_mokee_ServerController HEAD:refs/for/master`
+>    <Username>填写在review.mfunz.com上填写的username
+>    ![demo8](http://7xo4qi.com1.z0.glb.clouddn.com/demo8.tiff)
+
 	
 # 到此为止，所有的工作已经做完，如果修改符合规范，则会合并至主代码分区，不久你就可以看到自己的贡献啦	
-撰写者：ray	
+撰写者：ray		
 微博：[329ray](http://weibo.com/577551284)(若发现文档中的不足，可提交issue或私信我)
    
 		
