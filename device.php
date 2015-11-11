@@ -363,7 +363,13 @@ $hardware_info = array(
                      'rom' => '16GB',
                      'battery' => '2600 mAh',
                      'display' => '4.6 inch, 1280x720 pixel(319ppi)',
-                     'cpuarch' => 'Arm'),                 
+                     'cpuarch' => 'Arm'), 
+    'find5' => array('cpu' => 'Qualcomm® Snapdragon™ APQ8064',
+                     'ram' => '2GB',
+                     'rom' => '16GB/32GB',
+                     'battery' => '2500 mAh',
+                     'display' => '5 inch, 1920x1080 pixel(424ppi)',
+                     'cpuarch' => 'Arm'),   
 );
 
 foreach ($devices_info as $k => $val) {
