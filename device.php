@@ -214,6 +214,12 @@ $hardware_info = array(
                      'battery' => '3080 mAh',
                      'display' => '5 inch, 1920x1080 pixel(441ppi)',
                      'cpuarch' => 'Arm 64'),
+    'find5' => array('cpu' => 'Qualcomm® Snapdragon™ APQ8064',
+                     'ram' => '2GB',
+                     'rom' => '16GB/32GB',
+                     'battery' => '2500 mAh',
+                     'display' => '5 inch, 1920x1080 pixel(424ppi)',
+                     'cpuarch' => 'Arm'),
     'i9300' => array('cpu' => 'Samsung Exynos 4412',
                      'ram' => '1GB of LP-DDR3',
                      'rom' => '16GB',
@@ -369,7 +375,7 @@ $hardware_info = array(
                      'rom' => '16GB',
                      'battery' => '2600 mAh',
                      'display' => '4.6 inch, 1280x720 pixel(319ppi)',
-                     'cpuarch' => 'Arm'),                 
+                     'cpuarch' => 'Arm'),
 );
 
 foreach ($devices_info as $k => $val) {
