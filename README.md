@@ -1,6 +1,6 @@
 # 如何贡献机型下载界面数据
- ——————————————————
- 
+ ——————————————————				
+ (最下面有视频哦)
 #### 准备
 * [gerrit](http://review.mfunz.com)账号
 * [mokee open source源码](http://github.com/mokee)
@@ -96,9 +96,9 @@ Gerrit邮箱必须是xxx
 	
 # 到此为止，所有的工作已经做完，如果修改符合规范，则会合并至主代码分区，不久你就可以看到自己的贡献啦	
 撰写者：ray  
-微博：[329ray](http://weibo.com/577551284)(若发现文档中的不足或有问题，可提交issue或私信我)
-   
-		
+微博：[329ray](http://weibo.com/577551284)(若发现文档中的不足或有问题，可提交issue或私信我)])
+>（请使用高清观看）   
+<iframe height=960 width=1280 src="http://yuntv.letv.com/bcloud.swf?uu=3ecc23ysgp&vu=a132ce427d&auto_play=1&gpcflag=1" frameborder=0 allowfullscreen></iframe>		
 
  
 
