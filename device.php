@@ -79,7 +79,7 @@ $devices_info = array(
     array('model' => 'jordanplus', 'name' => 'Defy / Defy Plus', 'brand' => 'Motorola'),
     array('model' => 'klte', 'name' => 'Galaxy S5 (GSM)', 'brand' => 'Samsung'),
     array('model' => 'kltechn', 'name' => 'Galaxy S5 (SM-G9006V/G9008V)', 'brand' => 'Samsung'),
-    array('model' => 'kltechnduo', 'name' => 'Galaxy S5 (SM-G9006W/G9008W)(China Dual SIM)', 'brand' => 'Samsung'),
+    array('model' => 'kltechnduo', 'name' => 'Galaxy S5 (SM-G9006W/G9008W/G9009W)(China Dual SIM)', 'brand' => 'Samsung'),
     array('model' => 'klteduos', 'name' => 'Galaxy S5 (SM-G900FD Dual SIM)', 'brand' => 'Samsung'),
     array('model' => 'kltekdi', 'name' => 'Galaxy S5 au (SCL23/SC04F)', 'brand' => 'Samsung'),
     array('model' => 'kltespr', 'name' => 'Galaxy S5 (Sprint)', 'brand' => 'Samsung'),
