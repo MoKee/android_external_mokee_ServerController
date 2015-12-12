@@ -8,6 +8,7 @@ $devices_info = array(
     array('model' => 'aries', 'name' => 'Mi2/Mi2S', 'brand' => 'XiaoMi'),
     array('model' => 'armani', 'name' => 'RedMi 1S (C/W)', 'brand' => 'XiaoMi'),
     array('model' => 'bacon', 'name' => 'One', 'brand' => 'OnePlus'),
+    array('model' => 'bullhead', 'name' => 'Nexus 5X', 'brand' => 'LG'),
     array('model' => 'cancro', 'name' => 'Mi3w/Mi4', 'brand' => 'XiaoMi'),
     array('model' => 'castor', 'name' => 'Xperia Z2 Tablet LTE', 'brand' => 'Sony'),
     array('model' => 'castor_windy', 'name' => 'Xperia Z2 Tablet WiFi', 'brand' => 'Sony'),
