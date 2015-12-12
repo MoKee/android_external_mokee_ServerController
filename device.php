@@ -48,6 +48,7 @@ $devices_info = array(
     array('model' => 'find7s', 'name' => 'Find 7 (S)', 'brand' => 'Oppo'),
     array('model' => 'flo', 'name' => 'Nexus 7 2013 (Wi-Fi)', 'brand' => 'Google'),
     array('model' => 'flounder', 'name' => 'Nexus 9 (Wi-Fi)', 'brand' => 'Google'),
+    array('model' => 'flounder_lte', 'name' => 'Nexus 9 (LTE)', 'brand' => 'Google'),
     array('model' => 'g620_a2', 'name' => 'G620-A2', 'brand' => 'Huawei'),
     array('model' => 'galaxysmtd', 'name' => 'Galaxy S', 'brand' => 'Samsung'),
     array('model' => 'ghost', 'name' => 'Moto X (Unified)', 'brand' => 'Motorola'),
