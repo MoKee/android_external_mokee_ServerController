@@ -32,6 +32,7 @@ $devices_info = array(
     array('model' => 'd855', 'name' => 'G3 (Intl)', 'brand' => 'LG'),
     array('model' => 'd859', 'name' => 'G3 DualSIM (CTC/CMCC/CUCC)', 'brand' => 'LG'),
     array('model' => 'deb', 'name' => 'Nexus 7 2013 (LTE)', 'brand' => 'Google'),
+    array('model' => 'dior', 'name' => 'Redmi Note 4G', 'brand' => 'XiaoMi'),
     array('model' => 'dlx', 'name' => 'Droid DNA', 'brand' => 'HTC'),
     array('model' => 'dogo', 'name' => 'Xperia ZR', 'brand' => 'Sony'),
     array('model' => 'e970', 'name' => 'Optimus G (AT&T)', 'brand' => 'LG'),
