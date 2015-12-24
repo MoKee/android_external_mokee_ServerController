@@ -154,6 +154,8 @@ $devices_info = array(
     array('model' => 'shamu', 'name' => 'Nexus 6', 'brand' => 'Google'),
     array('model' => 'sirius', 'name' => 'Xperia Z2', 'brand' => 'Sony'),
     array('model' => 'skyrocket', 'name' => 'Galaxy S II Skyrocket', 'brand' => 'Samsung'),
+    array('model' => 'sprout4', 'name' => 'Android One', 'brand' => 'Google'),
+    array('model' => 'sprout8', 'name' => 'Android One', 'brand' => 'Google'),
     array('model' => 'spyder', 'name' => 'Droid Razr / Razr MAXX (CDMA)', 'brand' => 'Motorola'),
     array('model' => 'superior', 'name' => 'Galaxy Premier (WCDMA)', 'brand' => 'Samsung'),
     array('model' => 'superiorcmcc', 'name' => 'Galaxy Premier (TD-SCDMA)', 'brand' => 'Samsung'),
