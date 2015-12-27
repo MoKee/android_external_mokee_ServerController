@@ -458,6 +458,12 @@ $hardware_info = array(
                      'battery' => '2600 mAh',
                      'display' => '4.6 inch, 1280x720 pixel(319ppi)',
                      'cpuarch' => 'Arm'),
+    'nicki' => array('cpu' => 'Qualcomm® Snapdragon™ S4 Plus MSM8227',
+                     'ram' => '1GB',
+                     'rom' => '4GB',
+                     'battery' => '1750 mAh',
+                     'display' => '4 inch, 480x854 pixel(245ppi)',
+                     'cpuarch' => 'Arm'),
 );
 
 foreach ($devices_info as $k => $val) {
