@@ -115,6 +115,7 @@ $devices_info = array(
     array('model' => 'mione_plus', 'name' => 'Mi1 / Mi1S', 'brand' => 'XiaoMi'),
     array('model' => 'moto_msm8960', 'name' => 'Atrix HD / Razr M / Razr HD', 'brand' => 'Motorola'),
     array('model' => 'moto_msm8960_jbbl', 'name' => 'Atrix HD / Razr M / Razr HD', 'brand' => 'Motorola'),
+    array('model' => 'mt2', 'name' => 'Ascend Mate 2', 'brand' => 'Huawei'),
     array('model' => 'n1', 'name' => 'N1', 'brand' => 'Oppo'),
     array('model' => 'n3', 'name' => 'N3', 'brand' => 'Oppo'),
     array('model' => 'n7000', 'name' => 'Galaxy Note (Intl)', 'brand' => 'Samsung'),
