@@ -95,7 +95,7 @@ Gerrit邮箱必须是xxx
 	`git commit -a -m`
 	>修改内容说明，请使用英文
 
-* <font size=5 color=#999999>上传到服务器等待审核</font>	`git push ssh://<username>@review.mfunz.com:29418/android_external_mokee_ServerController HEAD:refs/for/master`
+* <font size=5 color=#999999>上传到服务器等待审核</font>	`git push ssh://<username>@review.mfunz.com:29418/MoKee/android_external_mokee_ServerController HEAD:refs/for/master`
 >    Username填写在review.mfunz.com上填写的username
 >    ![demo8](http://7xo4qi.com1.z0.glb.clouddn.com/demo8.tiff)
 
