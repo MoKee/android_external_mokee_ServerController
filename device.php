@@ -321,7 +321,7 @@ $hardware_info = array(
                      'ram' => '3GB',
                      'rom' => '32GB',
                      'battery' => '2800 mAh',
-                     'display' => '5.0 inch, 2560x1440 pixel(565ppi)',
+                     'display' => '5.1 inch, 2560x1440 pixel(576ppi)',
                      'cpuarch' => 'Arm'),
     'nicki' => array('cpu' => 'Qualcomm® Snapdragon™ S4 Plus MSM8227',
                      'ram' => '1GB',
