@@ -13,6 +13,7 @@ $devices_info = array(
     array('model' => 'cancro', 'name' => 'Mi3w/Mi4', 'brand' => 'XiaoMi'),
     array('model' => 'castor', 'name' => 'Xperia Z2 Tablet LTE', 'brand' => 'Sony'),
     array('model' => 'castor_windy', 'name' => 'Xperia Z2 Tablet WiFi', 'brand' => 'Sony'),
+    array('model' => 'clark', 'name' => 'Moto X Style', 'brand' => 'Motorola'),
     array('model' => 'condor', 'name' => 'Moto E', 'brand' => 'Motorola'),
     array('model' => 'crespo', 'name' => 'Nexus S', 'brand' => 'Google'),
     array('model' => 'c8817d', 'name' => 'Honor 4/4X (Kitkat)', 'brand' => 'Huawei'),
