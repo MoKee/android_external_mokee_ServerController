@@ -140,6 +140,7 @@ $devices_info = array(
     array('model' => 'nx511j', 'name' => 'Z9 Mini/Z9 Mini Elite(Marshmallow)', 'brand' => 'Nubia'),
     array('model' => 'obake', 'name' => 'Droid Mini/Ultra/MAXX', 'brand' => 'Motorola'),
     array('model' => 'odin', 'name' => 'Xperia ZL', 'brand' => 'Sony'),
+    array('model' => 'onyx', 'name' => 'X', 'brand' => 'OnePlus'),
     array('model' => 'osprey', 'name' => 'Moto G (2015)', 'brand' => 'Motorola'),
     array('model' => 'otter', 'name' => 'Kindle Fire (1st gen)', 'brand' => 'Amazon'),
     array('model' => 'otter2', 'name' => 'Kindle Fire (2nd gen)', 'brand' => 'Amazon'),
