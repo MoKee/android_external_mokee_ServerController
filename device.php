@@ -365,7 +365,7 @@ $hardware_info = array(
     'libra'=> array('cpu' => 'Qualcomm® Snapdragon™ 808',
                      'ram' => '2/3GB',
                      'rom' => '16/32GB',
-                     'battery' => '3080 mAh',
+                     'battery' => '3000/3080 mAh',
                      'display' => '5.0 inch, 1920x1080 pixel(441ppi)', 
                      'cpuarch' => 'Arm 64'),                  
     'mako' => array('cpu' => 'Qualcomm® Snapdragon™ S4 Pro APQ8064',
