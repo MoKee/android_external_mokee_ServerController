@@ -102,7 +102,7 @@ $devices_info = array(
     array('model' => 'l55t', 'name' => 'Xperia Z3 (TD-LTE)', 'brand' => 'Sony'),
     array('model' => 'l900', 'name' => 'Galaxy Note II (Sprint)', 'brand' => 'Samsung'),
     array('model' => 'lentislte', 'name' => 'Galaxy S5 LTE-A', 'brand' => 'Samsung'),
-    array('model' => 'leo', 'name' => 'Note Pro', 'brand' => 'Xiaomi'),
+    array('model' => 'leo', 'name' => 'Note Pro', 'brand' => 'XiaoMi'),
     array('model' => 'lettuce', 'name' => 'Yuphoria (YU5010)', 'brand' => 'YU'),
     array('model' => 'ls970', 'name' => 'Optimus G (Sprint)', 'brand' => 'LG'),
     array('model' => 'ls980', 'name' => 'G2 (Sprint)', 'brand' => 'LG'),
