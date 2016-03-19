@@ -12,7 +12,9 @@
 * <font size=5 color=#999999>1、获取gerrit帐号</font>
 	* 进入[Mokee gerrit review](review.mfunz.com),右上角点击sign in，可使用github，gitcafe，google等帐号登陆![demo11](http://7xo4qi.com1.z0.glb.clouddn.com/demo11.tiff)
 	* 再点击右上角头像，settings，设置自己的username和email address![demo12](http://7xo4qi.com1.z0.glb.clouddn.com/demo12.tiff)
-* <font size=5 color=#999999>2、git配置</font>
+	* 找到左边最下面agreement![demo20](http://7xo4qi.com1.z0.glb.clouddn.com/20.tiff),进入New Contributor Agreement，选择Individual，拖到最下面，输入I AGREE，确定。即可获得推送权限
+<font size=5 color=#999999>
+2、git配置</font>
 
 	`git config --global user.name XXX`
 
@@ -32,6 +34,7 @@
   *	进入[review](review.mfunz.com),右上角打开settings，找到ssh public keys，点击添加（add key，将复制的内容复制进去，再点击add就添加成功啦。示例![demo10](http://7xo4qi.com1.z0.glb.clouddn.com/demo10.tiff)
 
 * <font size=5 color=#999999>4、执行git clone,将需要的代码库同步</font>
+
 	`git clone ssh://<username>@review.mfunz.com:29418/MoKee/android_external_mokee_ServerController && scp -p -P 29418 <username>@review.mfunz.com:hooks/commit-msg android_external_mokee_ServerController/.git/hooks/`
 >    username填写在review.mfunz.com上填写的username
 
@@ -65,7 +68,7 @@
 	* ①进入</font> <font color=#FF0000>*源码目录/external/mokee/ServerController*</font> 打开device.php（建议使用sublime，notepad++等)
 
 	* ②在$devices_info中找到自己机型的代号
->   'model'是机型代号 'name'是机型全称 下一步请使用'model'
+>   'model'是机型代号 'name'是机型全称 下一步请使用'model'的名称
 	![demo3](http://7xo4qi.com1.z0.glb.clouddn.com/demo3.jpg)
 
 	* ③在$hardware_info中更新自己的机型，代码规范如下
@@ -101,7 +104,9 @@
 	`git commit`
 	>修改内容说明，请使用英文
 
-* <font size=5 color=#999999>上传到服务器等待审核</font>	`git push ssh://<username>@review.mfunz.com:29418/MoKee/android_external_mokee_ServerController HEAD:refs/for/master`
+* <font size=5 color=#999999>上传到服务器等待审核</font>
+
+`git push ssh://<username>@review.mfunz.com:29418/MoKee/android_external_mokee_ServerController HEAD:refs/for/master`
 >    Username填写在review.mfunz.com上填写的username
 >    ![demo8](http://7xo4qi.com1.z0.glb.clouddn.com/demo8.tiff)
 
