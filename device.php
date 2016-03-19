@@ -255,7 +255,7 @@ $hardware_info = array(
                      'battery' => '3100 mAh',
                      'display' => '5.5 inch, 1280x720 pixel(267ppi)',
                      'cpuarch' => 'Arm'),
-    'ferrari' => array('cpu' => 'Qualcomm® Snapdragon™ 808',
+    'ferrari' => array('cpu' => 'Qualcomm® Snapdragon™ 615',
                      'ram' => '2GB of LP-DDR3',
                      'rom' => '16GB/64GB',
                      'battery' => '3080 mAh',
