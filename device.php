@@ -113,6 +113,7 @@ $devices_info = array(
     array('model' => 'lt013g', 'name' => 'Galaxy Tab3 8" T311', 'brand' => 'Samsung'),
     array('model' => 'lt01lte', 'name' => 'Galaxy Tab3 8" T315', 'brand' => 'Samsung'),
     array('model' => 'lt01wifi', 'name' => 'Galaxy Tab3 8" T310', 'brand' => 'Samsung'),
+    array('model' => 'lux', 'name' => 'Moto X Play', 'brand' => 'Motorola'),
     array('model' => 'm4', 'name' => 'One Mini', 'brand' => 'HTC'),
     array('model' => 'm7', 'name' => 'One (GSM)', 'brand' => 'HTC'),
     array('model' => 'm7spr', 'name' => 'One (Sprint)', 'brand' => 'HTC'),
