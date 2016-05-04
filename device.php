@@ -124,6 +124,7 @@ $devices_info = array(
     array('model' => 'mako', 'name' => 'Nexus 4', 'brand' => 'Google'),
     array('model' => 'maserati', 'name' => 'Droid 4', 'brand' => 'Motorola'),
     array('model' => 'mb886', 'name' => 'Atrix HD', 'brand' => 'Motorola'),
+    array('model' => 'mecdug', 'name' => 'One E8 (M8Sw/M8Sd)', 'brand' => 'HTC'),
     array('model' => 'mint', 'name' => 'Xperia T', 'brand' => 'Sony'),
     array('model' => 'mione_plus', 'name' => 'Mi-1/Mi-1s', 'brand' => 'XiaoMi'),
     array('model' => 'moto_msm8960', 'name' => 'Atrix HD/Razr M/Razr HD', 'brand' => 'Motorola'),
