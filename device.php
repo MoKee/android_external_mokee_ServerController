@@ -142,7 +142,7 @@ $devices_info = array(
     array('model' => 'nx505j', 'name' => 'Z7 Max', 'brand' => 'Nubia'),
     array('model' => 'nx507j', 'name' => 'Z7 Mini', 'brand' => 'Nubia'),
     array('model' => 'nx510j', 'name' => 'Z9 Max', 'brand' => 'Nubia'),
-    array('model' => 'nx511j', 'name' => 'Z9 Mini/Z9 Mini Elite(Marshmallow)', 'brand' => 'Nubia'),
+    array('model' => 'nx511j', 'name' => 'Z9 Mini/Z9 Mini Elite(Marshmallow Only)', 'brand' => 'Nubia'),
     array('model' => 'obake', 'name' => 'Droid Mini/Ultra/MAXX', 'brand' => 'Motorola'),
     array('model' => 'odin', 'name' => 'Xperia ZL', 'brand' => 'Sony'),
     array('model' => 'onyx', 'name' => 'X', 'brand' => 'OnePlus'),
