@@ -200,6 +200,7 @@ $devices_info = array(
     array('model' => 'ville', 'name' => 'One S', 'brand' => 'HTC'),
     array('model' => 'vs980', 'name' => 'G2 (Verizon)', 'brand' => 'LG'),
     array('model' => 'vs985', 'name' => 'G3 (Verizon)', 'brand' => 'LG'),
+    array('model' => 'wt88047', 'name' => 'RedMi 2', 'brand' => 'XiaoMi'),
     array('model' => 'x9180', 'name' => 'RedBull V5', 'brand' => 'ZTE'),
     array('model' => 'xt897', 'name' => 'Photon Q', 'brand' => 'Motorola'),
     array('model' => 'xt907', 'name' => 'Droid RAZR M', 'brand' => 'Motorola'),
