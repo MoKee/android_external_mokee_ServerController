@@ -166,6 +166,7 @@ $devices_info = array(
     array('model' => 'quark', 'name' => 'Moto MAXX', 'brand' => 'Motorola'),
     array('model' => 'r7plus', 'name' => 'R7 Plus', 'brand' => 'Oppo'),
     array('model' => 'r950', 'name' => 'Galaxy Note II (US Cellular)', 'brand' => 'Samsung'),
+    array('model' => 'sambar', 'name' => 'Yutopia', 'brand' => 'YU'),
     array('model' => 'sc03e', 'name' => 'Galaxy S III LTE (Japan)', 'brand' => 'Samsung'),
     array('model' => 'serrano3gxx', 'name' => 'Galaxy S4 Mini (3G)', 'brand' => 'Samsung'),
     array('model' => 'serranoltexx', 'name' => 'Galaxy S4 Mini (Intl)', 'brand' => 'Samsung'),
