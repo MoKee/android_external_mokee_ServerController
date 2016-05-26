@@ -581,7 +581,7 @@ $hardware_info = array(
                      'battery' => '3000 mAh',
                      'display' => '5.5 inch, 2560x1440 pixel(538ppi)',
                      'cpuarch' => 'Arm'),
-    ' wt88047' => array('cpu' => 'Qualcomm® Snapdragon™ 410',
+    'wt88047' => array('cpu' => 'Qualcomm® Snapdragon™ 410',
                      'ram' => '1GB/2GB',
                      'rom' => '8GB/16GB',
                      'battery' => '2200 mAh',
