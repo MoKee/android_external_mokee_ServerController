@@ -62,7 +62,7 @@ $devices_info = array(
     array('model' => 'grouper', 'name' => 'Nexus 7 (Wi-Fi)', 'brand' => 'Google'),
     array('model' => 'h811', 'name' => 'G4 (T-Mobile)', 'brand' => 'LG'),
     array('model' => 'h815', 'name' => 'G4 (Intl)', 'brand' => 'LG'),
-    array('model' => 'ham', 'name' => 'ZUK Z1', 'brand' => 'Zuk'),
+    array('model' => 'ham', 'name' => 'Z1', 'brand' => 'Zuk'),
     array('model' => 'hammerhead', 'name' => 'Nexus 5', 'brand' => 'Google'),
     array('model' => 'hammerheadcaf', 'name' => 'Nexus 5 CAF', 'brand' => 'Google'),
     array('model' => 'hiaeuhl', 'name' => 'One A9 (GSM Intl)', 'brand' => 'HTC'),
