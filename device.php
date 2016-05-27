@@ -166,6 +166,7 @@ $devices_info = array(
     array('model' => 'pisces', 'name' => 'Mi-3td', 'brand' => 'XiaoMi'),
     array('model' => 'pyramid', 'name' => 'Sensation', 'brand' => 'HTC'),
     array('model' => 'quark', 'name' => 'Moto MAXX', 'brand' => 'Motorola'),
+    array('model' => 'r5', 'name' => 'R5/R5s (Intl)', 'brand' => 'Oppo'),
     array('model' => 'r7plus', 'name' => 'R7 Plus', 'brand' => 'Oppo'),
     array('model' => 'r950', 'name' => 'Galaxy Note II (US Cellular)', 'brand' => 'Samsung'),
     array('model' => 'sambar', 'name' => 'Yutopia', 'brand' => 'YU'),
