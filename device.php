@@ -45,6 +45,7 @@ $devices_info = array(
     array('model' => 'endeavoru', 'name' => 'One X', 'brand' => 'HTC'),
     array('model' => 'enrc2b', 'name' => 'One X+', 'brand' => 'HTC'),
     array('model' => 'evita', 'name' => 'One XL', 'brand' => 'HTC'),
+    array('model' => 'f400', 'name' => 'G3 (Korea)', 'brand' => 'LG'),
     array('model' => 'f460', 'name' => 'G3 Cat.6(Korea)', 'brand' => 'LG'),
     array('model' => 'falcon', 'name' => 'Moto G (Unified)', 'brand' => 'Motorola'),
     array('model' => 'ferrari', 'name' => 'Mi-4i', 'brand' => 'XiaoMi'),
