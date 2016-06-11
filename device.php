@@ -282,7 +282,7 @@ $hardware_info = array(
                      'battery' => '3000 mAh',
                      'display' => '5.2 inch, 1920x1080 pixel(424ppi)',
                      'cpuarch' => 'Arm'),
-    'dior' => array('cpu' => 'Qualcomm® Snapdragon™ MSM8928',
+    'dior' => array('cpu' => 'Qualcomm® Snapdragon™ MSM8926',
                      'ram' => '2GB',
                      'rom' => '8GB',
                      'battery' => '3100 mAh',
