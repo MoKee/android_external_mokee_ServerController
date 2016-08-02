@@ -99,6 +99,7 @@ $devices_info = array(
     array('model' => 'jordanplus', 'name' => 'Defy / Defy Plus', 'brand' => 'Motorola'),
     array('model' => 'k3gduosctc', 'name' => 'Galaxy S5 (China Telecom 3G,SM-G9009D)', 'brand' => 'Samsung'),
     array('model' => 'kccat6', 'name' => 'Galaxy S5 Plus', 'brand' => 'Samsung'),
+    array('model' => 'kiwi', 'name' => 'Honor 5X', 'brand' => 'Huawei'),
     array('model' => 'klte', 'name' => 'Galaxy S5 (Intl,SM-G900F/M/T/S/L/K)', 'brand' => 'Samsung'),
     array('model' => 'kltechn', 'name' => 'Galaxy S5 (SM-G9006V,G9008V)', 'brand' => 'Samsung'),
     array('model' => 'kltechnduo', 'name' => 'Galaxy S5 (SM-G9006W,G9008W,G9009W)', 'brand' => 'Samsung'),
