@@ -281,7 +281,7 @@ $hardware_info = array(
                      'battery' => '2500 mAh',
                      'display' => '5.5 inch, 1280x720 pixel(267ppi)',
                      'cpuarch' => 'Arm'),
-    'd859' => array('cpu' => 'Qualcomm® Snapdragon™ 801',
+    'd857' => array('cpu' => 'Qualcomm® Snapdragon™ 801',
                      'ram' => '3GB',
                      'rom' => '32GB',
                      'battery' => '3000 mAh',
