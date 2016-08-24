@@ -6,6 +6,8 @@ $maintainers_info = array(
                      'url' => 'http://weibo.com/dianlujitao'),
     'cp8675' => array('name' => 'Flour_Mo',
                      'url' => 'http://weibo.com/2036597861'),
+    'gemini' => array('name' => 'xiaobai不会写shell',
+                     'url' => 'http://weibo.com/3138080394'),
     'kenzo' => array('name' => 'Flour_Mo',
                      'url' => 'http://weibo.com/2036597861'),
     'libra' => array('name' => 'xiaobai不会写shell',
