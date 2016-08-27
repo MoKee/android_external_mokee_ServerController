@@ -6,6 +6,8 @@ $maintainers_info = array(
                      'url' => 'http://weibo.com/dianlujitao'),
     'cp8675' => array('name' => 'Flour_Mo',
                      'url' => 'http://weibo.com/2036597861'),
+    'd857' => array('name' => '豆浆炒蛋',
+                     'url' => 'http://weibo.com/3921475456'),
     'f460' => array('name' => 'shminer',
                      'url' => 'http://weibo.com/JZshminer'),
     'gemini' => array('name' => 'xiaobai不会写shell',
