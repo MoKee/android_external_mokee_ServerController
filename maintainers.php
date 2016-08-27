@@ -24,4 +24,6 @@ $maintainers_info = array(
                      'url' => 'http://weibo.com/1311032140'),
     'z2pro' => array('name' => 'Flour_Mo',
                      'url' => 'http://weibo.com/2036597861'),
+    'dior' => array('name' => '子龙zj',
+                    'url' => 'http://weibo.com/zj502407679'),
 );
