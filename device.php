@@ -227,12 +227,6 @@ $devices_info = array(
 );
 
 $hardware_info = array(
-    'angler' => array('cpu' => 'Qualcomm® Snapdragon™ 810',
-                        'ram' => '3GB of LP-DDR4',
-                        'ROM' => '16GB/32GB/128GB',
-                        'battery' => '3450 mAh',
-                        'display' => '5.7 inch, 1440x2560 pixel(518ppi)',
-                        'cpuarch' => 'Arm 64')
     'aries' => array('cpu' => 'Qualcomm® Snapdragon™ APQ8064',
                      'ram' => '2GB of LP-DDR3',
                      'rom' => '16GB/64GB',
