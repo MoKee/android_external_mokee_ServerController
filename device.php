@@ -551,6 +551,12 @@ $hardware_info = array(
                      'battery' => '2390 mAh',
                      'display' => '4.5 inch, 540x960 pixel(245ppi)',
                      'cpuarch' => 'Arm'),
+    'pisces' => array('cpu' => 'NVIDIA Tegra 4',
+                     'ram' => '2GB',
+                     'rom' => '16GB/64GB',
+                     'battery' => '3050 mAh',
+                     'display' => '5.0 inch, 1920x1080 pixel(441ppi)',
+                     'cpuarch' => 'Arm'),
     'quark' => array('cpu' => 'Qualcomm® Snapdragon™ 805',
                      'ram' => '3GB',
                      'rom' => '64GB',
@@ -718,7 +724,7 @@ $hardware_info = array(
                      'rom' => '16GB',
                      'battery' => '3100 mAh',
                      'display' => '5.2 inch, 1920x1080 pixel(424ppi)',
-                     'cpuarch' => 'Arm'),
+                     'cpuarch' => 'Arm'),          
 );
 
 foreach ($devices_info as $k => $val) {
