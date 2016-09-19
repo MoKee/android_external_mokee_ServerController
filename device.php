@@ -221,6 +221,7 @@ $devices_info = array(
     array('model' => 'xt925', 'name' => 'Droid RAZR HD (GSM)', 'brand' => 'Motorola'),
     array('model' => 'xt926', 'name' => 'Droid RAZR HD (CDMA)', 'brand' => 'Motorola'),
     array('model' => 'yuga', 'name' => 'Xperia Z', 'brand' => 'Sony'),
+    array('model' => 'z00a', 'name' => 'Zenfone 2 (1080p)', 'brand' => 'Asus'),
     array('model' => 'z3', 'name' => 'Xperia Z3', 'brand' => 'Sony'),
     array('model' => 'z3c', 'name' => 'Xperia Z3 Compact', 'brand' => 'Sony'),
     array('model' => 'z3dual', 'name' => 'Xperia Z3 Dual', 'brand' => 'Sony'),
