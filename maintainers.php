@@ -26,6 +26,8 @@ $maintainers_info = array(
                      'url' => 'http://weibo.com/dianlujitao'),
     'onyx' => array('name' => '皓睿睡不着与皓睿起不来',
                      'url' => 'http://weibo.com/1311032140'),
+    'z2' => array('name' => 'Flour_Mo',
+                     'url' => 'http://weibo.com/2036597861'),
     'z2pro' => array('name' => 'Flour_Mo',
                      'url' => 'http://weibo.com/2036597861'),
 );
