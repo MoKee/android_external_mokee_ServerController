@@ -227,6 +227,7 @@ $devices_info = array(
     array('model' => 'z3', 'name' => 'Xperia Z3', 'brand' => 'Sony'),
     array('model' => 'z3c', 'name' => 'Xperia Z3 Compact', 'brand' => 'Sony'),
     array('model' => 'z3dual', 'name' => 'Xperia Z3 Dual', 'brand' => 'Sony'),
+    array('model' => 'zoom', 'name' => 'Lenovo Z90', 'brand' => 'Lenovo'),
 );
 
 $hardware_info = array(
@@ -739,7 +740,13 @@ $hardware_info = array(
                      'rom' => '16GB',
                      'battery' => '3100 mAh',
                      'display' => '5.2 inch, 1920x1080 pixel(424ppi)',
-                     'cpuarch' => 'Arm'),          
+                     'cpuarch' => 'Arm'),
+    'zoom' => array('cpu' => 'Qualcomm® Snapdragon™ 615',
+                     'ram' => '3GB',
+                     'rom' => '16GB/32GB',
+                     'battery' => '2900 mAh',
+                     'display' => '5.0 inch, 1920x1080 pixel(441ppi)',
+                     'cpuarch' => 'Arm'),
 );
 
 foreach ($devices_info as $k => $val) {
