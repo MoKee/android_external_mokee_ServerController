@@ -14,6 +14,8 @@ $maintainers_info = array(
                      'url' => 'http://weibo.com/JZshminer'),
     'gemini' => array('name' => 'xiaobai不会写shell',
                      'url' => 'http://weibo.com/3138080394'),
+    'hydrogen' => array('name' => 'zhaochengw',
+                     'url' => 'http://weibo.com/1649884475'),
     'kenzo' => array('name' => 'Flour_Mo',
                      'url' => 'http://weibo.com/2036597861'),
     'le_x2' => array('name' => 'zhaochengw',
