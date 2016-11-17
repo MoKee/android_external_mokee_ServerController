@@ -376,7 +376,7 @@ $hardware_info = array(
                      'battery' => '3000 mAh',
                      'display' => '5.0 inch, 1920x1080 pixel(441ppi)',
                      'cpuarch' => 'Arm'),
-    'hydrogen' => array('cpu' => 'Qualcomm® Snapdragon™ 652/650',
+    'hydrogen' => array('cpu' => 'Qualcomm® Snapdragon™ 650',
                      'ram' => '3GB/4GB',
                      'rom' => '32GB/64GB/128GB',
                      'battery' => '4850 mAh',
