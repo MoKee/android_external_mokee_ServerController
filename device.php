@@ -88,6 +88,7 @@ $devices_info = array(
     array('model' => 'i9300', 'name' => 'Galaxy S III (Intl)', 'brand' => 'Samsung'),
     array('model' => 'i9305', 'name' => 'Galaxy S III (GSM LTE)', 'brand' => 'Samsung'),
     array('model' => 'i9500', 'name' => 'Galaxy S4 (non-LTE)', 'brand' => 'Samsung'),
+    array('model' => 'ido', 'name' => 'Redmi 3/Prime', 'brand' => 'XiaoMi'),
     array('model' => 'jalebi', 'name' => 'Yunique', 'brand' => 'YU'),
     array('model' => 'jflte', 'name' => 'Galaxy S4', 'brand' => 'Samsung'),
     array('model' => 'jflteatt', 'name' => 'Galaxy S4 (AT&T)', 'brand' => 'Samsung'),
