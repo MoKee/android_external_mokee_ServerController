@@ -8,6 +8,7 @@ $devices_info = array(
     array('model' => 'angler', 'name' => 'Nexus 6P', 'brand' => 'Google'),
     array('model' => 'aries', 'name' => 'Mi-2/Mi-2s', 'brand' => 'XiaoMi'),
     array('model' => 'armani', 'name' => 'RedMi 1s (C/W)', 'brand' => 'XiaoMi'),
+    array('model' => 'athene', 'name' => 'Moto G4/G4 Plus', 'brand' => 'Motorola'),
     array('model' => 'bacon', 'name' => 'One', 'brand' => 'OnePlus'),
     array('model' => 'bullhead', 'name' => 'Nexus 5X', 'brand' => 'Google'),
     array('model' => 'cancro', 'name' => 'Mi-3w/Mi-4', 'brand' => 'XiaoMi'),
