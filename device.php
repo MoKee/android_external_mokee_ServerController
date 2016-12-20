@@ -174,6 +174,7 @@ $devices_info = array(
     array('model' => 'p760', 'name' => 'Optimus L9', 'brand' => 'LG'),
     array('model' => 'p880', 'name' => 'Optimus 4X HD', 'brand' => 'LG'),
     array('model' => 'p930', 'name' => 'Nitro HD / Optimus LTE', 'brand' => 'LG'),
+    array('model' => 'peach', 'name' => 'Benefit A3', 'brand' => 'ARK'),
     array('model' => 'peregrine', 'name' => 'Moto G LTE (Unified)', 'brand' => 'Motorola'),
     array('model' => 'pisces', 'name' => 'Mi-3td', 'brand' => 'XiaoMi'),
     array('model' => 'pyramid', 'name' => 'Sensation', 'brand' => 'HTC'),
