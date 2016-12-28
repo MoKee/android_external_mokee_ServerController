@@ -184,6 +184,7 @@ $devices_info = array(
     array('model' => 'r950', 'name' => 'Galaxy Note II (US Cellular)', 'brand' => 'Samsung'),
     array('model' => 'sambar', 'name' => 'Yutopia', 'brand' => 'YU'),
     array('model' => 'sc03e', 'name' => 'Galaxy S III LTE (Japan)', 'brand' => 'Samsung'),
+    array('model' => 'seed', 'name' => 'Android One 2nd gen', 'brand' => 'Google'),
     array('model' => 'serrano3gxx', 'name' => 'Galaxy S4 Mini (3G)', 'brand' => 'Samsung'),
     array('model' => 'serranoltexx', 'name' => 'Galaxy S4 Mini (Intl)', 'brand' => 'Samsung'),
     array('model' => 'shamu', 'name' => 'Nexus 6', 'brand' => 'Google'),
