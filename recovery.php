@@ -1,4 +1,4 @@
 <?php
 $recovery_info = array(
-    'nx531j' => 'http://teamw.in/Devices',
+    'nx531j' => 'https://www.androidfilehost.com/?w=files&flid=125093',
 );
