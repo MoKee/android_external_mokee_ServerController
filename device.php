@@ -63,6 +63,7 @@ $devices_info = array(
     array('model' => 'galaxysmtd', 'name' => 'Galaxy S', 'brand' => 'Samsung'),
     array('model' => 'gemini', 'name' => 'Mi-5', 'brand' => 'XiaoMi'),
     array('model' => 'ghost', 'name' => 'Moto X (Unified)', 'brand' => 'Motorola'),
+    array('model' => 'griffin', 'name' => 'Moto Z 2016 (Unified)', 'brand' => 'Motorola'),
     array('model' => 'grouper', 'name' => 'Nexus 7 (Wi-Fi)', 'brand' => 'Google'),
     array('model' => 'h811', 'name' => 'G4 (T-Mobile)', 'brand' => 'LG'),
     array('model' => 'h815', 'name' => 'G4 (Intl)', 'brand' => 'LG'),
