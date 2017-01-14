@@ -16,6 +16,8 @@ $maintainers_info = array(
                      'url' => 'https://github.com/8890dev'),
     'hero2lte' => array('name' => '8890dev Organization',
                      'url' => 'https://github.com/8890dev'),
+    'k3gxx' => array('name' => 'Afshin Arani',
+                     'url' => 'https://github.com/aarani'),
     'hydrogen' => array('name' => 'zhaochengw',
                      'url' => 'http://weibo.com/1649884475'),
     'le_x2' => array('name' => 'zhaochengw',
