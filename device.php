@@ -70,6 +70,7 @@ $devices_info = array(
     array('model' => 'ham', 'name' => 'Z1', 'brand' => 'Zuk'),
     array('model' => 'hammerhead', 'name' => 'Nexus 5', 'brand' => 'Google'),
     array('model' => 'hammerheadcaf', 'name' => 'Nexus 5 CAF', 'brand' => 'Google'),
+    array('model' => 'hayabusa', 'name' => 'Xperia TX', 'brand' => 'Sony'),
     array('model' => 'herolte', 'name' => 'Galaxy S7 Flat', 'brand' => 'Samsung'),
     array('model' => 'hero2lte', 'name' => 'Galaxy S7 Edge', 'brand' => 'Samsung'),
     array('model' => 'hiaeuhl', 'name' => 'One A9 (GSM Intl)', 'brand' => 'HTC'),
