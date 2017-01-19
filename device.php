@@ -195,6 +195,7 @@ $devices_info = array(
     array('model' => 'seed', 'name' => 'Android One 2nd gen', 'brand' => 'Google'),
     array('model' => 'serrano3gxx', 'name' => 'Galaxy S4 Mini (3G)', 'brand' => 'Samsung'),
     array('model' => 'serranoltexx', 'name' => 'Galaxy S4 Mini (Intl)', 'brand' => 'Samsung'),
+    array('model' => 'shamrock', 'name' => 'Android One 3rd gen', 'brand' => 'Google'),
     array('model' => 'shamu', 'name' => 'Nexus 6', 'brand' => 'Google'),
     array('model' => 'sirius', 'name' => 'Xperia Z2', 'brand' => 'Sony'),
     array('model' => 'skyrocket', 'name' => 'Galaxy S II Skyrocket', 'brand' => 'Samsung'),
