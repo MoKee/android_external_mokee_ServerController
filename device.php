@@ -113,6 +113,7 @@ $devices_info = array(
     array('model' => 'klteduos', 'name' => 'Galaxy S5 (SM-G900FD Dual SIM)', 'brand' => 'Samsung'),
     array('model' => 'kltedv', 'name' => 'Galaxy S5 (Vodafone,SM-G900I)', 'brand' => 'Samsung'),
     array('model' => 'kltekdi', 'name' => 'Galaxy S5 au (Japan SCL23,SC04F)', 'brand' => 'Samsung'),
+    array('model' => 'kltekor', 'name' => 'Galaxy S5 (Korea)', 'brand' => 'Samsung'),
     array('model' => 'kltespr', 'name' => 'Galaxy S5 (Sprint G900P)', 'brand' => 'Samsung'),
     array('model' => 'klteusc', 'name' => 'Galaxy S5 (US Cellular,SM-G900R4/6/7)', 'brand' => 'Samsung'),
     array('model' => 'kltevzw', 'name' => 'Galaxy S5 (Verizon,SM-G900V)', 'brand' => 'Samsung'),
