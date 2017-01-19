@@ -17,7 +17,6 @@ $devices_info = array(
     array('model' => 'clark', 'name' => 'Moto X Style', 'brand' => 'Motorola'),
     array('model' => 'condor', 'name' => 'Moto E', 'brand' => 'Motorola'),
     array('model' => 'crespo', 'name' => 'Nexus S', 'brand' => 'Google'),
-    array('model' => 'c8817d', 'name' => 'Honor 4/4X (Kitkat)', 'brand' => 'Huawei'),
     array('model' => 'che10', 'name' => 'Honor 4X (China Telecom)', 'brand' => 'Huawei'),
     array('model' => 'cherry', 'name' => 'Honor 4/4X', 'brand' => 'Huawei'),
     array('model' => 'chm_cl00', 'name' => 'Honor 4C/P8 Lite (ChinaTelecom)', 'brand' => 'Huawei'),

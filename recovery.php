@@ -7,4 +7,5 @@ $recovery_info = array(
     'k3gxx' => 'https://www.androidfilehost.com/?fid=24459283995296044',
     'nx523j' => 'http://bbs.nubia.cn/thread-680629-1-1.html',
     'nx531j' => 'https://www.androidfilehost.com/?w=files&flid=125093',
+    'oneplus3' => 'https://www.androidfilehost.com/?fid=745425885120700618',
 );
