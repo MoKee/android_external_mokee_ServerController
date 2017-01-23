@@ -766,6 +766,14 @@ $hardware_info = array(
                      'battery' => '2200 mAh',
                      'display' => '4.7 inch, 1280x720 pixel(312ppi)',
                      'cpuarch' => 'Arm'),
+    
+     'Yunique' => array('cpu' => 'Qualcomm® Snapdragon™ 410',
+                     'ram' => '1GB/2GB',
+                     'rom' => '8GB',
+                     'battery' => '2200 mAh',
+                     'display' => '4.7 inch, 1280x720 pixel(312ppi)',
+                     'cpuarch' => 'Arm'),
+    
     'kenzo' => array('cpu' => 'Qualcomm® Snapdragon™ 650',
                      'ram' => '2G/3GB',
                      'rom' => '16G/32GB',
