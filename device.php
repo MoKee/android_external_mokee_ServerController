@@ -205,7 +205,7 @@ $devices_info = array(
     array('model' => 'sprout4', 'name' => 'Android One (4GB)', 'brand' => 'Google'),
     array('model' => 'sprout8', 'name' => 'Android One (8GB)', 'brand' => 'Google'),
     array('model' => 'spyder', 'name' => 'Droid Razr/Razr MAXX (CDMA)', 'brand' => 'Motorola'),
-    array('model' => 'sumire', 'name' => 'Sony Xperia Z5 Dual', 'brand' => 'Sony'),
+    array('model' => 'sumire', 'name' => 'Xperia Z5 Dual', 'brand' => 'Sony'),
     array('model' => 'superior', 'name' => 'Galaxy Premier (WCDMA)', 'brand' => 'Samsung'),
     array('model' => 'superiorcmcc', 'name' => 'Galaxy Premier (TD-SCDMA)', 'brand' => 'Samsung'),
     array('model' => 'surnia', 'name' => 'Moto E LTE (2015)', 'brand' => 'Motorola'),
