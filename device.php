@@ -57,6 +57,7 @@ $devices_info = array(
     array('model' => 'flo', 'name' => 'Nexus 7 2013 (Wi-Fi)', 'brand' => 'Google'),
     array('model' => 'flounder', 'name' => 'Nexus 9 (Wi-Fi)', 'brand' => 'Google'),
     array('model' => 'flounder_lte', 'name' => 'Nexus 9 (LTE)', 'brand' => 'Google'),
+    array('model' => 'g2m', 'name' => 'G2 Mini', 'brand' => 'LG'),
     array('model' => 'g620_a2', 'name' => 'G620-A2', 'brand' => 'Huawei'),
     array('model' => 'g750c', 'name' => 'B199', 'brand' => 'Huawei'),
     array('model' => 'g760l', 'name' => 'C199', 'brand' => 'Huawei'),
