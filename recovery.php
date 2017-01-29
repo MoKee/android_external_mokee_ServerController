@@ -2,6 +2,7 @@
 $recovery_info = array(
     'che10' => 'https://www.androidfilehost.com/?fid=673368273298920883',
     'cherry' => 'https://www.androidfilehost.com/?fid=673368273298920883',
+    'd857' => 'https://www.androidfilehost.com/?fid=457095661767128791',
     'gemini' => 'http://teamw.in/devices/xiaomimi5.html',
     'herolte' => 'http://teamw.in/devices/samsunggalaxys7.html',
     'hero2lte' => 'http://teamw.in/devices/samsunggalaxys7edge.html',
