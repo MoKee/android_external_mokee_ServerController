@@ -38,6 +38,8 @@ $maintainers_info = array(
                      'url' => 'http://weibo.com/1311032140'),
     'peach' => array('name' => 'lolmaxlik',
                      'url' => 'https://plus.google.com/u/0/117066718532703598783'),
+    'satsuki' => array('name' => 'parhelia',
+                     'url' => 'http://weibo.com/parheliamm'),
     'sumire' => array('name' => 'parhelia',
                      'url' => 'http://weibo.com/parheliamm'),
     'z2' => array('name' => 'Flour_Mo',
