@@ -201,6 +201,7 @@ $devices_info = array(
     array('model' => 'r5', 'name' => 'R5/R5s (Intl)', 'brand' => 'Oppo'),
     array('model' => 'r7plus', 'name' => 'R7 Plus', 'brand' => 'Oppo'),
     array('model' => 'r950', 'name' => 'Galaxy Note II (US Cellular)', 'brand' => 'Samsung'),
+    array('model' => 's2', 'name' => 'Le 2', 'brand' => 'LeEco'),
     array('model' => 'sailfish', 'name' => 'Pixel', 'brand' => 'Google'),
     array('model' => 'sambar', 'name' => 'Yutopia', 'brand' => 'YU'),
     array('model' => 'satsuki', 'name' => 'Xperia Z5 Premium Dual', 'brand' => 'Sony'),
