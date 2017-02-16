@@ -195,6 +195,7 @@ $devices_info = array(
     array('model' => 'peach', 'name' => 'Benefit A3', 'brand' => 'ARK'),
     array('model' => 'peregrine', 'name' => 'Moto G LTE (Unified)', 'brand' => 'Motorola'),
     array('model' => 'pisces', 'name' => 'Mi-3td', 'brand' => 'XiaoMi'),
+    array('model' => 'pme', 'name' => '10', 'brand' => 'HTC'),
     array('model' => 'pyramid', 'name' => 'Sensation', 'brand' => 'HTC'),
     array('model' => 'quark', 'name' => 'Moto MAXX', 'brand' => 'Motorola'),
     array('model' => 'r5', 'name' => 'R5/R5s (Intl)', 'brand' => 'Oppo'),
