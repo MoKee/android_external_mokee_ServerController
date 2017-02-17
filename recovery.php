@@ -12,4 +12,5 @@ $recovery_info = array(
     'nx531j' => 'https://www.androidfilehost.com/?w=files&flid=125093',
     'oneplus3' => 'https://www.androidfilehost.com/?fid=745425885120700618',
     'sumire' => 'https://pan.baidu.com/s/1dEDaIuH',
+    'satsuki' => 'https://pan.baidu.com/s/1nuTG1rr',
 );
