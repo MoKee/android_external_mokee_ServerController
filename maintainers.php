@@ -26,6 +26,8 @@ $maintainers_info = array(
                      'url' => 'http://weibo.com/1649884475'),
     'libra' => array('name' => 'xiaobai不会写shell',
                      'url' => 'http://weibo.com/3138080394'),
+    'nx510j' => array('name' => 'zhaochengw',
+                     'url' => 'http://weibo.com/1649884475'),
     'nx523j' => array('name' => 'zhaochengw',
                      'url' => 'http://weibo.com/1649884475'),
     'nx529j' => array('name' => 'S___Y__',
