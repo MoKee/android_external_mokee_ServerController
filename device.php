@@ -245,6 +245,7 @@ $devices_info = array(
     array('model' => 'vs980', 'name' => 'G2 (Verizon)', 'brand' => 'LG'),
     array('model' => 'vs985', 'name' => 'G3 (Verizon)', 'brand' => 'LG'),
     array('model' => 'w5', 'name' => 'Optimus L70', 'brand' => 'LG'),
+    array('model' => 'wt86528', 'name' => 'K31/A6010', 'brand' => 'Lenovo'),
     array('model' => 'wt88047', 'name' => 'RedMi 2', 'brand' => 'XiaoMi'),
     array('model' => 'kenzo', 'name' => 'Redmi Note 3', 'brand' => 'XiaoMi'),
     array('model' => 'x9180', 'name' => 'RedBull V5', 'brand' => 'ZTE'),
