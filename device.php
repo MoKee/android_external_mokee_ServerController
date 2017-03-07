@@ -3,7 +3,7 @@
 // device fullname for mokee download web site
 $devices_info = array(
     array('model' => 'a5dwg', 'name' => 'Desire 816', 'brand' => 'HTC'),
-    array('model' => 'a6000', 'name' => 'A6000', 'brand' => 'Lenovo'),
+    array('model' => 'a6000', 'name' => 'K30-T/A6000', 'brand' => 'Lenovo'),
     array('model' => 'ace', 'name' => 'Desire HD (G10)', 'brand' => 'HTC'),
     array('model' => 'amami', 'name' => 'Xperia Z1 Compact', 'brand' => 'Sony'),
     array('model' => 'angler', 'name' => 'Nexus 6P', 'brand' => 'Google'),
