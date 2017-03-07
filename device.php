@@ -269,6 +269,12 @@ $devices_info = array(
 );
 
 $hardware_info = array(
+    'a6000' => array('cpu' => 'Qualcomm® Snapdragon™ 410',
+                     'ram' => '1/2GB',
+                     'rom' => '8GB/16GB',
+                     'battery' => '2300 mAh',
+                     'display' => '5.0 inch, 1280x720 pixel(312ppi)',
+                     'cpuarch' => 'ARM'),
     'angler' => array('cpu' => 'Qualcomm® Snapdragon™ 810',
                         'ram' => '3GB of LP-DDR4',
                         'ROM' => '16GB/32GB/128GB',
@@ -843,6 +849,12 @@ $hardware_info = array(
                      'rom' => '16GB/32GB',
                      'battery' => '3000 mAh',
                      'display' => '5.5 inch, 2560x1440 pixel(538ppi)',
+                     'cpuarch' => 'ARM'),
+    'wt86528' => array('cpu' => 'Qualcomm® Snapdragon™ 410',
+                     'ram' => '1/2GB',
+                     'rom' => '8GB/16GB',
+                     'battery' => '2300 mAh',
+                     'display' => '5.0 inch, 1280x720 pixel(312ppi)',
                      'cpuarch' => 'ARM'),
     'wt88047' => array('cpu' => 'Qualcomm® Snapdragon™ 410',
                      'ram' => '1GB/2GB',
