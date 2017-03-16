@@ -1,5 +1,7 @@
 <?php
 $maintainers_info = array(
+    'capricorn' => array('name' => 'xiaobai不会写shell',
+                     'url' => 'http://weibo.com/3138080394'),
     'che10' => array('name' => 'dianlujitao',
                      'url' => 'http://weibo.com/dianlujitao'),
     'cherry' => array('name' => 'dianlujitao',
