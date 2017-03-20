@@ -26,6 +26,8 @@ $maintainers_info = array(
                      'url' => 'https://github.com/aarani'),
     'le_x2' => array('name' => 'zhaochengw',
                      'url' => 'http://weibo.com/1649884475'),
+    'leo' => array('name' => '乖奕虎',
+                     'url' => 'http://weibo.com/guaiyihu'),
     'libra' => array('name' => 'xiaobai不会写shell',
                      'url' => 'http://weibo.com/3138080394'),
     'nx510j' => array('name' => 'zhaochengw',
