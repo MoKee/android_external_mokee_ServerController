@@ -151,6 +151,7 @@ $devices_info = array(
     array('model' => 'mb886', 'name' => 'Atrix HD', 'brand' => 'Motorola'),
     array('model' => 'mecdug', 'name' => 'One E8 (M8Sw/M8Sd)', 'brand' => 'HTC'),
     array('model' => 'merlin', 'name' => 'Moto G3 Turbo', 'brand' => 'Motorola'),
+    array('model' => 'mido', 'name' => 'Redmi Note 4 & 4x', 'brand' => 'XiaoMi'),
     array('model' => 'mint', 'name' => 'Xperia T', 'brand' => 'Sony'),
     array('model' => 'moto_msm8960', 'name' => 'Atrix HD/Razr M/Razr HD', 'brand' => 'Motorola'),
     array('model' => 'moto_msm8960_jbbl', 'name' => 'Atrix HD/Razr M/Razr HD', 'brand' => 'Motorola'),
