@@ -602,6 +602,13 @@ $hardware_info = array(
                      'battery' => '2100 mAh',
                      'display' => '4.7 inch, 1280x768 pixel(317.6ppi)',
                      'cpuarch' => 'ARM'),
+    'merlin' => array('cpu' => 'Qualcomm® Snapdragon™ 615',
+                     'ram' => '2GB',
+                     'rom' => '16GB',
+                     'battery' => '2470 mAh',
+                     'display' => '5 inch, 1280x720 pixel(294ppi)',
+                     'cpuarch' => 'ARM'),
+
     'nicki' => array('cpu' => 'Qualcomm® Snapdragon™ S4 Plus MSM8227',
                      'ram' => '1GB',
                      'rom' => '4GB',
