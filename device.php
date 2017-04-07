@@ -127,7 +127,7 @@ $devices_info = array(
     array('model' => 'l01f', 'name' => 'G2 (Japan)', 'brand' => 'LG'),
     array('model' => 'l55t', 'name' => 'Xperia Z3 (TD-LTE)', 'brand' => 'Sony'),
     array('model' => 'l900', 'name' => 'Galaxy Note II (Sprint)', 'brand' => 'Samsung'),
-    array('model' => 'le_x2', 'name' => 'Max2 (Le X820)', 'brand' => 'LeEco'),
+    array('model' => 'le_x2', 'name' => 'Max 2 (Le X820)', 'brand' => 'LeEco'),
     array('model' => 'lentislte', 'name' => 'Galaxy S5 LTE-A', 'brand' => 'Samsung'),
     array('model' => 'leo', 'name' => 'Note Pro', 'brand' => 'XiaoMi'),
     array('model' => 'lettuce', 'name' => 'Yuphoria (YU5010)', 'brand' => 'YU'),
@@ -257,6 +257,7 @@ $devices_info = array(
     array('model' => 'z3', 'name' => 'Xperia Z3', 'brand' => 'Sony'),
     array('model' => 'z3c', 'name' => 'Xperia Z3 Compact', 'brand' => 'Sony'),
     array('model' => 'z3dual', 'name' => 'Xperia Z3 Dual', 'brand' => 'Sony'),
+    array('model' => 'zl1', 'name' => 'Le Pro 3', 'brand' => 'LeEco'),
     array('model' => 'zoom', 'name' => 'Lenovo Z90', 'brand' => 'Lenovo'),
 );
 
