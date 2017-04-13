@@ -5,6 +5,7 @@ $devices_info = array(
     array('model' => 'a5dwg', 'name' => 'Desire 816', 'brand' => 'HTC'),
     array('model' => 'a6000', 'name' => 'K30-T', 'brand' => 'Lenovo'),
     array('model' => 'a6020', 'name' => 'Vibe K5/K5 Plus', 'brand' => 'Lenovo'),
+    array('model' => 'addison', 'name' => 'Moto Z Play', 'brand' => 'Motorola'),
     array('model' => 'amami', 'name' => 'Xperia Z1 Compact', 'brand' => 'Sony'),
     array('model' => 'angler', 'name' => 'Nexus 6P', 'brand' => 'Google'),
     array('model' => 'armani', 'name' => 'RedMi 1s (C/W)', 'brand' => 'XiaoMi'),
