@@ -259,7 +259,7 @@ $devices_info = array(
     array('model' => 'z3', 'name' => 'Xperia Z3', 'brand' => 'Sony'),
     array('model' => 'z3c', 'name' => 'Xperia Z3 Compact', 'brand' => 'Sony'),
     array('model' => 'z3dual', 'name' => 'Xperia Z3 Dual', 'brand' => 'Sony'),
-    array('model' => 'zl1', 'name' => 'Le Pro 3', 'brand' => 'LeEco'),
+    array('model' => 'zl1', 'name' => 'Le Pro3', 'brand' => 'LeEco'),
     array('model' => 'zoom', 'name' => 'Lenovo Z90', 'brand' => 'Lenovo'),
 );
 
@@ -935,6 +935,12 @@ $hardware_info = array(
                      'battery' => '3100 mAh',
                      'display' => '5.2 inch, 1920x1080 pixel(424ppi)',
                      'cpuarch' => 'ARM'),
+    'zl1' => array('cpu' => 'Qualcomm® Snapdragon™ 821',
+                     'ram' => '4GB/6GB',
+                     'rom' => '32GB/64GB/128GB',
+                     'battery' => '4070 mAh',
+                     'display' => '5.5 inch, 1920x1080 pixel(403ppi)',
+                     'cpuarch' => 'Arm64'),
     'zoom' => array('cpu' => 'Qualcomm® Snapdragon™ 615',
                      'ram' => '3GB',
                      'rom' => '16GB/32GB',
