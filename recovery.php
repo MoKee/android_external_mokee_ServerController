@@ -16,4 +16,5 @@ $recovery_info = array(
     'satsuki' => 'https://pan.baidu.com/s/1nuTG1rr',
     'sumire' => 'https://pan.baidu.com/s/1dEDaIuH',
     'x3' => 'http://club.lenovo.com.cn/thread-1848159-1-1.html',
+    'zl1' => 'https://eyun.baidu.com/s/3nvpys6t',
 );
