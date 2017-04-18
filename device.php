@@ -142,7 +142,6 @@ $devices_info = array(
     array('model' => 'lux', 'name' => 'Moto X Play', 'brand' => 'Motorola'),
     array('model' => 'm4', 'name' => 'One Mini', 'brand' => 'HTC'),
     array('model' => 'm7', 'name' => 'One (GSM)', 'brand' => 'HTC'),
-    array('model' => 'm7spr', 'name' => 'One (Sprint)', 'brand' => 'HTC'),
     array('model' => 'm7vzw', 'name' => 'One (Verizon)', 'brand' => 'HTC'),
     array('model' => 'm8', 'name' => 'One 2014', 'brand' => 'HTC'),
     array('model' => 'm8d', 'name' => 'One 2014 Dual SIM', 'brand' => 'HTC'),
