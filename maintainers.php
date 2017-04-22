@@ -21,9 +21,9 @@ $maintainers_info = array(
     'hero2lte' => array('name' => '8890dev Organization',
                      'url' => 'https://github.com/8890dev'),
     'hydrogen' => array('name' => 'zhaochengw',
-                     'url' => 'http://weibo.com/1649884475')
+                     'url' => 'http://weibo.com/1649884475'),
     'ido' => array('name' => 'EsromG5',
-                     'url' => 'http://github.com/EsromG5')
+                     'url' => 'http://github.com/EsromG5'),
     'j5ltexx' => array('name' => 'EsromG5',
                      'url' => 'http://github.com/EsromG5'),
     'j5nltexx' => array('name' => 'EsromG5',
