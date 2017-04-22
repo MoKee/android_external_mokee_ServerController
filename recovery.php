@@ -6,6 +6,8 @@ $recovery_info = array(
     'gemini' => 'http://teamw.in/devices/xiaomimi5.html',
     'herolte' => 'http://teamw.in/devices/samsunggalaxys7.html',
     'hero2lte' => 'http://teamw.in/devices/samsunggalaxys7edge.html',
+    'j5ltexx' => 'https://www.androidfilehost.com/?w=files&flid=56318',
+    'j5nltexx' => 'https://www.androidfilehost.com/?w=files&flid=56315',
     'k3gxx' => 'https://www.androidfilehost.com/?fid=24459283995296044',
     'leo' => 'https://pan.baidu.com/s/1eSDXDVc',
     'nx523j' => 'http://bbs.nubia.cn/thread-680629-1-1.html',
