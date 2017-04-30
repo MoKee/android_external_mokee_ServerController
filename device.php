@@ -19,6 +19,7 @@ $devices_info = array(
     array('model' => 'castor_windy', 'name' => 'Xperia Z2 Tablet WiFi', 'brand' => 'Sony'),
     array('model' => 'clark', 'name' => 'Moto X Style', 'brand' => 'Motorola'),
     array('model' => 'condor', 'name' => 'Moto E', 'brand' => 'Motorola'),
+    array('model' => 'crackling', 'name' => 'Swift', 'brand' => 'Wileyfox'),
     array('model' => 'che10', 'name' => 'Honor 4X (China Telecom)', 'brand' => 'Huawei'),
     array('model' => 'cherry', 'name' => 'Honor 4/4X', 'brand' => 'Huawei'),
     array('model' => 'chm_cl00', 'name' => 'Honor 4C/P8 Lite (ChinaTelecom)', 'brand' => 'Huawei'),
