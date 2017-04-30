@@ -66,4 +66,6 @@ $maintainers_info = array(
                      'url' => 'http://weibo.com/2036597861'),
     'zoom' => array('name' => 'Flour_Mo',
                      'url' => 'http://weibo.com/2036597861'),
+    'K50a40' => array('name' => 'Ninad Patil (PixlernBlitz)',
+                     'url' => 'http://github.com/PainKiller3'),
 );
