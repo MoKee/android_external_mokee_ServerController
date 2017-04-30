@@ -72,6 +72,7 @@ $devices_info = array(
     array('model' => 'h815', 'name' => 'G4 (Intl)', 'brand' => 'LG'),
     array('model' => 'h830', 'name' => 'G5 (T-Mobile)', 'brand' => 'LG'),
     array('model' => 'h850', 'name' => 'G5 (Intl)', 'brand' => 'LG'),
+    array('model' => 'ha3g', 'name' => 'Galaxy Note 3 (SM-N900)', 'brand' => 'Samsung'),
     array('model' => 'ham', 'name' => 'Z1', 'brand' => 'Zuk'),
     array('model' => 'hammerhead', 'name' => 'Nexus 5', 'brand' => 'Google'),
     array('model' => 'hammerheadcaf', 'name' => 'Nexus 5 CAF', 'brand' => 'Google'),
