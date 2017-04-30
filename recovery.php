@@ -19,4 +19,5 @@ $recovery_info = array(
     'sumire' => 'https://pan.baidu.com/s/1dEDaIuH',
     'x3' => 'http://club.lenovo.com.cn/thread-1848159-1-1.html',
     'zl1' => 'https://eyun.baidu.com/s/3nvpys6t',
+    'k50a40' => 'https://mega.nz/#!Ek8RWLJY!JFKBJkjaUq3Jq2QO4RlwYXPzNjjj86hfGxPvqmuFF7w',
 );
