@@ -235,6 +235,7 @@ $devices_info = array(
     array('model' => 'z3dual', 'name' => 'Xperia Z3 Dual', 'brand' => 'Sony'),
     array('model' => 'zl1', 'name' => 'Le Pro 3', 'brand' => 'LeEco'),
     array('model' => 'zoom', 'name' => 'Lenovo Z90', 'brand' => 'Lenovo'),
+    array('model  => 'n5100', 'name' => 'Galaxy Note 8.0', 'brand' => 'Samsung'),
 );
 
 $hardware_info = array(
@@ -938,6 +939,12 @@ $hardware_info = array(
                      'rom' => '16GB/32GB',
                      'battery' => '2900 mAh',
                      'display' => '5.0 inch, 1920x1080 pixel(441ppi)',
+                     'cpuarch' => 'ARM'),
+    'n5110' => array('cpu' => 'Samsung Exynos 4412',
+                     'ram' => '2GB',
+                     'rom' => '16GB/32GB',
+                     'battery' => '4600 mAh',
+                     'display' => '8.0 inch, 1280x800 pixel',
                      'cpuarch' => 'ARM'),
 );
 
