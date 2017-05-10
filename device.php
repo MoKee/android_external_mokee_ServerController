@@ -304,6 +304,12 @@ $hardware_info = array(
                      'battery' => '3000 mAh',
                      'display' => '5.7 inch, 2560x1440 pixel(515ppi)',
                      'cpuarch' => 'ARM'),
+    'condor' => array('cpu' => 'Qualcomm® Snapdragon™ 200'
+                     'ram' => '1GB',
+                     'rom' => '4GB',
+                     'battery' => '1980 mAh',
+                     'display' => '4.3 inch, 540x960 pixel(256ppi)',
+                     'cpuarch' => 'ARM'),
     'cp8675' => array('cpu' => 'Qualcomm® Snapdragon™ 615',
                      'ram' => '2GB',
                      'rom' => '16GB',
