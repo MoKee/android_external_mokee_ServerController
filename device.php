@@ -129,6 +129,7 @@ $devices_info = array(
     array('model' => 'leo', 'name' => 'Note Pro', 'brand' => 'XiaoMi'),
     array('model' => 'lettuce', 'name' => 'Yuphoria (YU5010)', 'brand' => 'YU'),
     array('model' => 'libra', 'name' => 'Mi-4c', 'brand' => 'XiaoMi'),
+    array('model' => 'lithium', 'name' => 'Mi Mix', 'brand' => 'XiaoMi'),
     array('model' => 'ls980', 'name' => 'G2 (Sprint)', 'brand' => 'LG'),
     array('model' => 'ls990', 'name' => 'G3 (Sprint)', 'brand' => 'LG'),
     array('model' => 'lux', 'name' => 'Moto X Play', 'brand' => 'Motorola'),
