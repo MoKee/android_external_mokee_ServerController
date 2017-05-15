@@ -17,6 +17,7 @@ $recovery_info = array(
     'oneplus3' => 'https://www.androidfilehost.com/?fid=745425885120700618',
     'satsuki' => 'https://pan.baidu.com/s/1nuTG1rr',
     'sumire' => 'https://pan.baidu.com/s/1dEDaIuH',
+    'virgo' => 'https://pan.baidu.com/s/1pKIROnx',
     'x3' => 'http://club.lenovo.com.cn/thread-1848159-1-1.html',
     'zl1' => 'https://eyun.baidu.com/s/3nvpys6t',
 );
