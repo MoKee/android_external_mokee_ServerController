@@ -138,6 +138,7 @@ $devices_info = array(
     array('model' => 'm8', 'name' => 'One 2014', 'brand' => 'HTC'),
     array('model' => 'm8d', 'name' => 'One 2014 Dual SIM', 'brand' => 'HTC'),
     array('model' => 'mako', 'name' => 'Nexus 4', 'brand' => 'Google'),
+    array('model' => 'markw', 'name' => 'Redmi 4 Prime', 'brand' => 'XiaoMi'),
     array('model' => 'marlin', 'name' => 'Pixel XL', 'brand' => 'Google'),
     array('model' => 'maserati', 'name' => 'Droid 4', 'brand' => 'Motorola'),
     array('model' => 'mb886', 'name' => 'Atrix HD', 'brand' => 'Motorola'),
