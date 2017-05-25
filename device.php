@@ -983,7 +983,13 @@ $hardware_info = array(
                      'rom' => '16GB/32GB',
                      'battery' => '2900 mAh',
                      'display' => '5.0 inch, 1920x1080 pixel(441ppi)',
-                     'cpuarch' => 'ARM'),
+                     'cpuarch' => 'ARM'),    
+    'natrium' => array('cpu' => 'Qualcomm® Snapdragon™ 821',
+                     'ram' => '6GB of LP-DDR4',
+                     'rom' => '128GB',
+                     'battery' => '3800 mAh',
+                     'display' => '5.7 inch, 1920x1080 pixel(386ppi)',
+                     'cpuarch' => 'ARM64'),
 );
 
 foreach ($devices_info as $k => $val) {
