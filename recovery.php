@@ -18,6 +18,6 @@ $recovery_info = array(
     'satsuki' => 'https://pan.baidu.com/s/1nuTG1rr',
     'sumire' => 'https://pan.baidu.com/s/1dEDaIuH',
     'virgo' => 'https://pan.baidu.com/s/1pKIROnx',
-    'x3' => 'http://club.lenovo.com.cn/thread-1848159-1-1.html',
+    'x3' => 'https://forum.xda-developers.com/android/development/recovery-twrp-3-0-2-0-touch-recovery-t3469491',
     'zl1' => 'https://eyun.baidu.com/s/3nvpys6t',
 );
