@@ -1003,6 +1003,12 @@ $hardware_info = array(
                      'battery' => '2900 mAh',
                      'display' => '5.0 inch, 1920x1080 pixel(441ppi)',
                      'cpuarch' => 'ARM'),
+    'kiwi' => array('cpu' => 'Qualcomm® Snapdragon™ 615',
+                     'ram' => '2GB/3GB of LP-DDR4',
+                     'rom' => '16GB/32GB',
+                     'battery' => '3000 mAh',
+                     'display' => '5.5 inch, 1920x1080 pixel(403ppi)',
+                     'cpuarch' => 'ARM64'),
 );
 
 foreach ($devices_info as $k => $val) {
