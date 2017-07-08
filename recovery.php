@@ -1,7 +1,6 @@
 <?php
 $recovery_info = array(
     'che10' => 'https://www.androidfilehost.com/?fid=673368273298920883',
-    'cheeseburger' => 'https://pan.baidu.com/s/1sl0jNWT',
     'cherry' => 'https://www.androidfilehost.com/?fid=673368273298920883',
     'd857' => 'https://www.androidfilehost.com/?fid=457095661767128791',
     'gemini' => 'http://teamw.in/devices/xiaomimi5.html',
