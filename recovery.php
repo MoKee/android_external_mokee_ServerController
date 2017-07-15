@@ -13,6 +13,7 @@ $recovery_info = array(
     'nx523j' => 'http://bbs.nubia.cn/thread-680629-1-1.html',
     'nx529j' => 'https://pan.baidu.com/s/1kVqe77h',
     'nx549j' => 'http://bbs.nubia.cn/thread-860137-1-1.html',
+    'nx569j' => 'http://bbs.nubia.cn/thread-910474-1-1.html',
     'nx531j' => 'https://www.androidfilehost.com/?w=files&flid=125093',
     'oneplus3' => 'https://www.androidfilehost.com/?fid=745425885120700618',
     'satsuki' => 'https://pan.baidu.com/s/1nuTG1rr',
