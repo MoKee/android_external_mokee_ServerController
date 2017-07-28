@@ -565,7 +565,7 @@ $hardware_info = array(
                      'ram' => '2GB/3GB',
                      'rom' => '16GB',
                      'battery' => '3000 mAh',
-                     'display' => '5.5 inch, 1920x1080 pixel(441ppi)',
+                     'display' => '5.5 inch, 1920x1080 pixel(401ppi)',
                      'cpuarch' => 'ARM64'),
     'klte' => array('cpu' => 'Qualcomm® Snapdragon™ 801',
                      'ram' => '2GB',
