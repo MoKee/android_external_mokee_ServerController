@@ -22,4 +22,5 @@ $recovery_info = array(
     'virgo' => 'https://pan.baidu.com/s/1pKIROnx',
     'x3' => 'https://forum.xda-developers.com/android/development/recovery-twrp-3-0-2-0-touch-recovery-t3469491',
     'zl1' => 'https://eyun.baidu.com/s/3nvpys6t',
+    'k50a40' => 'https://mega.nz/#!Ek8RWLJY!JFKBJkjaUq3Jq2QO4RlwYXPzNjjj86hfGxPvqmuFF7w',
 );

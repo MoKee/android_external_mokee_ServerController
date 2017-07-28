@@ -241,6 +241,7 @@ $devices_info = array(
     array('model' => 'z3dual', 'name' => 'Xperia Z3 Dual', 'brand' => 'Sony'),
     array('model' => 'zl1', 'name' => 'Le Pro 3', 'brand' => 'LeEco'),
     array('model' => 'zoom', 'name' => 'Lenovo Z90', 'brand' => 'Lenovo'),
+    array('model' => 'K50a40', 'name' => 'Lenovo K3 Note', 'brand' => 'Lenovo'),
 );
 
 $hardware_info = array(
@@ -1023,6 +1024,12 @@ $hardware_info = array(
                      'battery' => '2900 mAh',
                      'display' => '5.0 inch, 1920x1080 pixel(441ppi)',
                      'cpuarch' => 'ARM'),
+     'K50a40' => array('cpu' => 'Mediatek MT6752',
+                     'ram' => '2GB',
+                     'rom' => '16GB',
+                     'battery' => '3000 mAh',
+                     'display' => '5.5 inch, 1920x1080 pixel(480ppi)',
+                     'cpuarch' => 'ARM64'),
 );
 
 foreach ($devices_info as $k => $val) {
