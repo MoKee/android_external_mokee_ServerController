@@ -66,8 +66,8 @@ $maintainers_info = array(
                      'url' => 'http://weibo.com/1649884475'),
     'z2' => array('name' => 'Flour_Mo',
                      'url' => 'http://weibo.com/2036597861'),
-    'z2pro' => array('name' => 'Flour_Mo',
-                     'url' => 'http://weibo.com/2036597861'),
+    'z2pro' => array('name' => 'S___Y__',
+                     'url' => 'http://weibo.com/2434134362'),
     'zoom' => array('name' => 'Flour_Mo',
                      'url' => 'http://weibo.com/2036597861'),
 );
