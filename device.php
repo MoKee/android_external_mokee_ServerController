@@ -12,6 +12,7 @@ $devices_info = array(
     array('model' => 'athene', 'name' => 'Moto G4/G4 Plus', 'brand' => 'Motorola'),
     array('model' => 'axon7', 'name' => 'Axon 7', 'brand' => 'ZTE'),
     array('model' => 'bacon', 'name' => '1', 'brand' => 'OnePlus'),
+    array('model' => 'berlin', 'name' => 'Honor 6X', 'brand' => 'Huawei'),
     array('model' => 'bullhead', 'name' => 'Nexus 5X', 'brand' => 'Google'),
     array('model' => 'cancro', 'name' => 'Mi-3w/Mi-4', 'brand' => 'XiaoMi'),
     array('model' => 'capricorn', 'name' => 'Mi-5s', 'brand' => 'XiaoMi'),
