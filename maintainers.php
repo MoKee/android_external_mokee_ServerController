@@ -64,6 +64,8 @@ $maintainers_info = array(
                      'url' => 'http://weibo.com/nian0114'),
     'sumire' => array('name' => 'parhelia',
                      'url' => 'http://weibo.com/parheliamm'),
+    'suzuran' => array('name' => 'parhelia',
+                     'url' => 'http://weibo.com/parheliamm'),
     'x3' => array('name' => 'zhaochengw',
                      'url' => 'http://weibo.com/1649884475'),
     'z2' => array('name' => 'Flour_Mo',

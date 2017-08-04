@@ -19,6 +19,7 @@ $recovery_info = array(
     'oneplus3' => 'https://www.androidfilehost.com/?fid=745425885120700618',
     'satsuki' => 'https://pan.baidu.com/s/1nuTG1rr',
     'sumire' => 'https://pan.baidu.com/s/1dEDaIuH',
+    'suzuran' => 'https://pan.baidu.com/s/1jIxbVds',
     'virgo' => 'https://pan.baidu.com/s/1pKIROnx',
     'x3' => 'https://forum.xda-developers.com/android/development/recovery-twrp-3-0-2-0-touch-recovery-t3469491',
     'zl1' => 'https://eyun.baidu.com/s/3nvpys6t',
