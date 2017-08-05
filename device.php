@@ -198,6 +198,7 @@ $devices_info = array(
     array('model' => 'superior', 'name' => 'Galaxy Premier (WCDMA)', 'brand' => 'Samsung'),
     array('model' => 'superiorcmcc', 'name' => 'Galaxy Premier (TD-SCDMA)', 'brand' => 'Samsung'),
     array('model' => 'surnia', 'name' => 'Moto E LTE (2015)', 'brand' => 'Motorola'),
+    array('model' => 'suzuran', 'name' => 'Xperia Z5 Compact', 'brand' => 'Sony'),
     array('model' => 't0lte', 'name' => 'Galaxy Note II (GSM LTE)', 'brand' => 'Samsung'),
     array('model' => 't6', 'name' => 'One Max (GSM)', 'brand' => 'HTC'),
     array('model' => 't6spr', 'name' => 'One Max (Sprint)', 'brand' => 'HTC'),
