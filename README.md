@@ -2,7 +2,7 @@
  ——————————————————
 
 #### 准备
-* [gerrit](http://review.mfunz.com)账号
+* [gerrit](https://mokeedev.review)账号
 * 一台能上网的linux或mac
 * ssh key（下面会说明如何配置）
 
@@ -10,7 +10,7 @@
 
 ##	一 、准备折腾环境
 * <font size=5 color=#999999>1、获取gerrit帐号</font>
-	* 进入[Mokee gerrit review](review.mfunz.com),右上角点击sign in，可使用github，gitcafe，google等帐号登陆![demo11](http://7xo4qi.com1.z0.glb.clouddn.com/demo11.tiff)
+	* 进入[Mokee gerrit review](mokeedev.review),右上角点击sign in，可使用github，gitcafe，google等帐号登陆![demo11](http://7xo4qi.com1.z0.glb.clouddn.com/demo11.tiff)
 	* 再点击右上角头像，settings，设置自己的username和email address![demo12](http://7xo4qi.com1.z0.glb.clouddn.com/demo12.tiff)
 	* 找到左边最下面agreement,进入New Contributor Agreement，选择Individual，拖到最下面，输入I AGREE，确定。即可获得推送权限
 	>最终效果：![demo20](http://7xo4qi.com1.z0.glb.clouddn.com/20.tiff)
@@ -20,7 +20,7 @@
 
 	`git config --global user.name XXX`
 
-	`git config --global review.review.mfunz.com.username XXX(与review的username一致)`
+	`git config --global review.mokeedev.review.username XXX(与review的username一致)`
 
 	`git config --global user.email XXX@XXX.com`
 
@@ -33,12 +33,12 @@
   `ssh-keygen -t rsa -C <email>`
   >	email和上面git设置的邮箱保持一致
   * 进入生成目录(一般为~/.ssh)，打开id_rsa.pub，复制文件中的ssh-keygen
-  *	进入[review](review.mfunz.com),右上角打开settings，找到ssh public keys，点击添加（add key，将复制的内容复制进去，再点击add就添加成功啦。示例![demo10](http://7xo4qi.com1.z0.glb.clouddn.com/demo10.tiff)
+  *	进入[review](mokeedev.review),右上角打开settings，找到ssh public keys，点击添加（add key，将复制的内容复制进去，再点击add就添加成功啦。示例![demo10](http://7xo4qi.com1.z0.glb.clouddn.com/demo10.tiff)
 
 * <font size=5 color=#999999>4、执行git clone,将需要的代码库同步</font>
 
-	`git clone ssh://<username>@review.mfunz.com:29418/MoKee/android_external_mokee_ServerController && scp -p -P 29418 <username>@review.mfunz.com:hooks/commit-msg android_external_mokee_ServerController/.git/hooks/`
->    username填写在review.mfunz.com上填写的username
+	`git clone ssh://<username>@mokeedev.review:29418/MoKee/android_external_mokee_ServerController && scp -p -P 29418 <username>@mokeedev.review:hooks/commit-msg android_external_mokee_ServerController/.git/hooks/`
+>    username填写在mokeedev.review上填写的username
 
 ![demo8](http://7xo4qi.com1.z0.glb.clouddn.com/demo8.tiff)
 
@@ -108,8 +108,8 @@
 
 * <font size=5 color=#999999>上传到服务器等待审核</font>
 
-`git push ssh://<username>@review.mfunz.com:29418/MoKee/android_external_mokee_ServerController HEAD:refs/for/master`
->    Username填写在review.mfunz.com上填写的username
+`git push ssh://<username>@mokeedev.review:29418/MoKee/android_external_mokee_ServerController HEAD:refs/for/master`
+>    Username填写在mokeedev.review上填写的username
 >    ![demo8](http://7xo4qi.com1.z0.glb.clouddn.com/demo8.tiff)
 
 # 到此为止，所有的工作已经做完，如果修改符合规范，则会合并至主代码分区，不久你就可以看到自己的贡献啦
