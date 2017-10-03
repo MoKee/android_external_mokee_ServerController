@@ -58,6 +58,8 @@ $maintainers_info = array(
                      'url' => 'https://plus.google.com/u/0/117066718532703598783'),
     'rk3288' => array('name' => 'XiNGRZ',
                      'url' => 'http://weibo.com/xingrz'),
+    'sagit' => array('name' => 'xiaobai不会写shell',
+                     'url' => 'http://weibo.com/3138080394'),
     'satsuki' => array('name' => 'parhelia',
                      'url' => 'http://weibo.com/parheliamm'),
     'scorpio' => array('name' => 'nian0114',
