@@ -28,8 +28,6 @@ $maintainers_info = array(
                      'url' => 'http://github.com/EsromG5'),
     'j5nltexx' => array('name' => 'EsromG5',
                      'url' => 'http://github.com/EsromG5'),
-    'k3gxx' => array('name' => 'Afshin Arani',
-                     'url' => 'https://github.com/aarani'),
     'le_x2' => array('name' => 'zhaochengw',
                      'url' => 'http://weibo.com/1649884475'),
     'leo' => array('name' => '乖奕虎',
