@@ -184,6 +184,7 @@ $devices_info = array(
     array('model' => 'sagit', 'name' => 'Mi-6', 'brand' => 'XiaoMi'),
     array('model' => 'sailfish', 'name' => 'Pixel', 'brand' => 'Google'),
     array('model' => 'sambar', 'name' => 'Yutopia', 'brand' => 'YU'),
+    array('model' => 'santoni', 'name' => 'Redmi 4X', 'brand' => 'XiaoMi'),
     array('model' => 'satsuki', 'name' => 'Xperia Z5 Premium Dual', 'brand' => 'Sony'),
     array('model' => 'scorpio', 'name' => 'XiaoMi Note 2', 'brand' => 'XiaoMi'),
     array('model' => 'seed', 'name' => 'Android One 2nd gen', 'brand' => 'Google'),
