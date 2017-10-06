@@ -24,6 +24,7 @@ $devices_info = array(
     array('model' => 'che10', 'name' => 'Honor 4X (China Telecom)', 'brand' => 'Huawei'),
     array('model' => 'cheeseburger', 'name' => '5', 'brand' => 'OnePlus'),
     array('model' => 'cherry', 'name' => 'Honor 4/4X', 'brand' => 'Huawei'),
+    array('model' => 'chiron', 'name' => 'Mi Mix 2', 'brand' => 'XiaoMi'),
     array('model' => 'chm_cl00', 'name' => 'Honor 4C/P8 Lite (ChinaTelecom)', 'brand' => 'Huawei'),
     array('model' => 'cp8675', 'name' => 'Dazen F2', 'brand' => 'CoolPad'),
     array('model' => 'd2att', 'name' => 'Galaxy S III (AT&T)', 'brand' => 'Samsung'),
