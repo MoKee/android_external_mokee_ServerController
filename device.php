@@ -171,7 +171,7 @@ $devices_info = array(
     array('model' => 'obake', 'name' => 'Droid Mini/Ultra/MAXX', 'brand' => 'Motorola'),
     array('model' => 'odin', 'name' => 'Xperia ZL', 'brand' => 'Sony'),
     array('model' => 'onyx', 'name' => 'X', 'brand' => 'OnePlus'),
-    array('model' => 'oneplus3', 'name' => '3/3T (3T unsupported unofficial and 6.0)', 'brand' => 'OnePlus'),
+    array('model' => 'oneplus3', 'name' => '3/3T (3T unsupported 6.0)', 'brand' => 'OnePlus'),
     array('model' => 'osprey', 'name' => 'Moto G (2015)', 'brand' => 'Motorola'),
     array('model' => 'otus', 'name' => 'Moto E (2015)', 'brand' => 'Motorola'),
     array('model' => 'peach', 'name' => 'Benefit A3', 'brand' => 'ARK'),
