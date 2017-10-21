@@ -101,6 +101,7 @@ $devices_info = array(
     array('model' => 'jag3gds', 'name' => 'G3 S', 'brand' => 'LG'),
     array('model' => 'jagnm', 'name' => 'G3 Beat', 'brand' => 'LG'),
     array('model' => 'jalebi', 'name' => 'Yunique', 'brand' => 'YU'),
+    array('model' => 'jason', 'name' => 'Mi Note 3', 'brand' => 'Xiaomi'),
     array('model' => 'jflteatt', 'name' => 'Galaxy S4 (AT&T)', 'brand' => 'Samsung'),
     array('model' => 'jfltespr', 'name' => 'Galaxy S4 (Sprint)', 'brand' => 'Samsung'),
     array('model' => 'jfltetmo', 'name' => 'Galaxy S4 (T-Mobile)', 'brand' => 'Samsung'),
