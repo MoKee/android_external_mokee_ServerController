@@ -1,5 +1,6 @@
 <?php
 $recovery_info = array(
+    'aries' => 'https://pan.baidu.com/s/1gffDJz1',
     'che10' => 'https://www.androidfilehost.com/?fid=673368273298920883',
     'cherry' => 'https://www.androidfilehost.com/?fid=673368273298920883',
     'd857' => 'https://www.androidfilehost.com/?fid=457095661767128791',

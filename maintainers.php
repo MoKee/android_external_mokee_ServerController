@@ -1,5 +1,7 @@
 <?php
 $maintainers_info = array(
+    'aries' => array('name' => '乖奕虎',
+                     'url' => 'http://weibo.com/guaiyihu'),
     'che10' => array('name' => 'dianlujitao',
                      'url' => 'http://weibo.com/dianlujitao'),
     'cheeseburger' => array('name' => 'XiNGRZ',
