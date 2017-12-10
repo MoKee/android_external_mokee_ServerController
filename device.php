@@ -129,7 +129,7 @@ $devices_info = array(
     array('model' => 'l01f', 'name' => 'G2 (Japan)', 'brand' => 'LG'),
     array('model' => 'l55t', 'name' => 'Xperia Z3 (TD-LTE)', 'brand' => 'Sony'),
     array('model' => 'l900', 'name' => 'Galaxy Note II (Sprint)', 'brand' => 'Samsung'),
-    array('model' => 'land', 'name' => 'Redmi 3S/3X', 'brand' => 'Xiaomi'),
+    array('model' => 'land', 'name' => 'Redmi 3S/3X', 'brand' => 'XiaoMi'),
     array('model' => 'le_x2', 'name' => 'Max 2 (Le X820)', 'brand' => 'LeEco'),
     array('model' => 'lentislte', 'name' => 'Galaxy S5 LTE-A', 'brand' => 'Samsung'),
     array('model' => 'leo', 'name' => 'Note Pro', 'brand' => 'XiaoMi'),
