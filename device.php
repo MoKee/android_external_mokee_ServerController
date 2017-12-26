@@ -45,6 +45,7 @@ $devices_info = array(
     array('model' => 'dior', 'name' => 'Redmi Note 4g', 'brand' => 'XiaoMi'),
     array('model' => 'dlx', 'name' => 'Droid DNA', 'brand' => 'HTC'),
     array('model' => 'dogo', 'name' => 'Xperia ZR', 'brand' => 'Sony'),
+    array('model' => 'dumpling', 'name' => '5T', 'brand' => 'OnePlus'),
     array('model' => 'e975', 'name' => 'Optimus G (Intl)', 'brand' => 'LG'),
     array('model' => 'e980', 'name' => 'Optimus G Pro (All e98x GSM)', 'brand' => 'LG'),
     array('model' => 'ether', 'name' => 'Robin', 'brand' => 'Nextbit'),

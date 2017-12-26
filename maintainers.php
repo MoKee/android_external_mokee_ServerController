@@ -14,6 +14,8 @@ $maintainers_info = array(
                      'url' => 'http://weibo.com/3921475456'),
     'dior' => array('name' => '子龙zj',
                     'url' => 'http://weibo.com/zj502407679'),
+    'dumpling' => array('name' => 'XiNGRZ',
+                     'url' => 'http://weibo.com/xingrz'),
     'f460' => array('name' => 'shminer',
                      'url' => 'http://weibo.com/JZshminer'),
     'g760l' => array('name' => 'xjljian',
