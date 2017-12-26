@@ -50,7 +50,7 @@
 
 	 1⃣️机型图片
 	 ![cancro demo](http://7xo4qi.com1.z0.glb.clouddn.com/cancro.png)
-	 (推荐分辨率：109*124)
+	 (推荐分辨率：218*248)
 
 	2⃣️机型参数
 >  处理器(cpu):
