@@ -310,7 +310,7 @@ $hardware_info = array(
                      'cpuarch' => 'ARM'),
     'cheeseburger' => array('cpu' => 'Qualcomm® Snapdragon™ 835',
                      'ram' => '6/8GB of LP-DDR4X',
-                     'rom' => '64/128GB',
+                     'rom' => '64/128GB of UFS 2.1',
                      'battery' => '3300 mAh',
                      'display' => '5.5 inch, 1920x1080 pixel(401ppi)',
                      'cpuarch' => 'ARM64'),
