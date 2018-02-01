@@ -2,8 +2,10 @@
 $recovery_info = array(
     'aries' => 'https://pan.baidu.com/s/1gffDJz1',
     'che10' => 'https://www.androidfilehost.com/?fid=673368273298920883',
+    'cheeseburger' => 'https://bbs.mokeedev.com/t/topic/260',
     'cherry' => 'https://www.androidfilehost.com/?fid=673368273298920883',
     'd857' => 'https://www.androidfilehost.com/?fid=457095661767128791',
+    'dumpling' => 'https://bbs.mokeedev.com/t/topic/3198',
     'gemini' => 'http://teamw.in/devices/xiaomimi5.html',
     'herolte' => 'http://teamw.in/devices/samsunggalaxys7.html',
     'hero2lte' => 'http://teamw.in/devices/samsunggalaxys7edge.html',
