@@ -250,6 +250,8 @@ $devices_info = array(
     array('model' => 'z3', 'name' => 'Xperia Z3', 'brand' => 'Sony'),
     array('model' => 'z3c', 'name' => 'Xperia Z3 Compact', 'brand' => 'Sony'),
     array('model' => 'z3dual', 'name' => 'Xperia Z3 Dual', 'brand' => 'Sony'),
+    array('model' => 'zerofltexx', 'name' => 'Galaxy S6', 'brand' => 'Samsung'),
+    array('model' => 'zeroltexx', 'name' => 'Galaxy S6 Edge', 'brand' => 'Samsung'),
     array('model' => 'zl1', 'name' => 'Le Pro 3', 'brand' => 'LeEco'),
     array('model' => 'zoom', 'name' => 'Lenovo Z90', 'brand' => 'Lenovo'),
 );
