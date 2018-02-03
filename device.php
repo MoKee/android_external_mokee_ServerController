@@ -220,6 +220,7 @@ $devices_info = array(
     array('model' => 'togari_gpe', 'name' => 'Xperia Z Ultra (GPE)', 'brand' => 'Sony'),
     array('model' => 'tomato', 'name' => 'Yureka (AO5510)', 'brand' => 'YU'),
     array('model' => 'tsubasa', 'name' => 'Xperia V', 'brand' => 'Sony'),
+    array('model' => 'tulip', 'name' => 'Axon 7 Mini', 'brand' => 'ZTE'),
     array('model' => 'umts_spyder', 'name' => 'Razr/Razr MAXX (GSM)', 'brand' => 'Motorola'),
     array('model' => 'v500', 'name' => 'G Pad 8.3', 'brand' => 'LG'),
     array('model' => 'victara', 'name' => 'Moto X 2014 (Unified)', 'brand' => 'Motorola'),
