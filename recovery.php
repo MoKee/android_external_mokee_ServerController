@@ -12,7 +12,7 @@ $recovery_info = array(
     'j5ltexx' => 'https://www.androidfilehost.com/?w=files&flid=56318',
     'j5nltexx' => 'https://www.androidfilehost.com/?w=files&flid=56315',
     'jason' => 'https://androidfilehost.com/?fid=889764386195931802',
-    'leo' => 'https://pan.baidu.com/s/1eSDXDVc',
+    'leo' => 'https://pan.baidu.com/s/1i5RM4Ix',
     'nx523j' => 'http://bbs.nubia.cn/thread-680629-1-1.html',
     'nx529j' => 'https://pan.baidu.com/s/1kVqe77h',
     'nx531j' => 'https://www.androidfilehost.com/?w=files&flid=125093',
