@@ -1,7 +1,8 @@
 /*
 !.gitignore
-!static/
 !device.php
+!extras.php
 !maintainers.php
 !recovery.php
+!static/
 !README.md
