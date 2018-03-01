@@ -1,6 +1,7 @@
 <?php
 $recovery_info = array(
     'aries' => 'https://pan.baidu.com/s/1gffDJz1',
+    'cancro' => 'https://pan.baidu.com/s/1ht2x63i',
     'che10' => 'https://www.androidfilehost.com/?fid=673368273298920883',
     'cheeseburger' => 'https://bbs.mokeedev.com/t/topic/260',
     'cherry' => 'https://www.androidfilehost.com/?fid=673368273298920883',
