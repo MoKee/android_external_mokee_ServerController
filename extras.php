@@ -7,7 +7,7 @@ $extras_info = array(
                 'filesize' => '62737479',
                 'summary' => 'MK81.0 20180201',
                 'timestamp' => '1517229377',
-                'url' => 'https://github.com/xingrz/proprietary_vendor_oneplus_dumpling_radio/releases/tag/oxygen%2Fob-3',
+                'url' => 'https://androidfilehost.com/?fid=890129502657588262',
             ),
             // Multi radio demo
             // array(
