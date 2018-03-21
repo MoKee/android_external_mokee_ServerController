@@ -1096,7 +1096,7 @@ $hardware_info = array(
                      'rom' => '32GB/64GB',
                      'battery' => '4070 mAh',
                      'display' => '5.5 inch, 1920x1080 pixel(401ppi)',
-                     'cpuarch' => 'ARM'),
+                     'cpuarch' => 'ARM64'),
     'zoom' => array('cpu' => 'Qualcomm® Snapdragon™ 615',
                      'ram' => '3GB',
                      'rom' => '16GB/32GB',
