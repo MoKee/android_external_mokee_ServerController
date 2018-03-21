@@ -56,6 +56,8 @@ $maintainers_info = array(
                      'url' => 'http://weibo.com/2434134362'),
     'nx563j' => array('name' => 'S___Y__',
                      'url' => 'http://weibo.com/2434134362'),
+    'nx595j' => array('name' => 'S___Y__',
+                     'url' => 'http://weibo.com/2434134362'),
     'nx569j' => array('name' => 'S___Y__',
                      'url' => 'http://weibo.com/2434134362'),
     'oneplus3' => array('name' => 'dianlujitao',
