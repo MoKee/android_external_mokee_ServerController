@@ -64,6 +64,8 @@ $maintainers_info = array(
                      'url' => 'http://weibo.com/dianlujitao'),
     'onyx' => array('name' => '皓睿睡不着与皓睿起不来',
                      'url' => 'http://weibo.com/1311032140'),
+    'r11' => array('name' => '真JunDaYi',
+                     'url' => 'http://weibo.com/5941032930'),
     'peach' => array('name' => 'lolmaxlik',
                      'url' => 'https://plus.google.com/u/0/117066718532703598783'),
     'rk3288' => array('name' => 'XiNGRZ',
