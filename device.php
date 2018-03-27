@@ -255,6 +255,7 @@ $devices_info = array(
     array('model' => 'zeroltexx', 'name' => 'Galaxy S6 Edge', 'brand' => 'Samsung'),
     array('model' => 'zl1', 'name' => 'Le Pro 3', 'brand' => 'LeEco'),
     array('model' => 'zoom', 'name' => 'Lenovo Z90', 'brand' => 'Lenovo'),
+    array('model' => 'r11', 'name' => 'OPPO R11', 'brand' => 'OPPO'),
 );
 
 $hardware_info = array(
@@ -1103,6 +1104,12 @@ $hardware_info = array(
                      'battery' => '2900 mAh',
                      'display' => '5.0 inch, 1920x1080 pixel(441ppi)',
                      'cpuarch' => 'ARM'),
+    'r11' => array('cpu' => 'Qualcomm® Snapdragon™ 660',
+                     'ram' => '4GB',
+                     'rom' => '64GB',
+                     'battery' => '3000 mAh',
+                     'display' => '5.5 inch, 1920x1080 pixel(401ppi)',
+                     'cpuarch' => 'ARM64'),
 );
 
 foreach ($devices_info as $k => $val) {

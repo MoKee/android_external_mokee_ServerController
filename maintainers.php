@@ -90,4 +90,6 @@ $maintainers_info = array(
                      'url' => 'http://weibo.com/2434134362'),
     'zoom' => array('name' => 'Flour_Mo',
                      'url' => 'http://weibo.com/2036597861'),
+    'r11' => array('name' => '真JunDaYi',
+                     'url' => 'http://weibo.com/5941032930'),
 );
