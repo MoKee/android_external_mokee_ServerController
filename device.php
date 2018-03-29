@@ -186,7 +186,7 @@ $devices_info = array(
     array('model' => 'pme', 'name' => '10', 'brand' => 'HTC'),
     array('model' => 'quark', 'name' => 'Moto MAXX', 'brand' => 'Motorola'),
     array('model' => 'r5', 'name' => 'R5/R5s (Intl)', 'brand' => 'Oppo'),
-    array('model' => 'r11', 'name' => 'OPPO R11', 'brand' => 'OPPO'),
+    array('model' => 'r11', 'name' => 'R11', 'brand' => 'OPPO'),
     array('model' => 'r7plus', 'name' => 'R7 Plus', 'brand' => 'Oppo'),
     array('model' => 'rk3288', 'name' => 'RK3288', 'brand' => 'Firefly'),
     array('model' => 's2', 'name' => 'Le 2', 'brand' => 'LeEco'),
