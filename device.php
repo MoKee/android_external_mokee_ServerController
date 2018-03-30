@@ -114,7 +114,6 @@ $devices_info = array(
     array('model' => 'k3gduosctc', 'name' => 'Galaxy S5 (China Telecom 3G,SM-G9009D)', 'brand' => 'Samsung'),
     array('model' => 'k3gxx', 'name' => 'Galaxy S5 (Exynos Varient,SM-G900H)', 'brand' => 'Samsung'),
     array('model' => 'kccat6', 'name' => 'Galaxy S5 Plus', 'brand' => 'Samsung'),
-    array('model' => 'kenzo', 'name' => 'Redmi Note 3', 'brand' => 'XiaoMi'),
     array('model' => 'kingdom', 'name' => 'Vibe Z2 Pro', 'brand' => 'Lenovo'),
     array('model' => 'kiwi', 'name' => 'Honor 5X', 'brand' => 'Huawei'),
     array('model' => 'klte', 'name' => 'Galaxy S5 (Intl,SM-G900F/M/T/S/L/K)', 'brand' => 'Samsung'),
@@ -186,7 +185,6 @@ $devices_info = array(
     array('model' => 'pme', 'name' => '10', 'brand' => 'HTC'),
     array('model' => 'quark', 'name' => 'Moto MAXX', 'brand' => 'Motorola'),
     array('model' => 'r5', 'name' => 'R5/R5s (Intl)', 'brand' => 'Oppo'),
-    array('model' => 'r11', 'name' => 'OPPO R11', 'brand' => 'OPPO'),
     array('model' => 'r7plus', 'name' => 'R7 Plus', 'brand' => 'Oppo'),
     array('model' => 'rk3288', 'name' => 'RK3288', 'brand' => 'Firefly'),
     array('model' => 's2', 'name' => 'Le 2', 'brand' => 'LeEco'),
@@ -236,6 +234,7 @@ $devices_info = array(
     array('model' => 'w5', 'name' => 'Optimus L70', 'brand' => 'LG'),
     array('model' => 'wt86528', 'name' => 'K31/A6010', 'brand' => 'Lenovo'),
     array('model' => 'wt88047', 'name' => 'RedMi 2', 'brand' => 'XiaoMi'),
+    array('model' => 'kenzo', 'name' => 'Redmi Note 3', 'brand' => 'XiaoMi'),
     array('model' => 'x3', 'name' => 'Lenovo X3c50/X3c70', 'brand' => 'Lenovo'),
     array('model' => 'x9180', 'name' => 'RedBull V5', 'brand' => 'ZTE'),
     array('model' => 'xt897', 'name' => 'Photon Q', 'brand' => 'Motorola'),
@@ -1111,12 +1110,6 @@ $hardware_info = array(
                      'battery' => '2900 mAh',
                      'display' => '5.0 inch, 1920x1080 pixel(441ppi)',
                      'cpuarch' => 'ARM'),
-    'r11' => array('cpu' => 'Qualcomm® Snapdragon™ 660',
-                     'ram' => '4GB',
-                     'rom' => '64GB',
-                     'battery' => '3000 mAh',
-                     'display' => '5.5 inch, 1920x1080 pixel(401ppi)',
-                     'cpuarch' => 'ARM64'),
 );
 
 foreach ($devices_info as $k => $val) {
