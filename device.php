@@ -115,6 +115,7 @@ $devices_info = array(
     array('model' => 'k3gduosctc', 'name' => 'Galaxy S5 (China Telecom 3G,SM-G9009D)', 'brand' => 'Samsung'),
     array('model' => 'k3gxx', 'name' => 'Galaxy S5 (Exynos Varient,SM-G900H)', 'brand' => 'Samsung'),
     array('model' => 'kccat6', 'name' => 'Galaxy S5 Plus', 'brand' => 'Samsung'),
+    array('model' => 'kenzo', 'name' => 'Redmi Note 3', 'brand' => 'Xiaomi'),
     array('model' => 'kingdom', 'name' => 'Vibe Z2 Pro', 'brand' => 'Lenovo'),
     array('model' => 'kiwi', 'name' => 'Honor 5X', 'brand' => 'Huawei'),
     array('model' => 'klte', 'name' => 'Galaxy S5 (Intl,SM-G900F/M/T)', 'brand' => 'Samsung'),

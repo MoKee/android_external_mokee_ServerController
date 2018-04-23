@@ -36,6 +36,8 @@ $maintainers_info = array(
                      'url' => 'http://github.com/EsromG5'),
     'jason' => array('name' => 'dianlujitao',
                      'url' => 'http://weibo.com/dianlujitao'),
+    'kenzo' => array('name' => 'Carlos Arriaga',
+                     'url' => 'https://plus.google.com/u/0/+CarlosArriagaCM'),
     'land' => array('name' => 'IsaacChen',
                      'url' => 'http://weibo.com/tingyiisaac'),
     'le_x2' => array('name' => 'zhaochengw',
