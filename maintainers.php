@@ -76,6 +76,8 @@ $maintainers_info = array(
                      'url' => 'https://plus.google.com/u/0/117066718532703598783'),
     'rk3288' => array('name' => 'XiNGRZ',
                      'url' => 'http://weibo.com/xingrz'),
+    'rolex' => array('name' => 'ManuCarmona',
+                     'url' => 'https://github.com/manuelcarmona'),
     'sagit' => array('name' => 'xiaobai不会写shell',
                      'url' => 'http://weibo.com/3138080394'),
     'santoni' => array('name' => 'IsaacChen',

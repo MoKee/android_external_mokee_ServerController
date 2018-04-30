@@ -22,6 +22,7 @@ $recovery_info = array(
     'nx563j' => 'http://bbs.zhiyoo.com/thread-13355410-1-1.html',
     'nx569j' => 'http://bbs.nubia.cn/thread-910474-1-1.html',
     'oneplus3' => 'https://twrp.me/oneplus/oneplusthree.html',
+    'rolex' => 'https://twrp.me/xiaomi/xiaomiredmi4a.html',
     'satsuki' => 'https://pan.baidu.com/s/1nuTG1rr',
     'sumire' => 'https://pan.baidu.com/s/1dEDaIuH',
     'suzuran' => 'https://pan.baidu.com/s/1jIxbVds',
