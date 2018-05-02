@@ -89,7 +89,7 @@ $devices_info = array(
     array('model' => 'hlte', 'name' => 'Galaxy Note 3 Qualcomm', 'brand' => 'Samsung'),
     array('model' => 'hltechn', 'name' => 'Galaxy Note 3 (China,N9008V/S)', 'brand' => 'Samsung'),
     array('model' => 'hltekor', 'name' => 'Galaxy Note 3 (Korea,N900S/L/K)', 'brand' => 'Samsung'),
-    array('model' => 'hltetmo', 'name' => 'Galaxy Note 3 (T-Mobile,N900V)', 'brand' => 'Samsung'),
+    array('model' => 'hlteusc', 'name' => 'Galaxy Note 3 (U.S.Cellular,N900R/T/V/W8)', 'brand' => 'Samsung'),
     array('model' => 'honami', 'name' => 'Xperia Z1', 'brand' => 'Sony'),
     array('model' => 'huashan', 'name' => 'Xperia SP', 'brand' => 'Sony'),
     array('model' => 'hydrogen', 'name' => 'Mi Max', 'brand' => 'XiaoMi'),
