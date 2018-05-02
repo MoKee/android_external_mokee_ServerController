@@ -209,8 +209,6 @@ $devices_info = array(
     array('model' => 'star2lte', 'name' => 'Galaxy S9+', 'brand' => 'Samsung'),
     array('model' => 'starlte', 'name' => 'Galaxy S9', 'brand' => 'Samsung'),
     array('model' => 'sumire', 'name' => 'Xperia Z5 Dual', 'brand' => 'Sony'),
-    array('model' => 'superior', 'name' => 'Galaxy Premier (WCDMA)', 'brand' => 'Samsung'),
-    array('model' => 'superiorcmcc', 'name' => 'Galaxy Premier (TD-SCDMA)', 'brand' => 'Samsung'),
     array('model' => 'surnia', 'name' => 'Moto E LTE (2015)', 'brand' => 'Motorola'),
     array('model' => 'suzuran', 'name' => 'Xperia Z5 Compact', 'brand' => 'Sony'),
     array('model' => 't0lte', 'name' => 'Galaxy Note II (GSM LTE)', 'brand' => 'Samsung'),
