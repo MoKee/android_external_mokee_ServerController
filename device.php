@@ -128,8 +128,6 @@ $devices_info = array(
     array('model' => 'kltekdi', 'name' => 'Galaxy S5 (Japan,SCL23,SC04F)', 'brand' => 'Samsung'),
     array('model' => 'kltekor', 'name' => 'Galaxy S5 (Korea,SM-G900S/L/K)', 'brand' => 'Samsung'),
     array('model' => 'kltespr', 'name' => 'Galaxy S5 (Sprint,SM-G900P)', 'brand' => 'Samsung'),
-    array('model' => 'klteusc', 'name' => 'Galaxy S5 (US Cellular,SM-G900R4/6/7)', 'brand' => 'Samsung'),
-    array('model' => 'kltevzw', 'name' => 'Galaxy S5 (Verizon,SM-G900V)', 'brand' => 'Samsung'),
     array('model' => 'ks01lte', 'name' => 'Galaxy S4 LTE-A', 'brand' => 'Samsung'),
     array('model' => 'l01f', 'name' => 'G2 (Japan)', 'brand' => 'LG'),
     array('model' => 'l55t', 'name' => 'Xperia Z3 (TD-LTE)', 'brand' => 'Sony'),
