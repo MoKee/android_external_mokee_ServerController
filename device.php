@@ -88,7 +88,6 @@ $devices_info = array(
     array('model' => 'himaul', 'name' => 'One M9 (GSM)', 'brand' => 'HTC'),
     array('model' => 'hlte', 'name' => 'Galaxy Note 3 Qualcomm', 'brand' => 'Samsung'),
     array('model' => 'hltechn', 'name' => 'Galaxy Note 3 (China,N9008V/S)', 'brand' => 'Samsung'),
-    array('model' => 'hltespr', 'name' => 'Galaxy Note 3 (Sprint,N900P)', 'brand' => 'Samsung'),
     array('model' => 'hltekor', 'name' => 'Galaxy Note 3 (Korea,N900S/L/K)', 'brand' => 'Samsung'),
     array('model' => 'hltetmo', 'name' => 'Galaxy Note 3 (T-Mobile,N900V)', 'brand' => 'Samsung'),
     array('model' => 'honami', 'name' => 'Xperia Z1', 'brand' => 'Sony'),
