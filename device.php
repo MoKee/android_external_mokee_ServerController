@@ -95,7 +95,6 @@ $devices_info = array(
     array('model' => 'hydrogen', 'name' => 'Mi Max', 'brand' => 'XiaoMi'),
     array('model' => 'i605', 'name' => 'Galaxy Note II (Verizon)', 'brand' => 'Samsung'),
     array('model' => 'i9100', 'name' => 'Galaxy S II (Intl)', 'brand' => 'Samsung'),
-    array('model' => 'i9100g', 'name' => 'Galaxy S II (G)', 'brand' => 'Samsung'),
     array('model' => 'i9300', 'name' => 'Galaxy S III (Intl)', 'brand' => 'Samsung'),
     array('model' => 'i9305', 'name' => 'Galaxy S III (GSM LTE)', 'brand' => 'Samsung'),
     array('model' => 'i9500', 'name' => 'Galaxy S4 (non-LTE)', 'brand' => 'Samsung'),
