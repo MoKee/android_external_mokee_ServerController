@@ -90,6 +90,8 @@ $maintainers_info = array(
                      'url' => 'http://weibo.com/parheliamm'),
     'suzuran' => array('name' => 'parhelia',
                      'url' => 'http://weibo.com/parheliamm'),
+    'vince' => array('name' => 'IsaacChen',
+                     'url' => 'http://weibo.com/tingyiisaac'),
     'virgo' => array('name' => '乖奕虎',
                      'url' => 'http://weibo.com/guaiyihu'),
     'x3' => array('name' => 'zhaochengw',
