@@ -1003,7 +1003,7 @@ $hardware_info = array(
     'vince' => array('cpu' => 'Qualcomm® Snapdragon™ 625',
                      'ram' => '3/4GB of LP-DDR3',
                      'rom' => '32/64GB',
-                     'battery' => '4100 mAh',
+                     'battery' => '4000 mAh',
                      'display' => '5.99 inch, 2160x1080 pixel',
                      'cpuarch' => 'ARM64'),
     'virgo' => array('cpu' => 'Qualcomm® Snapdragon™ 801',
