@@ -117,4 +117,4 @@
 
 微博：[329ray](http://weibo.com/577551284)(若发现文档中的不足或有问题，可提交issue或私信我)
 
-论坛支持：[魔趣论坛](bbs.mokeedev.com)
+论坛支持：[魔趣论坛](https://bbs.mokeedev.com)
