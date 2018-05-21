@@ -43,4 +43,15 @@ $extras_info = array(
             ),
         ),
     ),
+    'nx563j' => array(
+        'radio' => array(
+            array(
+                'filename' => 'RADIO_nx563j_V515.zip',
+                'filesize' => '60759622',
+                'summary' => 'MK81.0',
+                'timestamp' => '1526868212',
+                'url' => 'https://androidfilehost.com/?fid=818222786056031703',
+            ),
+        ),
+    ),
 );
