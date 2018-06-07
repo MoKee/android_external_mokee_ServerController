@@ -54,4 +54,15 @@ $extras_info = array(
             ),
         ),
     ),
+    'whyred' => array(
+        'radio' => array(
+            array(
+                'filename' => 'RADIO_whyred_8.5.31.zip',
+                'filesize' => '61541346',
+                'summary' => 'MK81.0',
+                'timestamp' => '1527696000',
+                'url' => 'https://www.androidfilehost.com/?fid=962339331458996767',
+            ),
+        ),
+    ),
 );
