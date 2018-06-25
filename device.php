@@ -153,6 +153,7 @@ $devices_info = array(
     array('model' => 'n1', 'name' => 'N1', 'brand' => 'Oppo'),
     array('model' => 'n3', 'name' => 'N3', 'brand' => 'Oppo'),
     array('model' => 'n7100', 'name' => 'Galaxy Note II (GSM Non-LTE)', 'brand' => 'Samsung'),
+    array('model' => 'nash', 'name' => 'Z2 Force', 'brand' => 'Motorola'),
     array('model' => 'natrium', 'name' => 'Mi-5s Plus', 'brand' => 'XiaoMi'),
     array('model' => 'nicki', 'name' => 'Xperia M', 'brand' => 'Sony'),
     array('model' => 'nx40x', 'name' => 'Z5 Mini', 'brand' => 'Nubia'),
