@@ -46,6 +46,13 @@ $extras_info = array(
     'nx563j' => array(
         'radio' => array(
             array(
+                'filename' => 'RADIO_nx563j_Z0_CN_VNG0O_V524.zip',
+                'filesize' => '60353645',
+                'summary' => 'MK81.0',
+                'timestamp' => '1530967687',
+                'url' => 'https://pan.baidu.com/s/1-lcpRyIZ5V8AL8jhTU8iCA',
+            ),
+            array(
                 'filename' => 'RADIO_nx563j_V515.zip',
                 'filesize' => '60759622',
                 'summary' => 'MK81.0',
