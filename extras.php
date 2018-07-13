@@ -64,11 +64,11 @@ $extras_info = array(
     'whyred' => array(
         'radio' => array(
             array(
-                'filename' => 'RADIO_whyred_8.6.11.zip',
-                'filesize' => '61450340',
+                'filename' => 'RADIO_whyred_8.7.12.zip',
+                'filesize' => '61578689',
                 'summary' => 'MK81.0',
-                'timestamp' => '1528646400',
-                'url' => 'https://www.androidfilehost.com/?fid=962339331458998415',
+                'timestamp' => '1531324800',
+                'url' => 'https://www.androidfilehost.com/?fid=5862345805528046694',
             ),
         ),
     ),
