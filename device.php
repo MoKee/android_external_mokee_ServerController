@@ -122,6 +122,7 @@ $devices_info = array(
     array('model' => 'kltekdi', 'name' => 'Galaxy S5 (Japan,SCL23,SC04F)', 'brand' => 'Samsung'),
     array('model' => 'kltekor', 'name' => 'Galaxy S5 (Korea,SM-G900S/L/K)', 'brand' => 'Samsung'),
     array('model' => 'kltespr', 'name' => 'Galaxy S5 (Sprint,SM-G900P)', 'brand' => 'Samsung'),
+    array('model' => 'kuntao', 'name' => 'P2 (P2a42 Intl)', 'brand' => 'Lenovo'),
     array('model' => 'ks01lte', 'name' => 'Galaxy S4 LTE-A', 'brand' => 'Samsung'),
     array('model' => 'l01f', 'name' => 'G2 (Japan)', 'brand' => 'LG'),
     array('model' => 'l55t', 'name' => 'Xperia Z3 (TD-LTE)', 'brand' => 'Sony'),
