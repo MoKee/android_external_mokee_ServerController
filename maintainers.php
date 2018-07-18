@@ -96,6 +96,8 @@ $maintainers_info = array(
                      'url' => 'http://weibo.com/tingyiisaac'),
     'virgo' => array('name' => '乖奕虎',
                      'url' => 'https://bbs.mokeedev.com/u/guaiyihu'),
+    'whyred' => array('name' => '乖奕虎',
+                     'url' => 'https://bbs.mokeedev.com/u/guaiyihu'),
     'x3' => array('name' => 'zhaochengw',
                      'url' => 'http://weibo.com/1649884475'),
     'z2' => array('name' => 'Flour_Mo',
