@@ -10,6 +10,8 @@ $maintainers_info = array(
                      'url' => 'https://bbs.mokeedev.com/u/xingrz'),
     'cherry' => array('name' => 'dianlujitao',
                      'url' => 'https://bbs.mokeedev.com/u/dianlujitao'),
+    'clover' => array('name' => '乖奕虎',
+                     'url' => 'https://bbs.mokeedev.com/u/guaiyihu'),
     'cp8675' => array('name' => 'Flour_Mo',
                      'url' => 'http://weibo.com/2036597861'),
     'd857' => array('name' => '豆浆炒蛋',
