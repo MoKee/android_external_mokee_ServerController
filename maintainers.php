@@ -24,6 +24,8 @@ $maintainers_info = array(
                      'url' => 'http://weibo.com/JZshminer'),
     'g760l' => array('name' => 'xjljian',
                      'url' => 'https://bbs.mokeedev.com/u/xjljian'),
+    'gucci' => array('name' => '乖奕虎',
+                     'url' => 'https://bbs.mokeedev.com/u/guaiyihu'),
     'herolte' => array('name' => '8890dev Organization',
                      'url' => 'https://github.com/8890dev'),
     'hero2lte' => array('name' => '8890dev Organization',

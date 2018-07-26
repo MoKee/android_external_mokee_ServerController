@@ -8,6 +8,7 @@ $recovery_info = array(
     'd857' => 'https://www.androidfilehost.com/?fid=457095661767128791',
     'dumpling' => 'https://bbs.mokeedev.com/t/topic/3198',
     'gemini' => 'http://teamw.in/devices/xiaomimi5.html',
+    'gucci' => 'https://pan.baidu.com/s/1Gh6fl-RO7ekXPX7ceg6xJQ',
     'herolte' => 'http://teamw.in/devices/samsunggalaxys7.html',
     'hero2lte' => 'http://teamw.in/devices/samsunggalaxys7edge.html',
     'j5ltexx' => 'https://www.androidfilehost.com/?w=files&flid=56318',
