@@ -23,6 +23,7 @@ $recovery_info = array(
     'nx563j' => 'http://bbs.zhiyoo.com/thread-13355410-1-1.html',
     'nx569j' => 'http://bbs.nubia.cn/thread-910474-1-1.html',
     'oneplus3' => 'https://twrp.me/oneplus/oneplusthree.html',
+    'polaris' => 'https://forum.xda-developers.com/xiaomi-mi-mix-2s/development/recovery-twrp-mix-2s-t3790922',
     'rolex' => 'https://twrp.me/xiaomi/xiaomiredmi4a.html',
     'santoni' => 'https://twrp.me/xiaomi/xiaomiredmi4x.html',
     'rolex' => 'https://twrp.me/xiaomi/xiaomiredmi4a.html',
