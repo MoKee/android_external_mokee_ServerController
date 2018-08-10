@@ -2,9 +2,9 @@
 $recovery_info = array(
     'aries' => 'https://pan.baidu.com/s/1gffDJz1',
     'cancro' => 'https://pan.baidu.com/s/1ht2x63i',
-    'che10' => 'https://www.androidfilehost.com/?fid=673368273298920883',
+    'che10' => 'https://forum.xda-developers.com/honor-4x/development/recovery-twrp-3-0-0-0-touch-recovery-t3309504',
     'cheeseburger' => 'https://bbs.mokeedev.com/t/topic/260',
-    'cherry' => 'https://www.androidfilehost.com/?fid=673368273298920883',
+    'cherry' => 'https://forum.xda-developers.com/honor-4x/development/recovery-twrp-3-0-0-0-touch-recovery-t3309504',
     'd857' => 'https://www.androidfilehost.com/?fid=457095661767128791',
     'dumpling' => 'https://bbs.mokeedev.com/t/topic/3198',
     'gemini' => 'http://teamw.in/devices/xiaomimi5.html',
