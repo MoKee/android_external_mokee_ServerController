@@ -183,6 +183,7 @@ $devices_info = array(
     array('model' => 'otus', 'name' => 'Moto E (2015)', 'brand' => 'Motorola'),
     array('model' => 'peach', 'name' => 'Benefit A3', 'brand' => 'ARK'),
     array('model' => 'peregrine', 'name' => 'Moto G LTE (Unified)', 'brand' => 'Motorola'),
+    array('model' => 'pioneer', 'name' => 'Xperia XA2', 'brand' => 'Sony'),
     array('model' => 'pme', 'name' => '10', 'brand' => 'HTC'),
     array('model' => 'polaris', 'name' => 'Mi MIX 2S', 'brand' => 'XiaoMi'),
     array('model' => 'quark', 'name' => 'Moto MAXX', 'brand' => 'Motorola'),
@@ -242,7 +243,7 @@ $devices_info = array(
     array('model' => 'wt86528', 'name' => 'K31/A6010', 'brand' => 'Lenovo'),
     array('model' => 'wt88047', 'name' => 'RedMi 2', 'brand' => 'XiaoMi'),
     array('model' => 'x2', 'name' => 'Max 2', 'brand' => 'LeEco'),
-    array('model' => 'x3', 'name' => 'Lenovo X3c50/X3c70', 'brand' => 'Lenovo'),
+    array('model' => 'x3', 'name' => 'X3c50/X3c70', 'brand' => 'Lenovo'),
     array('model' => 'x9180', 'name' => 'RedBull V5', 'brand' => 'ZTE'),
     array('model' => 'xt897', 'name' => 'Photon Q', 'brand' => 'Motorola'),
     array('model' => 'xt907', 'name' => 'Droid RAZR M', 'brand' => 'Motorola'),
@@ -262,7 +263,7 @@ $devices_info = array(
     array('model' => 'zerofltexx', 'name' => 'Galaxy S6', 'brand' => 'Samsung'),
     array('model' => 'zeroltexx', 'name' => 'Galaxy S6 Edge', 'brand' => 'Samsung'),
     array('model' => 'zl1', 'name' => 'Le Pro 3', 'brand' => 'LeEco'),
-    array('model' => 'zoom', 'name' => 'Lenovo Z90', 'brand' => 'Lenovo'),
+    array('model' => 'zoom', 'name' => 'Z90', 'brand' => 'Lenovo'),
 );
 
 $hardware_info = array(
