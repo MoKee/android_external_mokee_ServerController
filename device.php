@@ -278,7 +278,7 @@ $hardware_info = array(
                      'ram' => '2GB',
                      'rom' => '16GB',
                      'battery' => '2750 mAh',
-                     'display' => '5.0 inch, 1280x720 pixel(294ppi)(K5)/1920x1080 pixel(441ppi) (K5 Plus)',
+                     'display' => '5.0 inch, 1280x720 pixel(294ppi) (K5)/1920x1080 pixel(441ppi) (K5 Plus)',
                      'cpuarch' => 'ARM64'),
     'angler' => array('cpu' => 'Qualcomm® Snapdragon™ 810',
                         'ram' => '3GB of LP-DDR4',
