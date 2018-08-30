@@ -20,7 +20,7 @@ $devices_info = array(
     array('model' => 'castor', 'name' => 'Xperia Z2 Tablet LTE', 'brand' => 'Sony'),
     array('model' => 'castor_windy', 'name' => 'Xperia Z2 Tablet WiFi', 'brand' => 'Sony'),
     array('model' => 'clark', 'name' => 'Moto X Style', 'brand' => 'Motorola'),
-    array('model' => 'clover', 'name' => 'MI PAD 4 WiFi', 'brand' => 'XiaoMi'),
+    array('model' => 'clover', 'name' => 'MI PAD 4', 'brand' => 'XiaoMi'),
     array('model' => 'colombo', 'name' => 'M1L', 'brand' => 'Smartisan'),
     array('model' => 'condor', 'name' => 'Moto E', 'brand' => 'Motorola'),
     array('model' => 'crackling', 'name' => 'Swift', 'brand' => 'Wileyfox'),
