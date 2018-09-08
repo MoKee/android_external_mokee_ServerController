@@ -70,6 +70,13 @@ $extras_info = array(
                 'timestamp' => '1535040000',
                 'url' => 'https://androidfilehost.com/?fid=1322778262903988568',
             ),
+            array(
+                'filename' => 'RADIO-osborn-20180904222847.zip',
+                'filesize' => '60085513',
+                'summary' => 'MK81.0 20180909',
+                'timestamp' => '1536422400',
+                'url' => 'https://androidfilehost.com/?fid=1322778262904000089',
+            ),
         ),
     ),
     'oscar' => array(
@@ -79,7 +86,7 @@ $extras_info = array(
                 'filesize' => '49564240',
                 'summary' => 'MK71.2 20180818',
                 'timestamp' => '1534521600',
-                'url' => 'https://androidfilehost.com/?fid=1322778262903988568',
+                'url' => 'https://androidfilehost.com/?fid=1322778262903982533',
             ),
             array(
                 'filename' => 'RADIO-oscar-20180831170425.zip',
