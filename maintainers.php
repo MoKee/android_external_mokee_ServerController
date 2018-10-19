@@ -96,6 +96,8 @@ $maintainers_info = array(
                      'url' => 'http://weibo.com/parheliamm'),
     'scorpio' => array('name' => 'nian0114',
                      'url' => 'http://weibo.com/nian0114'),
+    'sirius' => array('name' => 'IsaacChen',
+                     'url' => 'http://weibo.com/tingyiisaac'),
     'sumire' => array('name' => 'parhelia',
                      'url' => 'http://weibo.com/parheliamm'),
     'suzuran' => array('name' => 'parhelia',
