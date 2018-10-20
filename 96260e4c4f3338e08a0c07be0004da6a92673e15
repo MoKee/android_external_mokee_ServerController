@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "49c29f56_e0df3355",
+        "filename": "maintainers.php",
+        "patchSetId": 2
+      },
+      "lineNbr": 99,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2018-10-20T12:29:29Z",
+      "side": 1,
+      "message": "不对啊，我看这里还是微博的呀。大家都逐渐换成bbs.mokeedev.com的地址，方便玩家找",
+      "revId": "96260e4c4f3338e08a0c07be0004da6a92673e15",
+      "serverId": "83d63960-fecf-4fd1-a7f6-e01518638a62",
+      "unresolved": true
+    }
+  ]
+}
