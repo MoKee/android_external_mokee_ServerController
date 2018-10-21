@@ -209,7 +209,7 @@ $devices_info = array(
     array('model' => 'serranoltexx', 'name' => 'Galaxy S4 Mini (Intl)', 'brand' => 'Samsung'),
     array('model' => 'shamrock', 'name' => 'Android One 3rd gen', 'brand' => 'Google'),
     array('model' => 'shamu', 'name' => 'Nexus 6', 'brand' => 'Google'),
-    array('model' => 'sirius', 'name' => 'MI 8 SE', 'brand' => 'Xiaomi'),
+    array('model' => 'sirius', 'name' => 'MI 8 SE', 'brand' => 'XiaoMi'),
     array('model' => 'sprout4', 'name' => 'Android One (4GB)', 'brand' => 'Google'),
     array('model' => 'sprout8', 'name' => 'Android One (8GB)', 'brand' => 'Google'),
     array('model' => 'spyder', 'name' => 'Droid Razr/Razr MAXX (CDMA)', 'brand' => 'Motorola'),
