@@ -724,6 +724,14 @@ $hardware_info = array(
                      'battery' => '3090 mAh',
                      'display' => '5.7 inch, 2560x1440 pixel(515ppi)',
                      'cpuarch' => 'ARM64'),
+    
+   'lettuce' => array('cpu' => 'Qualcomm® Snapdragon™ 410',
+                     'ram' => '2GB',
+                     'rom' => '16GB',
+                     'battery' => '2230 mAh',
+                     'display' => '5 inch, 1280x720 (294 PPI)',
+                     'cpuarch' => 'ARM64'),
+    
     'libra' => array('cpu' => 'Qualcomm® Snapdragon™ 808',
                      'ram' => '2/3GB',
                      'rom' => '16/32GB',
