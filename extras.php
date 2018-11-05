@@ -75,13 +75,6 @@ $extras_info = array(
     'oscar' => array(
         'radio' => array(
             array(
-                'filename' => 'RADIO-oscar-20180723223840.zip',
-                'filesize' => '49564240',
-                'summary' => 'MK71.2 20180818',
-                'timestamp' => '1534521600',
-                'url' => 'https://androidfilehost.com/?fid=1322778262903982533',
-            ),
-            array(
                 'filename' => 'RADIO-oscar-20180831170425.zip',
                 'filesize' => '49564156',
                 'summary' => 'MK71.2 20180907',
