@@ -64,13 +64,6 @@ $extras_info = array(
     'osborn' => array(
         'radio' => array(
             array(
-                'filename' => 'RADIO-osborn-20180819093819.zip',
-                'filesize' => '60084298',
-                'summary' => 'MK81.0 20180824',
-                'timestamp' => '1535040000',
-                'url' => 'https://androidfilehost.com/?fid=1322778262903988568',
-            ),
-            array(
                 'filename' => 'RADIO-osborn-20180904222847.zip',
                 'filesize' => '60085513',
                 'summary' => 'MK81.0 20180909',
