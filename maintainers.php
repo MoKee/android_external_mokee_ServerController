@@ -84,8 +84,6 @@ $maintainers_info = array(
                      'url' => 'https://plus.google.com/u/0/117066718532703598783'),
     'polaris' => array('name' => 'bai_wood',
                      'url' => 'https://bbs.mokeedev.com/u/bai_wood'),
-    'rk3288' => array('name' => 'XiNGRZ',
-                     'url' => 'https://weibo.com/xingrz'),
     'rolex' => array('name' => 'ManuCarmona',
                      'url' => 'https://github.com/manuelcarmona'),
     'sagit' => array('name' => 'bai_wood',
