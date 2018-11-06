@@ -46,6 +46,7 @@ $devices_info = array(
     array('model' => 'd857', 'name' => 'G3 Dual SIM (D856/7/8/8hk/9)', 'brand' => 'LG'),
     array('model' => 'deb', 'name' => 'Nexus 7 2013 (LTE)', 'brand' => 'Google'),
     array('model' => 'dior', 'name' => 'Redmi Note 4g', 'brand' => 'XiaoMi'),
+    array('model' => 'discovery', 'name' => 'Xperia XA2 Ultra', 'brand' => 'Sony'),
     array('model' => 'dlx', 'name' => 'Droid DNA', 'brand' => 'HTC'),
     array('model' => 'dogo', 'name' => 'Xperia ZR', 'brand' => 'Sony'),
     array('model' => 'dragon', 'name' => 'Pixel C', 'brand' => 'Google'),
