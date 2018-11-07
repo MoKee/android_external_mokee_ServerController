@@ -68,6 +68,15 @@ $extras_info = array(
                 'url' => 'https://androidfilehost.com/?fid=1322778262903999192',
             ),
         ),
+        'radio' => array(
+            array(
+                'filename' => 'RADIO-oscar-20181011110249.zip',
+                'filesize' => '49563969',
+                'summary' => 'MK71.2 20181107',
+                'timestamp' => '1541520000',
+                'url' => 'https://androidfilehost.com/?fid=11410963190603841547',
+            ),
+        ),
     ),
     'whyred' => array(
         'radio' => array(
