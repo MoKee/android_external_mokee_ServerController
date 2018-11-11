@@ -16,6 +16,7 @@ $recovery_info = array(
     'jason' => 'https://twrp.me/xiaomi/xiaomiminote3.html',
     'jsglte' => 'https://github.com/GaHoKwan/twrp_device_samsung_jsglte/raw/android-7.1/prebuilt/twrp-3.2.1-0-jsglte.img.tar',
     'leo' => 'https://pan.baidu.com/s/1i5RM4Ix',
+    'libra' => 'https://pan.baidu.com/s/19hrD16vQej4wvhzgQn8ZCw',
     'nx523j' => 'http://bbs.nubia.cn/thread-680629-1-1.html',
     'nx529j' => 'https://pan.baidu.com/s/1kVqe77h',
     'nx531j' => 'https://www.androidfilehost.com/?w=files&flid=125093',
