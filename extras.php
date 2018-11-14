@@ -78,6 +78,17 @@ $extras_info = array(
             ),
         ),
     ),
+    'rosy' => array(
+        'radio' => array(
+            array(
+                'filename' => 'RADIO_rosy_V9.6.4.0.zip',
+                'filesize' => '48761288',
+                'summary' => 'MK81.0 20181114',
+                'timestamp' => '1542199129',
+                'url' => 'https://www.androidfilehost.com/?fid=11410963190603846504',
+            ),
+        ),
+    ),
     'whyred' => array(
         'radio' => array(
             array(
