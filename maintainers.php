@@ -93,7 +93,7 @@ $maintainers_info = array(
     'santoni' => array('name' => 'IsaacChen',
                      'url' => 'https://bbs.mokeedev.com/u/tingyichen/'),
     'satsuki' => array('name' => 'parhelia',
-                     'url' => 'http://weibo.com/parheliamm'),
+                     'url' => 'https://bbs.mokeedev.com/u/parheliamm'),
     'scorpio' => array('name' => 'nian0114',
                      'url' => 'http://weibo.com/nian0114'),
     'sirius' => array('name' => 'IsaacChen',
