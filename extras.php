@@ -61,20 +61,20 @@ $extras_info = array(
     'oscar' => array(
         'radio' => array(
             array(
-                'filename' => 'RADIO-oscar-20180831170425.zip',
-                'filesize' => '49564156',
-                'summary' => 'MK71.2 20180907',
-                'timestamp' => '1536249600',
-                'url' => 'https://androidfilehost.com/?fid=1322778262903999192',
-            ),
-        ),
-        'radio' => array(
-            array(
                 'filename' => 'RADIO-oscar-20181011110249.zip',
                 'filesize' => '49563969',
                 'summary' => 'MK71.2 20181107',
                 'timestamp' => '1541520000',
                 'url' => 'https://androidfilehost.com/?fid=11410963190603841547',
+            ),
+        ),
+        'radio' => array(
+            array(
+                'filename' => 'RADIO-oscar-20181030170847.zip',
+                'filesize' => '49564566',
+                'summary' => 'MK71.2 20181122',
+                'timestamp' => '1542816000',
+                'url' => 'https://androidfilehost.com/?fid=11410963190603855087',
             ),
         ),
     ),
