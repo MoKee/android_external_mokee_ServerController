@@ -56,6 +56,13 @@ $extras_info = array(
                 'timestamp' => '1536422400',
                 'url' => 'https://androidfilehost.com/?fid=1322778262904000089',
             ),
+            array(
+                'filename' => 'RADIO-osborn-20181029203642.zip',
+                'filesize' => '60084674',
+                'summary' => 'MK81.0 20181202',
+                'timestamp' => '1543680000',
+                'url' => 'https://androidfilehost.com/?fid=11410963190603863206',
+            ),
         ),
     ),
     'oscar' => array(
