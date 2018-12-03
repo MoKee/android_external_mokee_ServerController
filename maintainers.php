@@ -40,6 +40,8 @@ $maintainers_info = array(
                      'url' => 'http://github.com/EsromG5'),
     'j5nltexx' => array('name' => 'EsromG5',
                      'url' => 'http://github.com/EsromG5'),
+    'jasmine' => array('name' => 'IsaacChen',
+                     'url' => 'https://bbs.mokeedev.com/u/tingyichen/'),
     'jason' => array('name' => 'dianlujitao',
                      'url' => 'https://bbs.mokeedev.com/u/dianlujitao'),
     'jsglte' => array('name' => 'luo2888',
