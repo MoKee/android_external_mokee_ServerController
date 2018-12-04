@@ -18,6 +18,17 @@ $extras_info = array(
             ),
         ),
     ),
+    'colombo' => array(
+        'radio' => array(
+            array(
+                'filename' => 'RADIO-colombo-20181016155943.zip',
+                'filesize' => '48850128',
+                'summary' => 'MK71.2 20181204',
+                'timestamp' => '1543852800',
+                'url' => 'https://androidfilehost.com/?fid=11410963190603865847',
+            ),
+        ),
+    ),
     'dumpling' => array(
         'radio' => array(
             array(
