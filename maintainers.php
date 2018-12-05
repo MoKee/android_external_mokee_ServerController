@@ -89,7 +89,7 @@ $maintainers_info = array(
     'peach' => array('name' => 'lolmaxlik',
                      'url' => 'https://plus.google.com/u/0/117066718532703598783'),
     'platina' => array('name' => '梦里无念glory',
-                     'url' => 'https://weibo.com/lihonglin10010'),
+                     'url' => 'https://bbs.mokeedev.com/u/glory'),
     'polaris' => array('name' => 'bai_wood',
                      'url' => 'https://bbs.mokeedev.com/u/bai_wood'),
     'rolex' => array('name' => 'ManuCarmona',
