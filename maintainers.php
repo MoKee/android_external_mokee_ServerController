@@ -88,6 +88,8 @@ $maintainers_info = array(
                      'url' => 'https://bbs.mokeedev.com/u/xingrz'),
     'peach' => array('name' => 'lolmaxlik',
                      'url' => 'https://plus.google.com/u/0/117066718532703598783'),
+    'platina' => array('name' => '梦里无念glory',
+                     'url' => 'https://weibo.com/lihonglin10010'),
     'polaris' => array('name' => 'bai_wood',
                      'url' => 'https://bbs.mokeedev.com/u/bai_wood'),
     'rolex' => array('name' => 'ManuCarmona',
