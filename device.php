@@ -192,6 +192,7 @@ $devices_info = array(
     array('model' => 'peach', 'name' => 'Benefit A3', 'brand' => 'ARK'),
     array('model' => 'peregrine', 'name' => 'Moto G LTE (Unified)', 'brand' => 'Motorola'),
     array('model' => 'pioneer', 'name' => 'Xperia XA2', 'brand' => 'Sony'),
+    array('model' => 'platina', 'name' => 'Mi 8 Lite', 'brand' => 'XiaoMi'),
     array('model' => 'pme', 'name' => '10', 'brand' => 'HTC'),
     array('model' => 'polaris', 'name' => 'Mi MIX 2S', 'brand' => 'XiaoMi'),
     array('model' => 'quark', 'name' => 'Moto MAXX', 'brand' => 'Motorola'),
