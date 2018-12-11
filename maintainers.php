@@ -14,8 +14,6 @@ $maintainers_info = array(
                      'url' => 'https://bbs.mokeedev.com/u/guaiyihu'),
     'colombo' => array('name' => 'XiNGRZ',
                      'url' => 'https://bbs.mokeedev.com/u/xingrz'),
-    'cp8675' => array('name' => 'Flour_Mo',
-                     'url' => 'http://weibo.com/2036597861'),
     'd857' => array('name' => '豆浆炒蛋',
                      'url' => 'http://weibo.com/3921475456'),
     'dior' => array('name' => '子龙zj',
