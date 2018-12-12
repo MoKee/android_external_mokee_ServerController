@@ -76,6 +76,8 @@ $maintainers_info = array(
                      'url' => 'https://bbs.mokeedev.com/u/chenzc'),
     'nx595j' => array('name' => 'chenzc',
                      'url' => 'https://bbs.mokeedev.com/u/chenzc'),
+    'odin' => array('name' => 'XiNGRZ',
+                     'url' => 'https://bbs.mokeedev.com/u/xingrz'),
     'oneplus3' => array('name' => 'dianlujitao',
                      'url' => 'https://bbs.mokeedev.com/u/dianlujitao'),
     'onyx' => array('name' => '皓睿睡不着与皓睿起不来',
