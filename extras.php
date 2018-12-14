@@ -10,11 +10,11 @@ $extras_info = array(
                 'url' => 'https://androidfilehost.com/?fid=746010030569959670',
             ),
             array(
-                'filename' => 'RADIO-cheeseburger-20180911003623.zip',
-                'filesize' => '63731732',
-                'summary' => 'MK81.0 20180921',
-                'timestamp' => '1537459200',
-                'url' => 'https://androidfilehost.com/?fid=1322778262904009944',
+                'filename' => 'RADIO-cheeseburger-20181010200421.zip',
+                'filesize' => '63840028',
+                'summary' => 'MK81.0 20181216',
+                'timestamp' => '1544806700',
+                'url' => 'https://drive.google.com/open?id=12dN0dvnuV82WoGP4-QR3QSqCeGmgLwIK',
             ),
         ),
     ),
@@ -32,11 +32,11 @@ $extras_info = array(
     'dumpling' => array(
         'radio' => array(
             array(
-                'filename' => 'RADIO-dumpling-20180910235716.zip',
-                'filesize' => '63735939',
-                'summary' => 'MK81.0 20180921',
-                'timestamp' => '1537459200',
-                'url' => 'https://androidfilehost.com/?fid=1322778262904009930',
+                'filename' => 'RADIO-dumpling-20181025005754.zip',
+                'filesize' => '63840634',
+                'summary' => 'MK81.0 20181216',
+                'timestamp' => '1544806700',
+                'url' => 'https://drive.google.com/open?id=1Bw1onmqFbVtEjJqGfKuufSJCb-cwPuhN',
             ),
         ),
     ),
