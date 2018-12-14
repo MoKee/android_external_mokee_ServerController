@@ -37,5 +37,5 @@ $recovery_info = array(
     'vince' => 'https://twrp.me/xiaomi/xiaomiredmi5plus.html',
     'virgo' => 'https://pan.baidu.com/s/1pKIROnx',
     'x3' => 'https://forum.xda-developers.com/android/development/recovery-twrp-3-0-2-0-touch-recovery-t3469491',
-    'zl1' => 'https://twrp.me/leeco/leecolepro3.html',
+    'zl1' => 'https://twrp.me/leeco/leecolepro3.html'
 );
