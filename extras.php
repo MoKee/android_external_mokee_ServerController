@@ -12,7 +12,7 @@ $extras_info = array(
             array(
                 'filename' => 'RADIO-cheeseburger-20181010200421.zip',
                 'filesize' => '63840028',
-                'summary' => 'MK81.0 20181216',
+                'summary' => 'MK81.0 20181217',
                 'timestamp' => '1544806700',
                 'url' => 'https://androidfilehost.com/?fid=11410963190603875622'
             )
@@ -34,7 +34,7 @@ $extras_info = array(
             array(
                 'filename' => 'RADIO-dumpling-20181025005754.zip',
                 'filesize' => '63840634',
-                'summary' => 'MK81.0 20181216',
+                'summary' => 'MK81.0 20181217',
                 'timestamp' => '1544806700',
                 'url' => 'https://androidfilehost.com/?fid=11410963190603875626'
             )
