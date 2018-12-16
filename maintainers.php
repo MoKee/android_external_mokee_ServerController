@@ -200,6 +200,10 @@ $maintainers_info = array(
         'name' => 'bai_wood',
         'url' => 'https://bbs.mokeedev.com/u/bai_wood'
     ),
+    'sakura' => array(
+        'name' => '子龙zj',
+        'url' => 'https://bbs.mokeedev.com/u/subdragonzj'
+    ),
     'santoni' => array(
         'name' => 'IsaacChen',
         'url' => 'https://bbs.mokeedev.com/u/tingyichen/'
