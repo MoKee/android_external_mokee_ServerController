@@ -173,6 +173,7 @@ $devices_info = array(
     array('model' => 'rosy', 'name' => 'Redmi 5', 'brand' => 'XiaoMi'),
     array('model' => 's2', 'name' => 'Le 2', 'brand' => 'LeEco'),
     array('model' => 'sagit', 'name' => 'Mi-6', 'brand' => 'XiaoMi'),
+    array('model' => 'sakura', 'name' => 'Redmi 6 Pro', 'brand' => 'XiaoMi'),
     array('model' => 'sambar', 'name' => 'Yutopia', 'brand' => 'YU'),
     array('model' => 'santoni', 'name' => 'Redmi 4X', 'brand' => 'XiaoMi'),
     array('model' => 'satsuki', 'name' => 'Xperia Z5 Premium Dual', 'brand' => 'Sony'),
@@ -1089,6 +1090,14 @@ $hardware_info = array(
         'rom' => '64/128GB',
         'battery' => '3350 mAh',
         'display' => '5.15 inch, 1920x1080 pixel(428ppi)',
+        'cpuarch' => 'ARM64'
+    ),
+    'sakura' => array(
+        'cpu' => 'Qualcomm® Snapdragon™ 625',
+        'ram' => '3/4GB',
+        'rom' => '32/64GB',
+        'battery' => '4000 mAh',
+        'display' => ' 5.84 inch, 2280x1080 pixel(432ppi)',
         'cpuarch' => 'ARM64'
     ),
     'santoni' => array(
