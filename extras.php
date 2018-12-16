@@ -107,6 +107,17 @@ $extras_info = array(
             )
         )
     ),
+    'sakura' => array(
+        'radio' => array(
+            array(
+                'filename' => 'RADIO_sakura_V10.0.5.0.ODICNFH.zip',
+                'filesize' => '52110027',
+                'summary' => 'MK81.0 20181216',
+                'timestamp' => '1544339786',
+                'url' => 'https://www.androidfilehost.com/?fid=11410963190603875570'
+            )
+        )
+    ),
     'surabaya' => array(
         'radio' => array(
             array(
