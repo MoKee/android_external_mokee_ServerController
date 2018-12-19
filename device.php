@@ -17,7 +17,7 @@ $devices_info = array(
     array('model' => 'cancro', 'name' => 'Mi-3w/Mi-4', 'brand' => 'XiaoMi'),
     array('model' => 'capricorn', 'name' => 'Mi-5s', 'brand' => 'XiaoMi'),
     array('model' => 'clark', 'name' => 'Moto X Style', 'brand' => 'Motorola'),
-    array('model' => 'clover', 'name' => 'MI PAD 4', 'brand' => 'XiaoMi'),
+    array('model' => 'clover', 'name' => 'Mi Pad 4', 'brand' => 'XiaoMi'),
     array('model' => 'colombo', 'name' => 'M1L', 'brand' => 'Smartisan'),
     array('model' => 'condor', 'name' => 'Moto E', 'brand' => 'Motorola'),
     array('model' => 'crackling', 'name' => 'Swift', 'brand' => 'Wileyfox'),
