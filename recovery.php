@@ -5,6 +5,7 @@ $recovery_info = array(
     'che10' => 'https://forum.xda-developers.com/honor-4x/development/recovery-twrp-3-0-0-0-touch-recovery-t3309504',
     'cheeseburger' => 'https://bbs.mokeedev.com/t/topic/260',
     'cherry' => 'https://forum.xda-developers.com/honor-4x/development/recovery-twrp-3-0-0-0-touch-recovery-t3309504',
+    'clover' => 'https://pan.baidu.com/s/1_IrhHaM16DLtSxsuBhwzIQ',
     'colombo' => 'https://bbs.mokeedev.com/t/topic/10223',
     'd857' => 'https://www.androidfilehost.com/?fid=457095661767128791',
     'dumpling' => 'https://bbs.mokeedev.com/t/topic/3198',
