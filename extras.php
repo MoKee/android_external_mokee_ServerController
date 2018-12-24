@@ -58,6 +58,17 @@ $extras_info = array(
             )
         )
     ),
+    'odin' => array(
+        'radio' => array(
+            array(
+                'filename' => 'RADIO-odin-20181029214547.zip',
+                'filesize' => '48179744',
+                'summary' => 'MK81.0 20181220',
+                'timestamp' => '1545235200',
+                'url' => 'https://androidfilehost.com/?fid=11410963190603881442'
+            )
+        )
+    ),
     'osborn' => array(
         'radio' => array(
             array(
