@@ -18,17 +18,17 @@ $extras_info = array(
             )
         )
     ),
-    'colombo' => array(
-        'radio' => array(
-            array(
-                'filename' => 'RADIO-colombo-20181016155943.zip',
-                'filesize' => '48850128',
-                'summary' => 'MK71.2 20181204',
-                'timestamp' => '1543852800',
-                'url' => 'https://androidfilehost.com/?fid=11410963190603865847'
-            )
-        )
-    ),
+    // 'colombo' => array(
+    //     'radio' => array(
+    //         array(
+    //             'filename' => 'RADIO-colombo-20181016155943.zip',
+    //             'filesize' => '48850128',
+    //             'summary' => 'MK71.2 20181204',
+    //             'timestamp' => '1543852800',
+    //             'url' => 'https://androidfilehost.com/?fid=11410963190603865847'
+    //         )
+    //     )
+    // ),
     'dumpling' => array(
         'radio' => array(
             array(
@@ -116,17 +116,17 @@ $extras_info = array(
             )
         )
     ),
-    'surabaya' => array(
-        'radio' => array(
-            array(
-                'filename' => 'RADIO-surabaya-20181016154239.zip',
-                'filesize' => '48856459',
-                'summary' => 'MK71.2 20181204',
-                'timestamp' => '1543852800',
-                'url' => 'https://androidfilehost.com/?fid=11410963190603866033'
-            )
-        )
-    ),
+    // 'surabaya' => array(
+    //     'radio' => array(
+    //         array(
+    //             'filename' => 'RADIO-surabaya-20181016154239.zip',
+    //             'filesize' => '48856459',
+    //             'summary' => 'MK71.2 20181204',
+    //             'timestamp' => '1543852800',
+    //             'url' => 'https://androidfilehost.com/?fid=11410963190603866033'
+    //         )
+    //     )
+    // ),
     'whyred' => array(
         'radio' => array(
             array(
