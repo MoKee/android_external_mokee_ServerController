@@ -25,6 +25,7 @@ $recovery_info = array(
     'nx549j' => 'http://bbs.nubia.cn/thread-860137-1-1.html',
     'nx563j' => 'http://bbs.zhiyoo.com/thread-13355410-1-1.html',
     'nx569j' => 'http://bbs.nubia.cn/thread-910474-1-1.html',
+    'odin' => 'https://bbs.mokeedev.com/',
     'oneplus3' => 'https://twrp.me/oneplus/oneplusthree.html',
     'oscar' => 'https://bbs.mokeedev.com/t/topic/8343',
     'polaris' => 'https://forum.xda-developers.com/xiaomi-mi-mix-2s/development/recovery-twrp-mix-2s-t3790922',
