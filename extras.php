@@ -72,17 +72,17 @@ $extras_info = array(
     'osborn' => array(
         'radio' => array(
             array(
-                'filename' => 'RADIO-osborn-20180904222847.zip',
-                'filesize' => '60085513',
-                'summary' => 'MK81.0 20180909',
-                'timestamp' => '1536422400',
-                'url' => 'https://androidfilehost.com/?fid=1322778262904000089'
-            ),
-            array(
                 'filename' => 'RADIO-osborn-20181029203642.zip',
                 'filesize' => '60084674',
                 'summary' => 'MK81.0 20181202',
                 'timestamp' => '1543680000',
+                'url' => 'https://androidfilehost.com/?fid=11410963190603863206'
+            ),
+            array(
+                'filename' => 'RADIO-osborn-20181029203642.zip',
+                'filesize' => '60084674',
+                'summary' => 'MK90.0 20181228',
+                'timestamp' => '1545926400',
                 'url' => 'https://androidfilehost.com/?fid=11410963190603863206'
             )
         )
@@ -102,6 +102,17 @@ $extras_info = array(
                 'summary' => 'MK81.0 20181221',
                 'timestamp' => '1545321600',
                 'url' => 'https://androidfilehost.com/?fid=11410963190603855087'
+            )
+        )
+    ),
+    'oxford' => array(
+        'radio' => array(
+            array(
+                'filename' => 'RADIO-oxford-20181030195741.zip',
+                'filesize' => '59252777',
+                'summary' => 'MK90.0 20181228',
+                'timestamp' => '1545926400',
+                'url' => 'https://androidfilehost.com/?fid=11410963190603885645'
             )
         )
     ),
