@@ -80,7 +80,7 @@ $maintainers_info = array(
         'name' => 'EsromG5',
         'url' => 'http://github.com/EsromG5'
     ),
-    'jasmine' => array(
+    'jasmine_sprout' => array(
         'name' => 'IsaacChen',
         'url' => 'https://bbs.mokeedev.com/u/tingyichen/'
     ),

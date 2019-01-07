@@ -92,7 +92,7 @@ $devices_info = array(
     array('model' => 'jag3gds', 'name' => 'G3 S', 'brand' => 'LG'),
     array('model' => 'jagnm', 'name' => 'G3 Beat', 'brand' => 'LG'),
     array('model' => 'jalebi', 'name' => 'Yunique', 'brand' => 'YU'),
-    array('model' => 'jasmine', 'name' => 'Mi A2', 'brand' => 'XiaoMi'),
+    array('model' => 'jasmine_sprout', 'name' => 'Mi A2', 'brand' => 'XiaoMi'),
     array('model' => 'jason', 'name' => 'Mi Note 3', 'brand' => 'XiaoMi'),
     array('model' => 'jfltexx', 'name' => 'Galaxy S4 (Intl)', 'brand' => 'Samsung'),
     array('model' => 'jordanplus', 'name' => 'Defy / Defy Plus', 'brand' => 'Motorola'),
@@ -636,7 +636,7 @@ $hardware_info = array(
         'display' => '4.7 inch, 1280x720 pixel(312ppi)',
         'cpuarch' => 'ARM'
     ),
-    'jasmine' => array(
+    'jasmine_sprout' => array(
         'cpu' => 'Qualcomm® Snapdragon™ 660',
         'ram' => '4GB/6GB',
         'rom' => '64/128GB',
