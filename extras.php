@@ -1,5 +1,8 @@
 <?php
 $extras_info = array(
+    'cancro' => array(
+        'recovery' => 'https://pan.baidu.com/s/1aIRJoqeIxr5IGU06y9ZBUQ'
+    ),
     'cheeseburger' => array(
         'radio' => array(
             array(
@@ -18,6 +21,9 @@ $extras_info = array(
             )
         )
     ),
+    'clover' => array(
+        'recovery' => 'https://pan.baidu.com/s/1HgjIWw2WPdnNEdpMN2GCTw'
+    ),
     'dumpling' => array(
         'radio' => array(
             array(
@@ -28,6 +34,12 @@ $extras_info = array(
                 'url' => 'https://androidfilehost.com/?fid=11410963190603875626'
             )
         )
+    ),
+    'leo' => array(
+        'recovery' => 'https://pan.baidu.com/s/1bmFbrLFj8rH9FLn3V-rt8A'
+    ),
+    'libra' => array(
+        'recovery' => 'https://pan.baidu.com/s/1mckBFfUBUKGM69SrNlLz5w'
     ),
     'nx563j' => array(
         'radio' => array(
@@ -129,6 +141,9 @@ $extras_info = array(
                 'url' => 'https://www.androidfilehost.com/?fid=11410963190603875570'
             )
         )
+    ),
+    'virgo' => array(
+        'recovery' => 'https://pan.baidu.com/s/15JLsANnQfMaiZonlPYAJhQ'
     ),
     'whyred' => array(
         'radio' => array(
