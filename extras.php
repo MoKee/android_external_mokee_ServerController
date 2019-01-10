@@ -94,19 +94,12 @@ $extras_info = array(
             array(
                 'filename' => 'RADIO-oscar-20181030170847.zip',
                 'filesize' => '49564566',
-                'summary' => 'MK71.2 20181122',
-                'timestamp' => '1542816000',
-                'url' => 'https://androidfilehost.com/?fid=11410963190603855087'
-            ),
-            array(
-                'filename' => 'RADIO-oscar-20181030170847.zip',
-                'filesize' => '49564566',
-                'summary' => 'MK81.0 20181221',
-                'timestamp' => '1545321600',
+                'summary' => 'MK90.0 20190111',
+                'timestamp' => '1547136000',
                 'url' => 'https://androidfilehost.com/?fid=11410963190603855087'
             )
         ),
-        'recovery' => 'https://bbs.mokeedev.com/t/topic/8343'
+        'recovery' => 'https://bbs.mokeedev.com/t/topic/10536'
     ),
     'oxford' => array(
         'radio' => array(
