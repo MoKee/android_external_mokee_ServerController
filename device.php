@@ -421,6 +421,14 @@ $hardware_info = array(
         'display' => '4.55 inch, 1280x720 pixel(319ppi)',
         'cpuarch' => 'ARM'
     ),
+    'dragon' => array(
+        'cpu' => 'NVIDIA® Tegra™ X1',
+        'ram' => '3GB LP-DDR4',
+        'rom' => '32/64GB eMMC 5.0',
+        'battery' => '9000 mAh',
+        'display' => '10.2 inch, 2560x1800 pixel(308ppi)',
+        'cpuarch' => 'ARM64'
+    ),
     'dumpling' => array(
         'cpu' => 'Qualcomm® Snapdragon™ 835',
         'ram' => '6/8GB of LP-DDR4X',

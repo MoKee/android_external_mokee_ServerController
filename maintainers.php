@@ -36,6 +36,10 @@ $maintainers_info = array(
         'name' => '子龙zj',
         'url' => 'https://bbs.mokeedev.com/u/subdragonzj'
     ),
+    'dragon' => array(
+        'name' => 'updateing',
+        'url' => 'https://bbs.mokeedev.com/u/updateing'
+    ),
     'dumpling' => array(
         'name' => 'XiNGRZ',
         'url' => 'https://bbs.mokeedev.com/u/xingrz'
