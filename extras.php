@@ -81,6 +81,13 @@ $extras_info = array(
                 'summary' => 'MK81.0 20181114',
                 'timestamp' => '1542199129',
                 'url' => 'https://www.androidfilehost.com/?fid=11410963190603846504'
+            ),
+            array(
+                'filename' => 'RADIO_rosy_8.12.27.zip',
+                'filesize' => '50913363',
+                'summary' => 'MK90.0 20190125',
+                'timestamp' => '1546337745',
+                'url' => 'https://www.androidfilehost.com/?fid=11410963190603907920'
             )
         )
     ),
