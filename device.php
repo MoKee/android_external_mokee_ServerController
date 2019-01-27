@@ -198,7 +198,7 @@ $devices_info = array(
     array('model' => 'tocino', 'name' => '2 (Oreo rename as oneplus2)', 'brand' => 'OnePlus'),
     array('model' => 'tomato', 'name' => 'Yureka (AO5510)', 'brand' => 'YU'),
     array('model' => 'tsubasa', 'name' => 'Xperia V', 'brand' => 'Sony'),
-    array('model' => 'tulip', 'name' => 'Axon 7 Mini', 'brand' => 'ZTE'),
+    array('model' => 'tulip', 'name' => 'Redmi Note 6 Pro', 'brand' => 'XiaoMi'),
     array('model' => 'v500', 'name' => 'G Pad 8.3', 'brand' => 'LG'),
     array('model' => 'victara', 'name' => 'Moto X 2014 (Unified)', 'brand' => 'Motorola'),
     array('model' => 'victara_retcn', 'name' => 'Moto X 2014 (China)', 'brand' => 'Motorola'),
@@ -1234,6 +1234,14 @@ $hardware_info = array(
         'rom' => '16GB/64GB',
         'battery' => '3300 mAh',
         'display' => '5.5 inch, 1920x1080 pixel(401ppi)',
+        'cpuarch' => 'ARM64'
+    ),
+    'tulip' => array(
+        'cpu' => 'Qualcomm® Snapdragon™ 636',
+        'ram' => '3GB/4GB/6GB',
+        'rom' => '32GB/64GB',
+        'battery' => '4000 mAh',
+        'display' => '6.26 inch, 2280x1080 pixel(403ppi)',
         'cpuarch' => 'ARM64'
     ),
     'victara' => array(
