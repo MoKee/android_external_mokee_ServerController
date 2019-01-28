@@ -240,6 +240,10 @@ $maintainers_info = array(
         'name' => 'parhelia',
         'url' => 'https://bbs.mokeedev.com/u/parheliamm'
     ),
+    'tulip' => array(
+        'name' => 'rama982',
+        'url' => 'https://t.me/rama982'
+    ),
     'vince' => array(
         'name' => 'IsaacChen',
         'url' => 'https://bbs.mokeedev.com/u/tingyichen/'
