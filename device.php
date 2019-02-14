@@ -444,6 +444,13 @@ $hardware_info = array(
         'display' => '4.5 inch, 1280 x 720 pixels(329ppi)',
         'cpuarch' => 'ARM'
     ),
+    'flounder' => array(
+        'cpu' => 'Nvidia® Tegra™ K1',
+        'ram' => '2GB',
+        'rom' => '16GB/32GB',
+        'display' => '8.9 inch, 2048 x 1536 pixels(283ppi)',
+        'cpuarch' => 'ARM64'
+    ),
     'f460' => array(
         'cpu' => 'Qualcomm® Snapdragon™ APQ8084',
         'ram' => '3GB',
