@@ -14,6 +14,7 @@ $devices_info = array(
     array('model' => 'bacon', 'name' => '1', 'brand' => 'OnePlus'),
     array('model' => 'berlin', 'name' => 'Honor 6X', 'brand' => 'Huawei'),
     array('model' => 'bullhead', 'name' => 'Nexus 5X', 'brand' => 'Google'),
+    array('model' => 'beryllium', 'name' => 'Pocophone F1', 'brand' => 'XiaoMi'),
     array('model' => 'cancro', 'name' => 'Mi-3w/Mi-4', 'brand' => 'XiaoMi'),
     array('model' => 'capricorn', 'name' => 'Mi-5s', 'brand' => 'XiaoMi'),
     array('model' => 'che10', 'name' => 'Honor 4X (China Telecom)', 'brand' => 'Huawei'),
