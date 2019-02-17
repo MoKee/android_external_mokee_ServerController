@@ -31,7 +31,11 @@ $extras_info = array(
                 'timestamp' => '1526868212',
                 'url' => 'https://androidfilehost.com/?fid=818222786056031703'
             )
-        )
+        ),
+        'recovery' => 'https://share.weiyun.com/5oUwQrC'
+    ),
+    'nx595j' => array(
+        'recovery' => 'https://share.weiyun.com/5oUwQrC'
     ),
     'osborn' => array(
         'radio' => array(
