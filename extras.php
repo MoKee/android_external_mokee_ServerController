@@ -6,6 +6,9 @@ $extras_info = array(
     'clover' => array(
         'recovery' => 'https://pan.baidu.com/s/1HgjIWw2WPdnNEdpMN2GCTw'
     ),
+    'icesky' => array(
+        'recovery' => 'https://bbs.mokeedev.com/t/topic/11917'
+    ),
     'leo' => array(
         'recovery' => 'https://pan.baidu.com/s/1bmFbrLFj8rH9FLn3V-rt8A'
     ),
