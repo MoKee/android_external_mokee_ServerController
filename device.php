@@ -46,6 +46,7 @@ $devices_info = array(
     array('model' => 'dogo', 'name' => 'Xperia ZR', 'brand' => 'Sony'),
     array('model' => 'dragon', 'name' => 'Pixel C', 'brand' => 'Google'),
     array('model' => 'dumpling', 'name' => '5T', 'brand' => 'OnePlus'),
+    array('model' => 'enchilada', 'name' => '6', 'brand' => 'OnePlus'),
     array('model' => 'ether', 'name' => 'Robin', 'brand' => 'Nextbit'),
     array('model' => 'f400', 'name' => 'G3 (Korea)', 'brand' => 'LG'),
     array('model' => 'f460', 'name' => 'G3 Cat.6(Korea)', 'brand' => 'LG'),
