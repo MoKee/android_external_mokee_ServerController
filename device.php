@@ -42,6 +42,7 @@ $devices_info = array(
     array('model' => 'd857', 'name' => 'G3 Dual SIM (D856/7/8/8hk/9)', 'brand' => 'LG'),
     array('model' => 'deb', 'name' => 'Nexus 7 2013 (LTE)', 'brand' => 'Google'),
     array('model' => 'dior', 'name' => 'Redmi Note 4g', 'brand' => 'XiaoMi'),
+    array('model' => 'dipper', 'name' => 'Mi-8', 'brand' => 'XiaoMi'),
     array('model' => 'discovery', 'name' => 'Xperia XA2 Ultra', 'brand' => 'Sony'),
     array('model' => 'dogo', 'name' => 'Xperia ZR', 'brand' => 'Sony'),
     array('model' => 'dragon', 'name' => 'Pixel C', 'brand' => 'Google'),
@@ -414,6 +415,14 @@ $hardware_info = array(
         'battery' => '3100 mAh',
         'display' => '5.5 inch, 1280x720 pixel(267ppi)',
         'cpuarch' => 'ARM'
+    ),
+    'dipper' => array(
+        'cpu' => 'Qualcomm® Snapdragon™ SDM845',
+        'ram' => '6GB',
+        'rom' => '64/128/256GB',
+        'battery' => '3400 mAh',
+        'display' => '6.21 inch, 1080x2248 pixel(402ppi)',
+        'cpuarch' => 'ARM64'
     ),
     'dogo' => array(
         'cpu' => 'Qualcomm® Snapdragon™ S4 Pro APQ8064',
