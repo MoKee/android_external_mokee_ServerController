@@ -290,6 +290,14 @@ $hardware_info = array(
         'display' => '5.5 inch, 1920x1080 pixel(401ppi)',
         'cpuarch' => 'ARM'
     ),
+    'beryllium' => array(
+        'cpu' => 'Qualcomm® Snapdragon™ 845',
+        'ram' => '6/8GB of LP-DDR4X',
+        'rom' => '64/128/256GB',
+        'battery' => '4000 mAh',
+        'display' => '6.18 inch, 2246x1080 pixel(403ppi)',
+        'cpuarch' => 'ARM64'
+    ),
     'cancro' => array(
         'cpu' => 'Qualcomm® Snapdragon™ 801',
         'ram' => '3GB of LP-DDR3',
