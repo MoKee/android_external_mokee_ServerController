@@ -314,6 +314,14 @@ $hardware_info = array(
         'display' => '5.15 inch, 1920x1080 pixel(428ppi)',
         'cpuarch' => 'ARM64'
     ),
+    'charlotte' => array(
+        'cpu' => 'HiSilicon® Kirin™ 970',
+        'ram' => '6/8GB of LP-DDR4X',
+        'rom' => '64/128/256GB',
+        'battery' => '4000 mAh',
+        'display' => '6.1 inch, 2240x1080 pixel(408ppi)',
+        'cpuarch' => 'ARM64'
+    ),
     'che10' => array(
         'cpu' => 'Qualcomm® Snapdragon™ 410',
         'ram' => '2GB of LP-DDR3',
@@ -428,7 +436,7 @@ $hardware_info = array(
     ),
     'dipper' => array(
         'cpu' => 'Qualcomm® Snapdragon™ SDM845',
-        'ram' => '6GB',
+        'ram' => '6/8GB of LP-DDR4X',
         'rom' => '64/128/256GB',
         'battery' => '3400 mAh',
         'display' => '6.21 inch, 1080x2248 pixel(402ppi)',
