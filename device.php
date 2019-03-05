@@ -290,6 +290,14 @@ $hardware_info = array(
         'display' => '5.5 inch, 1920x1080 pixel(401ppi)',
         'cpuarch' => 'ARM'
     ),
+    'berkeley' => array(
+        'cpu' => 'HiSilicon® Kirin™ 970',
+        'ram' => '4/6GB of LP-DDR4X',
+        'rom' => '64/128GB',
+        'battery' => '3750 mAh',
+        'display' => '5.99 inch, 2160x1080 pixel(403ppi)',
+        'cpuarch' => 'ARM64'
+    ),
     'beryllium' => array(
         'cpu' => 'Qualcomm® Snapdragon™ 845',
         'ram' => '6/8GB of LP-DDR4X',
