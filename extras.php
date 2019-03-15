@@ -109,6 +109,17 @@ $extras_info = array(
             )
         )
     ),
+    'tulip' => array(
+        'radio' => array(
+            array(
+                'filename' => 'RADIO_tulip_9.3.14_9.0.zip',
+                'filesize' => '61451140',
+                'summary' => 'MK90.0',
+                'timestamp' => '1552648686',
+                'url' => 'https://drive.google.com/open?id=1H0GRke2HGa8tIyKndMKuRHlsJVuHTD4x'
+            )
+        )
+    )
     'virgo' => array(
         'recovery' => 'https://pan.baidu.com/s/15JLsANnQfMaiZonlPYAJhQ'
     ),
