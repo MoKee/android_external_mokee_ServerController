@@ -137,8 +137,8 @@ $maintainers_info = array(
         'url' => 'https://bbs.mokeedev.com/u/chenzc'
     ),
     'nx531j' => array(
-        'name' => 'XiNGRZ',
-        'url' => 'https://bbs.mokeedev.com/u/xingrz'
+        'name' => 'chenzc',
+        'url' => 'https://bbs.mokeedev.com/u/chenzc'
     ),
     'nx549j' => array(
         'name' => 'chenzc',

@@ -15,6 +15,9 @@ $extras_info = array(
     'libra' => array(
         'recovery' => 'https://pan.baidu.com/s/1mckBFfUBUKGM69SrNlLz5w'
     ),
+    'nx531j' => array(
+        'recovery' => 'https://share.weiyun.com/5EvT4FK'
+    ),
     'nx563j' => array(
         'radio' => array(
             array(
