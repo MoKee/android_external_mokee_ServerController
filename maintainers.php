@@ -24,10 +24,6 @@ $maintainers_info = array(
         'name' => '乖奕虎',
         'url' => 'https://bbs.mokeedev.com/u/guaiyihu'
     ),
-    'colombo' => array(
-        'name' => 'XiNGRZ',
-        'url' => 'https://bbs.mokeedev.com/u/xingrz'
-    ),
     'd857' => array(
         'name' => '豆浆炒蛋',
         'url' => 'http://weibo.com/3921475456'
@@ -156,10 +152,6 @@ $maintainers_info = array(
         'name' => 'chenzc',
         'url' => 'https://bbs.mokeedev.com/u/chenzc'
     ),
-    'odin' => array(
-        'name' => 'XiNGRZ',
-        'url' => 'https://bbs.mokeedev.com/u/xingrz'
-    ),
     'oneplus3' => array(
         'name' => 'dianlujitao',
         'url' => 'https://bbs.mokeedev.com/u/dianlujitao'
@@ -220,10 +212,6 @@ $maintainers_info = array(
         'name' => 'nian0114',
         'url' => 'http://weibo.com/nian0114'
     ),
-    'sfo' => array(
-        'name' => 'XiNGRZ',
-        'url' => 'https://bbs.mokeedev.com/u/xingrz'
-    ),
     'sirius' => array(
         'name' => 'IsaacChen',
         'url' => 'https://bbs.mokeedev.com/u/tingyichen/'
@@ -231,10 +219,6 @@ $maintainers_info = array(
     'sumire' => array(
         'name' => 'parhelia',
         'url' => 'https://bbs.mokeedev.com/u/parheliamm'
-    ),
-    'surabaya' => array(
-        'name' => 'XiNGRZ',
-        'url' => 'https://bbs.mokeedev.com/u/xingrz'
     ),
     'suzuran' => array(
         'name' => 'parhelia',

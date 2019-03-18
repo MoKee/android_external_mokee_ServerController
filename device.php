@@ -26,7 +26,6 @@ $devices_info = array(
     array('model' => 'chm_cl00', 'name' => 'Honor 4C/P8 Lite (ChinaTelecom)', 'brand' => 'Huawei'),
     array('model' => 'clark', 'name' => 'Moto X Style', 'brand' => 'Motorola'),
     array('model' => 'clover', 'name' => 'Mi Pad 4/4 Plus', 'brand' => 'XiaoMi'),
-    array('model' => 'colombo', 'name' => 'M1L', 'brand' => 'Smartisan'),
     array('model' => 'condor', 'name' => 'Moto E', 'brand' => 'Motorola'),
     array('model' => 'crackling', 'name' => 'Swift', 'brand' => 'Wileyfox'),
     array('model' => 'd2att', 'name' => 'Galaxy S III (AT&T)', 'brand' => 'Samsung'),
@@ -155,7 +154,6 @@ $devices_info = array(
     array('model' => 'nx563j', 'name' => 'Z17', 'brand' => 'Nubia'),
     array('model' => 'nx569j', 'name' => 'Z17 Mini', 'brand' => 'Nubia'),
     array('model' => 'nx595j', 'name' => 'Z17S', 'brand' => 'Nubia'),
-    array('model' => 'odin', 'name' => 'U2 Pro', 'brand' => 'Smartisan'),
     array('model' => 'oneplus2', 'name' => '2', 'brand' => 'OnePlus'),
     array('model' => 'oneplus3', 'name' => '3/3T (3T unsupported 6.0)', 'brand' => 'OnePlus'),
     array('model' => 'onyx', 'name' => 'X', 'brand' => 'OnePlus'),
@@ -186,13 +184,11 @@ $devices_info = array(
     array('model' => 'seed', 'name' => 'Android One 2nd gen', 'brand' => 'Google'),
     array('model' => 'serrano3gxx', 'name' => 'Galaxy S4 Mini (3G)', 'brand' => 'Samsung'),
     array('model' => 'serranoltexx', 'name' => 'Galaxy S4 Mini (Intl)', 'brand' => 'Samsung'),
-    array('model' => 'sfo', 'name' => 'T1', 'brand' => 'Smartisan'),
     array('model' => 'shamu', 'name' => 'Nexus 6', 'brand' => 'Google'),
     array('model' => 'sirius', 'name' => 'MI 8 SE', 'brand' => 'XiaoMi'),
     array('model' => 'star2lte', 'name' => 'Galaxy S9+', 'brand' => 'Samsung'),
     array('model' => 'starlte', 'name' => 'Galaxy S9', 'brand' => 'Samsung'),
     array('model' => 'sumire', 'name' => 'Xperia Z5 Dual', 'brand' => 'Sony'),
-    array('model' => 'surabaya', 'name' => 'M1', 'brand' => 'Smartisan'),
     array('model' => 'surnia', 'name' => 'Moto E LTE (2015)', 'brand' => 'Motorola'),
     array('model' => 'suzuran', 'name' => 'Xperia Z5 Compact', 'brand' => 'Sony'),
     array('model' => 't0lte', 'name' => 'Galaxy Note II (GSM LTE)', 'brand' => 'Samsung'),
@@ -384,14 +380,6 @@ $hardware_info = array(
         'rom' => '32GB/64GB',
         'battery' => '6000 mAh',
         'display' => '8.0 inch, 1900x1200 pixel(283ppi)',
-        'cpuarch' => 'ARM64'
-    ),
-    'colombo' => array(
-        'cpu' => 'Qualcomm® Snapdragon™ 821',
-        'ram' => '4/6GB of LP-DDR4',
-        'rom' => '32/64GB of UFS 2.0',
-        'battery' => '4080 mAh',
-        'display' => '5.7 inch, 2560x1440 pixel(515ppi)',
         'cpuarch' => 'ARM64'
     ),
     'condor' => array(
@@ -993,14 +981,6 @@ $hardware_info = array(
         'display' => '5.73 inch, 2040x1080 pixel(403ppi)',
         'cpuarch' => 'ARM64'
     ),
-    'odin' => array(
-        'cpu' => 'Qualcomm® Snapdragon™ 625/626',
-        'ram' => '4GB',
-        'rom' => '32GB/64GB/128GB',
-        'battery' => '3500 mAh',
-        'display' => '5.5 inch, 1920x1080 pixel(403ppi)',
-        'cpuarch' => 'ARM64'
-    ),
     'onyx' => array(
         'cpu' => 'Qualcomm® Snapdragon™ 801',
         'ram' => '2GB/3GB of LP-DDR3',
@@ -1169,14 +1149,6 @@ $hardware_info = array(
         'display' => '5.7 inch, 1920x1080 pixel',
         'cpuarch' => 'ARM64'
     ),
-    'sfo' => array(
-        'cpu' => 'Qualcomm® Snapdragon™ 801',
-        'ram' => '2GB of LPDDR3',
-        'rom' => '16/32GB of eMMC 5.0',
-        'battery' => '2490 mAh',
-        'display' => '4.95 inch, 1920x1080 pixel(445ppi)',
-        'cpuarch' => 'ARM'
-    ),
     'shamu' => array(
         'cpu' => 'Qualcomm® Snapdragon™ 805',
         'ram' => '3GB',
@@ -1199,14 +1171,6 @@ $hardware_info = array(
         'rom' => '32GB',
         'battery' => '2900 mAh',
         'display' => '5.2 inch, 1920x1080 pixel',
-        'cpuarch' => 'ARM64'
-    ),
-    'surabaya' => array(
-        'cpu' => 'Qualcomm® Snapdragon™ 821',
-        'ram' => '4/6GB of LP-DDR4',
-        'rom' => '32/64GB of UFS 2.0',
-        'battery' => '3050 mAh',
-        'display' => '5.15 inch, 1920x1080 pixel(428ppi)',
         'cpuarch' => 'ARM64'
     ),
     'surnia' => array(
