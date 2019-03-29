@@ -83,6 +83,17 @@ $extras_info = array(
         ),
         'recovery' => 'https://bbs.mokeedev.com/t/topic/10674'
     ),
+    'platina' => array(
+        'radio' => array(
+            array(
+                'filename' => 'RADIO-platina-miui9.2.21.zip',
+                'filesize' => '63094651',
+                'summary' => 'MK90.0',
+                'timestamp' => '1553880403',
+                'url' => 'https://www.androidfilehost.com/?fid=1395089523397928689'
+            )
+        )
+    )
     'rosy' => array(
         'radio' => array(
             array(
