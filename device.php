@@ -154,6 +154,7 @@ $devices_info = array(
     array('model' => 'nx563j', 'name' => 'Z17', 'brand' => 'Nubia'),
     array('model' => 'nx569j', 'name' => 'Z17 Mini', 'brand' => 'Nubia'),
     array('model' => 'nx595j', 'name' => 'Z17S', 'brand' => 'Nubia'),
+    array('model' => 'ocean', 'name' => 'Pro 2S', 'brand' => 'Smartisan'),
     array('model' => 'oneplus2', 'name' => '2', 'brand' => 'OnePlus'),
     array('model' => 'oneplus3', 'name' => '3/3T (3T unsupported 6.0)', 'brand' => 'OnePlus'),
     array('model' => 'onyx', 'name' => 'X', 'brand' => 'OnePlus'),
@@ -979,6 +980,14 @@ $hardware_info = array(
         'rom' => '64GB/128GB of UFS 2.1',
         'battery' => '3100 mAh',
         'display' => '5.73 inch, 2040x1080 pixel(403ppi)',
+        'cpuarch' => 'ARM64'
+    ),
+    'ocean' => array(
+        'cpu' => 'Qualcomm® Snapdragon™ 710',
+        'ram' => '4GB/6GB',
+        'rom' => '64GB/128GB',
+        'battery' => '3600 mAh',
+        'display' => '6.01 inch, 2160x1080 pixel(403ppi)',
         'cpuarch' => 'ARM64'
     ),
     'onyx' => array(

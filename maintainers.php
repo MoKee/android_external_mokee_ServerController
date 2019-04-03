@@ -152,6 +152,10 @@ $maintainers_info = array(
         'name' => 'chenzc',
         'url' => 'https://bbs.mokeedev.com/u/chenzc'
     ),
+    'ocean' => array(
+        'name' => 'XiNGRZ',
+        'url' => 'https://bbs.mokeedev.com/u/xingrz'
+    ),
     'oneplus3' => array(
         'name' => 'dianlujitao',
         'url' => 'https://bbs.mokeedev.com/u/dianlujitao'
