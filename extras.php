@@ -152,7 +152,15 @@ $extras_info = array(
                 'summary' => 'MK81.0',
                 'timestamp' => '1531324800',
                 'url' => 'https://www.androidfilehost.com/?fid=5862345805528046694'
+            ),
+            array(
+                'filename' => 'RADIO_whyred_9.4.2.zip',
+                'filesize' => '62578080',
+                'summary' => 'MK90.0 20190405',
+                'timestamp' => '1554480000',
+                'url' => 'https://www.androidfilehost.com/?fid=1395089523397934058'
             )
-        )
+        ),
+        'recovery' => 'https://www.androidfilehost.com/?w=files&flid=292567'
     )
 );
