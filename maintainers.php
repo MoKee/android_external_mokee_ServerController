@@ -228,6 +228,10 @@ $maintainers_info = array(
         'name' => 'parhelia',
         'url' => 'https://bbs.mokeedev.com/u/parheliamm'
     ),
+    'trident' => array(
+        'name' => 'XiNGRZ',
+        'url' => 'https://bbs.mokeedev.com/u/xingrz'
+    ),
     'tulip' => array(
         'name' => 'rama982',
         'url' => 'https://t.me/rama982'

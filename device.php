@@ -199,6 +199,7 @@ $devices_info = array(
     array('model' => 'titan', 'name' => 'Moto G 2014 (Unified)', 'brand' => 'Motorola'),
     array('model' => 'tocino', 'name' => '2 (Oreo rename as oneplus2)', 'brand' => 'OnePlus'),
     array('model' => 'tomato', 'name' => 'Yureka (AO5510)', 'brand' => 'YU'),
+    array('model' => 'trident', 'name' => 'R1', 'brand' => 'Smartisan'),
     array('model' => 'tsubasa', 'name' => 'Xperia V', 'brand' => 'Sony'),
     array('model' => 'tulip', 'name' => 'Redmi Note 6 Pro', 'brand' => 'XiaoMi'),
     array('model' => 'v500', 'name' => 'G Pad 8.3', 'brand' => 'LG'),
@@ -1244,6 +1245,14 @@ $hardware_info = array(
         'rom' => '16GB/64GB',
         'battery' => '3300 mAh',
         'display' => '5.5 inch, 1920x1080 pixel(401ppi)',
+        'cpuarch' => 'ARM64'
+    ),
+    'trident' => array(
+        'cpu' => 'Qualcomm® Snapdragon™ 845',
+        'ram' => '6GB/8GB',
+        'rom' => '64GB/128GB/512GB/1TB',
+        'battery' => '3600 mAh',
+        'display' => '6.17 inch, 2242x1080 pixel(403ppi)',
         'cpuarch' => 'ARM64'
     ),
     'tulip' => array(
