@@ -1,7 +1,7 @@
 <?php
 $extras_info = array(
     'cancro' => array(
-        'recovery' => 'https://pan.baidu.com/s/1aIRJoqeIxr5IGU06y9ZBUQ'
+        'recovery' => 'https://www.androidfilehost.com/?fid=1395089523397938484'
     ),
     'clover' => array(
         'recovery' => 'https://pan.baidu.com/s/1HgjIWw2WPdnNEdpMN2GCTw'
