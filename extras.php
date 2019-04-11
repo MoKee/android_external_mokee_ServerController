@@ -6,6 +6,9 @@ $extras_info = array(
     'clover' => array(
         'recovery' => 'https://pan.baidu.com/s/1HgjIWw2WPdnNEdpMN2GCTw'
     ),
+    'gucci' => array(
+        'recovery' => 'https://www.androidfilehost.com/?fid=1395089523397938486'
+    ),
     'icesky' => array(
         'recovery' => 'https://bbs.mokeedev.com/t/topic/11917'
     ),
