@@ -43,7 +43,7 @@ $extras_info = array(
     'nx595j' => array(
         'recovery' => 'https://share.weiyun.com/5oUwQrC'
     ),
-    'osborn' => array(
+    'ocean' => array(
         'radio' => array(
             array(
                 'filename' => 'RADIO-ocean-20190313002956.zip',
