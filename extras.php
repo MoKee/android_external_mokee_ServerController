@@ -46,6 +46,25 @@ $extras_info = array(
     'osborn' => array(
         'radio' => array(
             array(
+                'filename' => 'RADIO-ocean-20190313002956.zip',
+                'filesize' => '70413227',
+                'summary' => 'MK81.0 20190404',
+                'timestamp' => '1554307200',
+                'url' => 'https://androidfilehost.com/?fid=1395089523397940133'
+            ),
+            array(
+                'filename' => 'RADIO-ocean-20190410111028.zip',
+                'filesize' => '70411278',
+                'summary' => 'MK81.0 20190413',
+                'timestamp' => '1555084800',
+                'url' => 'https://androidfilehost.com/?fid=1395089523397940134'
+            )
+        ),
+        'recovery' => 'https://bbs.mokeedev.com/t/topic/13447'
+    ),
+    'osborn' => array(
+        'radio' => array(
+            array(
                 'filename' => 'RADIO-osborn-20181029203642.zip',
                 'filesize' => '60084674',
                 'summary' => 'MK81.0 20181202',
