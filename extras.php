@@ -1,7 +1,7 @@
 <?php
 $extras_info = [
     'cancro' => [
-        'recovery' => 'https://www.androidfilehost.com/?fid=1395089523397938484'
+        'recovery' => 'https://www.androidfilehost.com/?w=files&flid=241521'
     ],
     'clover' => [
         'recovery' => 'https://pan.baidu.com/s/1HgjIWw2WPdnNEdpMN2GCTw'
@@ -13,10 +13,10 @@ $extras_info = [
         'recovery' => 'https://bbs.mokeedev.com/t/topic/11917'
     ],
     'leo' => [
-        'recovery' => 'https://pan.baidu.com/s/1bmFbrLFj8rH9FLn3V-rt8A'
+        'recovery' => 'https://www.androidfilehost.com/?w=files&flid=197979'
     ],
     'libra' => [
-        'recovery' => 'https://pan.baidu.com/s/1mckBFfUBUKGM69SrNlLz5w'
+        'recovery' => 'https://www.androidfilehost.com/?w=files&flid=293073'
     ],
     'nx531j' => [
         'recovery' => 'https://share.weiyun.com/5EvT4FK'
@@ -164,7 +164,7 @@ $extras_info = [
         ]
     ],
     'virgo' => [
-        'recovery' => 'https://pan.baidu.com/s/15JLsANnQfMaiZonlPYAJhQ'
+        'recovery' => 'https://www.androidfilehost.com/?w=files&flid=199259'
     ],
     'whyred' => [
         'radio' => [
