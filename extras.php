@@ -181,6 +181,13 @@ $extras_info = [
                 'summary' => 'MK90.0 20190405',
                 'timestamp' => '1554480000',
                 'url' => 'https://www.androidfilehost.com/?fid=1395089523397934058'
+            ],
+            [
+                'filename' => 'RADIO_whyred_9.4.18.zip',
+                'filesize' => '62574408',
+                'summary' => 'MK90.0 20190420',
+                'timestamp' => '1555668887',
+                'url' => 'https://www.androidfilehost.com/?fid=1395089523397947133'
             ]
         ],
         'recovery' => 'https://www.androidfilehost.com/?w=files&flid=292567'
