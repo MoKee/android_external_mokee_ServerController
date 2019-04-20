@@ -170,6 +170,8 @@ $devices_info = [
     ['model' => 'platina', 'name' => 'Mi 8 Lite', 'brand' => 'XiaoMi'],
     ['model' => 'pme', 'name' => '10', 'brand' => 'HTC'],
     ['model' => 'polaris', 'name' => 'Mi MIX 2S', 'brand' => 'XiaoMi'],
+    ['model' => 'pollux', 'name' => 'Xperia Tablet Z LTE', 'brand' => 'Sony'],
+    ['model' => 'pollux_windy', 'name' => 'Xperia Tablet Z Wi-Fi', 'brand' => 'Sony'],
     ['model' => 'quark', 'name' => 'Moto MAXX', 'brand' => 'Motorola'],
     ['model' => 'r5', 'name' => 'R5/R5s (Intl]', 'brand' => 'Oppo'],
     ['model' => 'r7plus', 'name' => 'R7 Plus', 'brand' => 'Oppo'],
