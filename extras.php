@@ -145,6 +145,18 @@ $extras_info = [
             ]
         ]
     ],
+    'trident' => [
+        'radio' => [
+            [
+                'filename' => 'RADIO-trident-20190404163805.zip',
+                'filesize' => '72477047',
+                'summary' => 'MK81.0 20190422',
+                'timestamp' => '1555862400',
+                'url' => 'https://androidfilehost.com/?fid=1395089523397948762'
+            ]
+        ],
+        'recovery' => 'https://bbs.mokeedev.com/t/topic/13652'
+    ],
     'tulip' => [
         'radio' => [
             [
