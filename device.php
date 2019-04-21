@@ -120,6 +120,7 @@ $devices_info = [
     ['model' => 'l01f', 'name' => 'G2 (Japan]', 'brand' => 'LG'],
     ['model' => 'l900', 'name' => 'Galaxy Note II (Sprint]', 'brand' => 'Samsung'],
     ['model' => 'land', 'name' => 'Redmi 3S/3X', 'brand' => 'XiaoMi'],
+    ['model' => 'lavender', 'name' => 'Redmi Note 7', 'brand' => 'XiaoMi'],
     ['model' => 'lentislte', 'name' => 'Galaxy S5 LTE-A', 'brand' => 'Samsung'],
     ['model' => 'leo', 'name' => 'Mi Note Pro', 'brand' => 'XiaoMi'],
     ['model' => 'lettuce', 'name' => 'Yuphoria (YU5010]', 'brand' => 'YU'],
@@ -799,6 +800,14 @@ $hardware_info = [
         'rom' => '16/32GB',
         'battery' => '4100 mAh',
         'display' => '5.0 inch, 1280x720 pixel',
+        'cpuarch' => 'ARM64'
+    ],
+    'lavender' => [
+        'cpu' => 'Qualcomm® Snapdragon™ 660',
+        'ram' => '3/4/6GB',
+        'rom' => '32/64GB',
+        'battery' => '4000 mAh',
+        'display' => ' 6.3 inch, 2340 x 1080 pixel(409ppi]',
         'cpuarch' => 'ARM64'
     ],
     'le_x2' => [

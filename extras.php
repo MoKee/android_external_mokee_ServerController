@@ -12,6 +12,9 @@ $extras_info = [
     'icesky' => [
         'recovery' => 'https://bbs.mokeedev.com/t/topic/11917'
     ],
+    'lavender' => [
+        'recovery' => 'https://www.androidfilehost.com/?fid=1395089523397949015'
+    ],
     'leo' => [
         'recovery' => 'https://www.androidfilehost.com/?w=files&flid=197979'
     ],

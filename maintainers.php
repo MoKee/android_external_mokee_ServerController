@@ -108,6 +108,10 @@ $maintainers_info = [
         'name' => 'IsaacChen',
         'url' => 'https://bbs.mokeedev.com/u/tingyichen/'
     ],
+    'lavender' => [
+        'name' => '子龙zj',
+        'url' => 'https://bbs.mokeedev.com/u/subdragonzj'
+    ],
     'le_x2' => [
         'name' => 'zhaochengw',
         'url' => 'http://weibo.com/1649884475'
