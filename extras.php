@@ -46,13 +46,6 @@ $extras_info = [
     'ocean' => [
         'radio' => [
             [
-                'filename' => 'RADIO-ocean-20190313002956.zip',
-                'filesize' => '70413227',
-                'summary' => 'MK81.0 20190404',
-                'timestamp' => '1554307200',
-                'url' => 'https://androidfilehost.com/?fid=1395089523397940133'
-            ],
-            [
                 'filename' => 'RADIO-ocean-20190410111028.zip',
                 'filesize' => '70411278',
                 'summary' => 'MK81.0 20190413',
