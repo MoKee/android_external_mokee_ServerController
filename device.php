@@ -124,7 +124,7 @@ $devices_info = [
     ['model' => 'lentislte', 'name' => 'Galaxy S5 LTE-A', 'brand' => 'Samsung'],
     ['model' => 'leo', 'name' => 'Mi Note Pro', 'brand' => 'XiaoMi'],
     ['model' => 'lettuce', 'name' => 'Yuphoria (YU5010)', 'brand' => 'YU'],
-    ['model' => 'le_x2', 'name' => 'Max 2 (Le X820] (Oreo rename as x2)', 'brand' => 'LeEco'],
+    ['model' => 'le_x2', 'name' => 'Max 2 (Le X820) (Oreo rename as x2)', 'brand' => 'LeEco'],
     ['model' => 'libra', 'name' => 'Mi-4c/4S', 'brand' => 'XiaoMi'],
     ['model' => 'lithium', 'name' => 'Mi Mix', 'brand' => 'XiaoMi'],
     ['model' => 'ls990', 'name' => 'G3 (Sprint)', 'brand' => 'LG'],
