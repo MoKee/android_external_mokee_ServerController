@@ -467,6 +467,14 @@ $hardware_info = [
         'display' => '6.01 inch, 2160 x 1080 pixel(401ppi)',
         'cpuarch' => 'ARM64'
     ],
+    'enchilada' => [
+        'cpu' => 'Qualcomm® Snapdragon™ 845',
+        'ram' => '6/8GB of LP-DDR4X',
+        'rom' => '64/128/256GB of UFS 2.1',
+        'battery' => '3300 mAh',
+        'display' => '6.28 inch, 2280 x 1080 pixel(402ppi)',
+        'cpuarch' => 'ARM64'
+     ],
     'falcon' => [
         'cpu' => 'Qualcomm® Snapdragon™ 400 MSM8226',
         'ram' => '1GB',
