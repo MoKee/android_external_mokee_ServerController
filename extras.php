@@ -12,9 +12,6 @@ $extras_info = [
     'icesky' => [
         'recovery' => 'https://bbs.mokeedev.com/t/topic/11917'
     ],
-    'lavender' => [
-        'recovery' => 'https://www.androidfilehost.com/?fid=1395089523397949015'
-    ],
     'leo' => [
         'recovery' => 'https://www.androidfilehost.com/?w=files&flid=197979'
     ],
@@ -23,6 +20,18 @@ $extras_info = [
     ],
     'nx531j' => [
         'recovery' => 'https://share.weiyun.com/5EvT4FK'
+    ],
+    'lavender' => [
+        'radio' => [
+            [
+                'filename' => 'RADIO_lavender_V10.3.1.0.PFGCNXM.zip',
+                'filesize' => '63316881',
+                'summary' => 'MK90.0 20190428',
+                'timestamp' => '1556385455',
+                'url' => 'https://www.androidfilehost.com/?fid=1395089523397954395'
+            ]
+        ],
+        'recovery' => 'https://www.androidfilehost.com/?fid=1395089523397949015'
     ],
     'nx563j' => [
         'radio' => [
