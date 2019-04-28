@@ -249,8 +249,8 @@ $maintainers_info = [
         'url' => 'https://bbs.mokeedev.com/u/guaiyihu'
     ],
     'wayne' => [
-        'name' => 'IsaacChen',
-        'url' => 'https://bbs.mokeedev.com/u/tingyichen/'
+        'name' => '沃德天维森陌拉莫皮猪',
+        'url' => 'https://bbs.mokeedev.com/u/pipipig233666'
     ],
     'whyred' => [
         'name' => '乖奕虎',
