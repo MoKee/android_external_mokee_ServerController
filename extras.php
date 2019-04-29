@@ -208,5 +208,17 @@ $extras_info = [
             ]
         ],
         'recovery' => 'https://www.androidfilehost.com/?w=files&flid=292567'
+    ],
+    'wayne' => [
+        'radio' => [
+            [
+                'filename' => 'RADIO_wayne_9.4.25.zip',
+                'filesize' => '61578689',
+                'summary' => 'MK90.0',
+                'timestamp' => '',
+                'url' => 'https://osdn.net/frs/redir.php?m=xtom_us&f=%2Fstorage%2Fg%2Fx%2Fxi%2Fxiaomifirmwareupdater%2FDeveloper%2F9.4.25%2Fwayne%2Ffw_wayne_miui_MI6X_9.4.25_1df3ff99e7_9.0.zip'
+            ],
+        ],
+        'recovery' => 'https://dl.twrp.me/wayne'
     ]
 ];
