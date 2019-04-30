@@ -157,7 +157,7 @@ $devices_info = [
     ['model' => 'nx595j', 'name' => 'Z17S', 'brand' => 'Nubia'],
     ['model' => 'ocean', 'name' => 'Pro 2S', 'brand' => 'Smartisan'],
     ['model' => 'oneplus2', 'name' => '2', 'brand' => 'OnePlus'],
-    ['model' => 'oneplus3', 'name' => '3/3T (3T unsupported 6.0)', 'brand' => 'OnePlus'],
+    ['model' => 'oneplus3', 'name' => '3/3T', 'brand' => 'OnePlus'],
     ['model' => 'onyx', 'name' => 'X', 'brand' => 'OnePlus'],
     ['model' => 'osborn', 'name' => 'U3 Pro', 'brand' => 'Smartisan'],
     ['model' => 'oscar', 'name' => 'U3', 'brand' => 'Smartisan'],
