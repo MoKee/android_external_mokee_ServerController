@@ -61,3 +61,15 @@ $maintainers_info = [
         'devices'   => ['sagit', 'polaris', 'dipper']
     ]
 ];
+
+foreach ($maintainers_info as $name => $info) {
+  foreach ($info['devices'] as $device) {
+    $maintainer_info[$device]['title'] = $info['title'];
+    $maintainer_info[$device]['bio'] = $info['bio'];
+    $maintainer_info[$device]['github'] = $info['github'];
+    $maintainer_info[$device]['community'] = $info['community'];
+    $maintainer_info[$device]['telegram'] = $info['telegram'];
+    $maintainer_info[$device]['weibo'] = $info['weibo'];
+    $maintainer_info[$device]['xda'] = $info['xda'];
+  }
+}
