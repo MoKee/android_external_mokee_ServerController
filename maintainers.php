@@ -7,7 +7,7 @@ $maintainers_info = [
         'community' => 'martincz',  // https://bbs.mokeedev.com/u/?
         'telegram'  => 'martincz',  // https://t.me/?
         'weibo'     => 'martincz',  // http://weibo.com/?
-        'xda'       => '5172180'    // https://forum.xda-developers.com/member.php?u=?
+        'xda'       => ''    // https://forum.xda-developers.com/member.php?u=?
     ],
     'XiNGRZ' => [
         'title'     => 'Developer & Device Maintainer',
@@ -15,6 +15,8 @@ $maintainers_info = [
         'github'    => 'xingrz',
         'community' => 'xingrz',
         'telegram'  => 'smartisandev',
+        'weibo'     => '',
+        'xda'       => '',
         'devices'   => ['icesky', 'ocean', 'osborn', 'oscar', 'oxford', 'trident']
     ],
     'GuaiYiHu' => [
@@ -23,13 +25,18 @@ $maintainers_info = [
         'github'    => 'guaiyihu',
         'community' => 'guaiyihu',
         'telegram'  => 'guaiyihu',
+        'weibo'     => '',
+        'xda'       => '',
         'devices'   => ['whyred', 'virgo']
     ],
     'Dianlujitao' => [
         'title'     => 'Che10 / Cherry / Jason / Oneplus 3 Maintainer',
+        'bio'       => '',
         'github'    => 'dianlujitao',
         'community' => 'dianlujitao',
+        'telegram'  => 'guaiyihu',
         'weibo'     => 'dianlujitao',
+        'xda'       => '',
         'devices'   => ['che10', 'cherry', 'jason', 'oneplus3']
     ],
 ];
