@@ -50,4 +50,14 @@ $maintainers_info = [
         'xda'       => '',
         'devices'   => ['che10', 'cherry', 'jason', 'oneplus3']
     ],
+    'Wo0d' => [
+        'title'     => 'Sagit / Polaris / Dipper Maintainer',
+        'bio'       => 'DROP DATABASE MOKEE;',
+        'github'    => 'thune-xiaobai',
+        'community' => 'bai_wood',
+        'telegram'  => '',
+        'weibo'     => '3138080394',
+        'xda'       => '',
+        'devices'   => ['sagit', 'polaris', 'dipper']
+    ]
 ];
