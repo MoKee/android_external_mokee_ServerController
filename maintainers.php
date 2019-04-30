@@ -9,10 +9,10 @@ $maintainers_info = [
     ],
     'XiNGRZ' => [
         'title' => 'Developer & Device Maintainer',
-        'bio' => '我是导演，我木有小丁丁',
+        'bio' => '[点击编辑个性签名]',
         'github' => 'xingrz',
         'community' => 'xingrz',
-        'telegram' => 'xingrz',
+        'telegram' => 'smartisandev',
         'devices' => ['icesky', 'ocean', 'osborn', 'oscar', 'oxford', 'trident']
     ],
     'GuaiYiHu' => [
