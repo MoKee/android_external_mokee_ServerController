@@ -62,15 +62,15 @@ $maintainers_info = [
     ]
 ];
 
-foreach ($maintainers_info as $name => $info) {
-  foreach ($info['devices'] as $device) {
-    $maintainer_info[$device]['name'] = $name;
-    $maintainer_info[$device]['title'] = $info['title'];
-    $maintainer_info[$device]['bio'] = $info['bio'];
-    $maintainer_info[$device]['github'] = $info['github'];
-    $maintainer_info[$device]['community'] = $info['community'];
-    $maintainer_info[$device]['telegram'] = $info['telegram'];
-    $maintainer_info[$device]['weibo'] = $info['weibo'];
-    $maintainer_info[$device]['xda'] = $info['xda'];
+foreach ($maintainers_info as $k => $val) {
+  foreach ($val['devices'] as $dval) {
+    $maintainer_info[$dval]['name'] = $k;
+    $maintainer_info[$dval]['title'] = $val['title'];
+    $maintainer_info[$dval]['bio'] = $val['bio'];
+    $maintainer_info[$dval]['github'] = $val['github'];
+    $maintainer_info[$dval]['community'] = $val['community'];
+    $maintainer_info[$dval]['telegram'] = $val['telegram'];
+    $maintainer_info[$dval]['weibo'] = $val['weibo'];
+    $maintainer_info[$dval]['xda'] = $val['xda'];
   }
 }
