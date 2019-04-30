@@ -209,6 +209,7 @@ $devices_info = [
     ['model' => 'victara', 'name' => 'Moto X 2014 (Unified)', 'brand' => 'Motorola'],
     ['model' => 'victara_retcn', 'name' => 'Moto X 2014 (China)', 'brand' => 'Motorola'],
     ['model' => 'vince', 'name' => 'Redmi 5 Plus', 'brand' => 'XiaoMi'],
+    ['model' => 'violet', 'name' => 'Redmi Note 7 Pro', 'brand' => 'XiaoMi'],
     ['model' => 'virgo', 'name' => 'Mi Note LTE', 'brand' => 'XiaoMi'],
     ['model' => 'vs980', 'name' => 'G2 (Verizon)', 'brand' => 'LG'],
     ['model' => 'vs985', 'name' => 'G3 (Verizon)', 'brand' => 'LG'],
@@ -1304,6 +1305,14 @@ $hardware_info = [
         'rom' => '32/64GB',
         'battery' => '4000 mAh',
         'display' => '5.99 inch, 2160x1080 pixel',
+        'cpuarch' => 'ARM64'
+    ],
+    'violet' => [
+        'cpu' => 'Qualcomm® Snapdragon™ 675',
+        'ram' => '6GB',
+        'rom' => '128GB',
+        'battery' => '4000 mAh',
+        'display' => '6.3 inch, 2340x1080 pixel(409ppi)',
         'cpuarch' => 'ARM64'
     ],
     'virgo' => [
