@@ -2,12 +2,12 @@
 $maintainers_info = [
     'martincz' => [
         'title'     => 'Founder & Lead Developer',
-        'bio'       => '¯\_(ツ)_/¯',
-        'github'    => 'martincz', // https://github.com/?
-        'community' => 'martincz', // https://bbs.mokeedev.com/u/?
-        'telegram'  => 'martincz', // https://t.me/?
-        'weibo'     => 'martincz', // http://weibo.com/?
-        'xda'       => '5172180'   // https://forum.xda-developers.com/member.php?u=?
+        'bio'       => '¯\_(ツ)_/¯', // Default is Github bio
+        'github'    => 'martincz',  // https://github.com/? (NOT NULL)
+        'community' => 'martincz',  // https://bbs.mokeedev.com/u/?
+        'telegram'  => 'martincz',  // https://t.me/?
+        'weibo'     => 'martincz',  // http://weibo.com/?
+        'xda'       => '5172180'    // https://forum.xda-developers.com/member.php?u=?
     ],
     'XiNGRZ' => [
         'title'     => 'Developer & Device Maintainer',
