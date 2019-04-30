@@ -64,6 +64,7 @@ $maintainers_info = [
 
 foreach ($maintainers_info as $name => $info) {
   foreach ($info['devices'] as $device) {
+    $maintainer_info[$device]['name'] = $name;
     $maintainer_info[$device]['title'] = $info['title'];
     $maintainer_info[$device]['bio'] = $info['bio'];
     $maintainer_info[$device]['github'] = $info['github'];
