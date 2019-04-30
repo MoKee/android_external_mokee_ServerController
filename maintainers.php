@@ -7,7 +7,18 @@ $maintainers_info = [
         'community' => 'martincz',  // https://bbs.mokeedev.com/u/?
         'telegram'  => 'martincz',  // https://t.me/?
         'weibo'     => 'martincz',  // http://weibo.com/?
-        'xda'       => ''    // https://forum.xda-developers.com/member.php?u=?
+        'xda'       => '',          // https://forum.xda-developers.com/member.php?u=?
+        'devices'   => []
+    ],
+    'Ryuinferno' => [
+        'title'     => 'Co-founder & Script Developer',
+        'bio'       => '',
+        'github'    => 'ryuinferno',
+        'community' => 'ryuinferno',
+        'telegram'  => '',
+        'weibo'     => '',
+        'xda'       => '4576707',
+        'devices'   => []
     ],
     'XiNGRZ' => [
         'title'     => 'Developer & Device Maintainer',
