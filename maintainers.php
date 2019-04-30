@@ -59,6 +59,16 @@ $maintainers_info = [
         'weibo'     => '3138080394',
         'xda'       => '',
         'devices'   => ['sagit', 'polaris', 'dipper']
+    ],
+    'PIPIPIG233666' => [
+        'title'     => 'wayne Maintainer',
+        'bio'       => '龙猪并不想和你说话，并向你扔了一只月光',
+        'github'    => 'PIPIPIG233666',
+        'community' => 'pipipig233666',
+        'telegram'  => 'PIPIPIG233666',
+        'weibo'     => '',
+        'xda'       => '9461998',
+        'devices'   => ['wayne']
     ]
 ];
 
