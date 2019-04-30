@@ -5,7 +5,8 @@ $maintainers_info = [
         'bio' => '¯\_(ツ)_/¯',
         'github' => 'martincz',    // https://github.com/?
         'community' => 'martincz', // https://bbs.mokeedev.com/u/?
-        'telegram' => 'martincz'   // https://t.me/?
+        'telegram' => 'martincz',   // https://t.me/?
+        'weibo' => 'martincz'      // http://weibo.com/?
     ],
     'XiNGRZ' => [
         'title' => 'Developer & Device Maintainer',
