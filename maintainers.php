@@ -1,6 +1,6 @@
 <?php
 $maintainers_info = [
-    'martincz' => [
+    'Martincz Gao' => [
         'title'     => 'Founder & Lead Developer',
         'bio'       => '¯\_(ツ)_/¯', // Default is Github bio
         'github'    => 'martincz',  // https://github.com/? (NOT NULL)
@@ -24,5 +24,12 @@ $maintainers_info = [
         'community' => 'guaiyihu',
         'telegram'  => 'guaiyihu',
         'devices'   => ['whyred', 'virgo']
+    ],
+    'Dianlujitao' => [
+        'title'     => 'Che10 / Cherry / Jason / Oneplus 3 Maintainer',
+        'github'    => 'dianlujitao',
+        'community' => 'dianlujitao',
+        'weibo'     => 'dianlujitao',
+        'devices'   => ['che10', 'cherry', 'jason', 'oneplus3']
     ],
 ];
