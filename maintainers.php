@@ -32,12 +32,12 @@ $maintainers_info = [
     ],
     'GuaiYiHu' => [
         'title'     => 'Aries / Cancro / Clover / Gucci / Leo / Libra / Violet / Virgo / Whyred Maintainer',
-        'bio'       => '我是乖亦虎，我木有小丁丁',
+        'bio'       => '呀嘞呀嘞DA☆ZE！！！(<ゝω·)~☆',
         'github'    => 'guaiyihu',
         'community' => 'guaiyihu',
         'telegram'  => 'guaiyihu',
-        'weibo'     => '',
-        'xda'       => '',
+        'weibo'     => 'guaiyihu',
+        'xda'       => '7442044',
         'devices'   => ['aries', 'cancro', 'clover', 'gucci', 'leo', 'libra', 'violet', 'virgo', 'whyred']
     ],
     'Dianlujitao' => [
