@@ -59,6 +59,16 @@ $maintainers_info = [
         'weibo'     => '3138080394',
         'xda'       => '',
         'devices'   => ['sagit', 'polaris', 'dipper']
+    ],
+    'chenzc' => [
+        'title'     => 'nx549j / nx563j / nx595j / z2pro Maintainer',
+        'bio'       => '?????',
+        'github'    => 'dazzworld',
+        'community' => 'chenzc',
+        'telegram'  => '',
+        'weibo'     => '2434134362',
+        'xda'       => '',
+        'devices'   => ['nx549j', 'nx563j', 'nx595j', 'z2pro']
     ]
 ];
 
