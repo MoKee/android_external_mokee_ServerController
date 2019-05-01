@@ -60,6 +60,16 @@ $maintainers_info = [
         'xda'       => '',
         'devices'   => ['sagit', 'polaris', 'dipper']
     ],
+    'chenzc' => [
+        'title'     => 'nx549j / nx563j / nx595j / z2pro Maintainer',
+        'bio'       => '?????',
+        'github'    => 'dazzworld',
+        'community' => 'chenzc',
+        'telegram'  => '',
+        'weibo'     => '2434134362',
+        'xda'       => '',
+        'devices'   => ['nx549j', 'nx563j', 'nx595j', 'z2pro']
+    ],
     'PIPIPIG233666' => [
         'title'     => 'Wayne Maintainer',
         'bio'       => '龙猪并不想和你说话，并向你扔了一只月光',
