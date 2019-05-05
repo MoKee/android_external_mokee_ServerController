@@ -99,6 +99,16 @@ $maintainers_info = [
         'weibo'     => 'zj502407679',
         'xda'       => '',
         'devices'   => ['dior', 'lavender', 'sakura']
+    ],
+    'rama982' => [
+        'title'     => 'Tulip Maintainer',
+        'bio'       => 'English Only, Please',
+        'github'    => 'rama982',
+        'community' => 'rama982',
+        'telegram'  => 'rama982',
+        'weibo'     => '',
+        'xda'       => '8484128',
+        'devices'   => ['tulip']
     ]
 ];
 
