@@ -180,6 +180,9 @@ $extras_info = [
             ]
         ]
     ],
+    'violet' => [
+        'recovery' => 'https://share.weiyun.com/5TIco5q'
+    ],
     'virgo' => [
         'recovery' => 'https://www.androidfilehost.com/?w=files&flid=199259'
     ],
