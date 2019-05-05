@@ -91,14 +91,14 @@ $maintainers_info = [
         'devices'   => ['wayne']
     ],
     'subdragonzj' => [
-        'title'     => 'dior / lavender / sakura Maintainer',
+        'title'     => 'dior / lavender / rosy / sakura Maintainer',
         'bio'       => '你怎么不先介绍一下你自己呢？',
         'github'    => 'subdragonzj',
         'community' => 'subdragonzj',
         'telegram'  => 'subdragonzj',
         'weibo'     => 'zj502407679',
         'xda'       => '',
-        'devices'   => ['dior', 'lavender', 'sakura']
+        'devices'   => ['dior', 'lavender', 'rosy', 'sakura']
     ],
     'rama982' => [
         'title'     => 'Tulip Maintainer',
