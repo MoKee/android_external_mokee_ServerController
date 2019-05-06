@@ -109,6 +109,15 @@ $maintainers_info = [
         'weibo'     => '',
         'xda'       => '8484128',
         'devices'   => ['tulip']
+    ],
+    'glory' => [
+        'title'     => 'Platina Maintainer',
+        'bio'       => '鱼跃此时海，花开彼岸天',
+        'github'    => 'lihonglinglory',
+        'community' => 'glory',
+        'telegram'  => 'Mengliwunian',
+        'weibo'     => 'lihonglin10010',
+        'devices'   => ['platina']
     ]
 ];
 
