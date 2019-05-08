@@ -859,6 +859,14 @@ $hardware_info = [
         'display' => '6.4 inch, 1080x2040 pixel(362ppi)',
         'cpuarch' => 'ARM64'
     ],
+    'lux' => [
+        'cpu' => 'Qualcomm® Snapdragon™ 615',
+        'ram' => '2GB',
+        'rom' => '16/32GB',
+        'battery' => '3630mAh',
+        'display' => '5.5 inch, 1920x1080 pixel(403ppi)',
+        'cpuarch' => 'ARM'
+    ],
     'mako' => [
         'cpu' => 'Qualcomm® Snapdragon™ S4 Pro APQ8064',
         'ram' => '2GB',
