@@ -1,5 +1,8 @@
 <?php
 $extras_info = [
+    'aries' => [
+        'recovery' => 'https://www.androidfilehost.com/?w=files&flid=293896'
+    ],
     'cancro' => [
         'recovery' => 'https://www.androidfilehost.com/?w=files&flid=241521'
     ],
