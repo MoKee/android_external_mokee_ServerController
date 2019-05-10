@@ -85,6 +85,13 @@ $extras_info = [
                 'summary' => 'MK90.0 20181228',
                 'timestamp' => '1545926400',
                 'url' => 'https://androidfilehost.com/?fid=11410963190603863206'
+            ],
+            [
+                'filename' => 'RADIO-osborn-20190311203224.zip',
+                'filesize' => '60087375',
+                'summary' => 'MK90.0 20190511',
+                'timestamp' => '1557504000',
+                'url' => 'https://androidfilehost.com/?fid=1395089523397962765'
             ]
         ],
         'recovery' => 'https://bbs.mokeedev.com/t/topic/8109'
@@ -109,6 +116,13 @@ $extras_info = [
                 'summary' => 'MK90.0 20181228',
                 'timestamp' => '1545926400',
                 'url' => 'https://androidfilehost.com/?fid=11410963190603885645'
+            ],
+            [
+                'filename' => 'RADIO-oxford-20190213155503.zip',
+                'filesize' => '59252456',
+                'summary' => 'MK90.0 20190511',
+                'timestamp' => '1557504000',
+                'url' => 'https://androidfilehost.com/?fid=1395089523397962770'
             ]
         ],
         'recovery' => 'https://bbs.mokeedev.com/t/topic/10674'
