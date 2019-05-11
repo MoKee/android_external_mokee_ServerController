@@ -104,6 +104,13 @@ $extras_info = [
                 'summary' => 'MK90.0 20190111',
                 'timestamp' => '1547136000',
                 'url' => 'https://androidfilehost.com/?fid=11410963190603855087'
+            ],
+            [
+                'filename' => 'RADIO-oscar-20190306150514.zip',
+                'filesize' => '49564840',
+                'summary' => 'MK90.0 20190512',
+                'timestamp' => '1557590400',
+                'url' => 'https://androidfilehost.com/?fid=1395089523397963620'
             ]
         ],
         'recovery' => 'https://bbs.mokeedev.com/t/topic/10536'
