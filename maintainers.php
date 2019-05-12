@@ -61,14 +61,14 @@ $maintainers_info = [
         'devices'   => ['sagit', 'polaris', 'dipper']
     ],
     'chenzc' => [
-        'title'     => 'nx549j / nx563j / nx595j / z2pro Maintainer',
+        'title'     => 'nx549j / nx563j / nx569j / nx595j / z2pro Maintainer',
         'bio'       => '?????',
         'github'    => 'dazzworld',
         'community' => 'chenzc',
         'telegram'  => '',
         'weibo'     => '2434134362',
         'xda'       => '',
-        'devices'   => ['nx549j', 'nx563j', 'nx595j', 'z2pro']
+        'devices'   => ['nx549j', 'nx563j', 'nx569j', 'nx595j', 'z2pro']
     ],
     'Isaac Chen' => [
         'title'     => 'Land / Santoni / Sirius / Vince / Wt86528 Maintainer',
