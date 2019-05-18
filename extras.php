@@ -205,6 +205,15 @@ $extras_info = [
         ]
     ],
     'violet' => [
+        'radio' => [
+            [
+                'filename' => 'RADIO_violet_9.5.15.zip',
+                'filesize' => '69430722',
+                'summary' => 'MK90.0 20190519',
+                'timestamp' => '1558190795',
+                'url' => 'https://share.weiyun.com/5EDp9Xi'
+            ]
+        ],
         'recovery' => 'https://share.weiyun.com/5TIco5q'
     ],
     'virgo' => [
