@@ -34,7 +34,7 @@ $extras_info = [
                 'url' => 'https://www.androidfilehost.com/?fid=1395089523397954395'
             ]
         ],
-        'recovery' => 'https://www.androidfilehost.com/?fid=1395089523397959710'
+        'recovery' => 'https://www.androidfilehost.com/?fid=3556969557455274951'
     ],
     'nx563j' => [
         'radio' => [
