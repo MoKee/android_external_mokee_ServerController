@@ -32,6 +32,13 @@ $extras_info = [
                 'summary' => 'MK90.0 20190428',
                 'timestamp' => '1556385455',
                 'url' => 'https://www.androidfilehost.com/?fid=1395089523397954395'
+            ],
+            [
+                'filename' => 'RADIO_lavender_9.5.16.zip',
+                'filesize' => '63338553',
+                'summary' => 'MK90.0 20190524',
+                'timestamp' => '1558250452',
+                'url' => 'https://www.androidfilehost.com/?fid=3556969557455275773'
             ]
         ],
         'recovery' => 'https://www.androidfilehost.com/?fid=3556969557455274951'
