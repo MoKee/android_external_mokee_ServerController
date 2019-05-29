@@ -167,6 +167,7 @@ $devices_info = [
     ['model' => 'payton', 'name' => 'Moto X4', 'brand' => 'Motorola'],
     ['model' => 'peach', 'name' => 'Benefit A3', 'brand' => 'ARK'],
     ['model' => 'peregrine', 'name' => 'Moto G LTE (Unified)', 'brand' => 'Motorola'],
+    ['model' => 'perseus', 'name' => 'Mi MIX 3', 'brand' => 'XiaoMi'],
     ['model' => 'pioneer', 'name' => 'Xperia XA2', 'brand' => 'Sony'],
     ['model' => 'platina', 'name' => 'Mi 8 Lite', 'brand' => 'XiaoMi'],
     ['model' => 'pme', 'name' => '10', 'brand' => 'HTC'],
@@ -1098,6 +1099,14 @@ $hardware_info = [
         'battery' => '2070 mAh',
         'display' => '4.5 inch, 1280x720 pixel(329ppi)',
         'cpuarch' => 'ARM'
+    ],
+    'perseus' => [
+        'cpu' => 'Qualcomm® Snapdragon™ 845',
+        'ram' => '6/8/10GB',
+        'rom' => '128/256GB',
+        'battery' => '3200 mAh',
+        'display' => ' 6.39 inch, 2340 x 1080 pixel(403ppi)',
+        'cpuarch' => 'ARM64'
     ],
     'platina' => [
         'cpu' => 'Qualcomm® Snapdragon™ 660',

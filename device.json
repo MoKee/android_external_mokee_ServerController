@@ -164,6 +164,7 @@
   { "model": "payton", "name": "Moto X4", "brand": "Motorola" },
   { "model": "peach", "name": "Benefit A3", "brand": "ARK" },
   { "model": "peregrine", "name": "Moto G LTE (Unified)", "brand": "Motorola" },
+  { "model": "perseus", "name": "Mi MIX 3", "brand": "XiaoMi" },
   { "model": "pioneer", "name": "Xperia XA2", "brand": "Sony" },
   { "model": "platina", "name": "Mi 8 Lite", "brand": "XiaoMi" },
   { "model": "pme", "name": "10", "brand": "HTC" },
