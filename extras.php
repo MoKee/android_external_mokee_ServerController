@@ -1,25 +1,25 @@
 <?php
 $extras_info = [
     'aries' => [
-        'recovery' => 'https://www.androidfilehost.com/?w=files&flid=293896'
+        'recovery' => 'https://share.weiyun.com/54cOoux'
     ],
     'cancro' => [
-        'recovery' => 'https://www.androidfilehost.com/?w=files&flid=241521'
+        'recovery' => 'https://share.weiyun.com/5TAT4oI'
     ],
     'clover' => [
-        'recovery' => 'https://pan.baidu.com/s/1HgjIWw2WPdnNEdpMN2GCTw'
+        'recovery' => 'https://share.weiyun.com/5VfERAy'
     ],
     'gucci' => [
-        'recovery' => 'https://www.androidfilehost.com/?fid=1395089523397938486'
+        'recovery' => 'https://share.weiyun.com/5KFkzcX'
     ],
     'icesky' => [
         'recovery' => 'https://bbs.mokeedev.com/t/topic/11917'
     ],
     'leo' => [
-        'recovery' => 'https://www.androidfilehost.com/?w=files&flid=197979'
+        'recovery' => 'https://share.weiyun.com/5HLs3xd'
     ],
     'libra' => [
-        'recovery' => 'https://www.androidfilehost.com/?w=files&flid=293073'
+        'recovery' => 'https://share.weiyun.com/5WY2nq5'
     ],
     'nx531j' => [
         'recovery' => 'https://share.weiyun.com/5EvT4FK'
@@ -224,7 +224,7 @@ $extras_info = [
         'recovery' => 'https://share.weiyun.com/5TIco5q'
     ],
     'virgo' => [
-        'recovery' => 'https://www.androidfilehost.com/?w=files&flid=199259'
+        'recovery' => 'https://share.weiyun.com/5do7lCV'
     ],
     'wayne' => [
         'radio' => [
@@ -262,6 +262,6 @@ $extras_info = [
                 'url' => 'https://www.androidfilehost.com/?fid=1395089523397947133'
             ]
         ],
-        'recovery' => 'https://www.androidfilehost.com/?w=files&flid=292567'
+        'recovery' => 'https://share.weiyun.com/5L5zOwV'
     ]
 ];
