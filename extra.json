@@ -140,6 +140,18 @@
     ],
     "recovery": "https://bbs.mokeedev.com/t/topic/10674"
   },
+  "perseus": {
+    "radio": [
+      {
+        "filename": "RADIO_perseus_9.5.17_9.0.zip",
+        "filesize": "95367917",
+        "summary": "MK90.0 20190529",
+        "timestamp": "1559225226",
+        "url": "https://www.androidfilehost.com/?fid=6006931924117884773"
+      }
+    ],
+    "recovery": "https://www.androidfilehost.com/?fid=6006931924117884775"
+  },
   "platina": {
     "radio": [
       {
