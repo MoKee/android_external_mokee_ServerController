@@ -775,6 +775,14 @@
     "display": "5.73 inch, 2040x1080 pixel(403ppi)",
     "cpuarch": "ARM64"
   },
+  "odin": {
+    "cpu": "Qualcomm® Snapdragon™ 625/626",
+    "ram": "4GB",
+    "rom": "32GB/64GB/128GB",
+    "battery": "3500 mAh",
+    "display": "5.5 inch, 1920x1080 pixel(403ppi)",
+    "cpuarch": "ARM64"
+  },
   "ocean": {
     "cpu": "Qualcomm® Snapdragon™ 710",
     "ram": "4GB/6GB",
