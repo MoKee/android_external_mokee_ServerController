@@ -239,13 +239,6 @@
     "display": "6.28 inch, 2280 x 1080 pixel(402ppi)",
     "cpuarch": "ARM64"
   },
-  "falcon": {
-    "cpu": "Qualcomm® Snapdragon™ 400 MSM8226",
-    "ram": "1GB",
-    "rom": "16GB",
-    "display": "4.5 inch, 1280 x 720 pixels(329ppi)",
-    "cpuarch": "ARM"
-  },
   "f460": {
     "cpu": "Qualcomm® Snapdragon™ APQ8084",
     "ram": "3GB",
