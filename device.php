@@ -76,6 +76,7 @@ $devices_info = [
     ['model' => 'ham', 'name' => 'Z1', 'brand' => 'Zuk'],
     ['model' => 'harpia', 'name' => 'Moto G4 Play', 'brand' => 'Motorola'],
     ['model' => 'hayabusa', 'name' => 'Xperia TX', 'brand' => 'Sony'],
+    ['model' => 'helium', 'name' => 'Mi Max Pro', 'brand' => 'XiaoMi'],
     ['model' => 'hero2lte', 'name' => 'Galaxy S7 Edge', 'brand' => 'Samsung'],
     ['model' => 'herolte', 'name' => 'Galaxy S7 Flat', 'brand' => 'Samsung'],
     ['model' => 'hiaeuhl', 'name' => 'One A9 (GSM Intl)', 'brand' => 'HTC'],
@@ -588,6 +589,14 @@ $hardware_info = [
         'display' => '5.0 inch, 1280x720 pixel(294ppi)',
         'cpuarch' => 'ARM'
     ],
+    'helium' => [
+        'cpu' => 'Qualcomm® Snapdragon™ 652',
+        'ram' => '3GB/4GB',
+        'rom' => '32GB/64GB/128GB',
+        'battery' => '4850 mAh',
+        'display' => '6.44 inch, 1920x1080 pixel(342ppi)',
+        'cpuarch' => 'Arm64'
+    ],
     'herolte' => [
         'cpu' => 'Samsung Exynos 8890',
         'ram' => '4GB',
@@ -613,7 +622,7 @@ $hardware_info = [
         'cpuarch' => 'ARM64'
     ],
     'hydrogen' => [
-        'cpu' => 'Qualcomm® Snapdragon™ 652/650',
+        'cpu' => 'Qualcomm® Snapdragon™ 650',
         'ram' => '3GB/4GB',
         'rom' => '32GB/64GB/128GB',
         'battery' => '4850 mAh',

@@ -73,6 +73,7 @@
   { "model": "ham", "name": "Z1", "brand": "Zuk" },
   { "model": "harpia", "name": "Moto G4 Play", "brand": "Motorola" },
   { "model": "hayabusa", "name": "Xperia TX", "brand": "Sony" },
+  { "model": "helium", "name": "Mi Max Pro", "brand": "XiaoMi" },
   { "model": "hero2lte", "name": "Galaxy S7 Edge", "brand": "Samsung" },
   { "model": "herolte", "name": "Galaxy S7 Flat", "brand": "Samsung" },
   { "model": "hiaeuhl", "name": "One A9 (GSM Intl)", "brand": "HTC" },

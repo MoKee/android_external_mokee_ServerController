@@ -31,14 +31,14 @@ $maintainers_info = [
         'devices'   => ['icesky', 'ocean', 'osborn', 'oscar', 'oxford', 'trident']
     ],
     'GuaiYiHu' => [
-        'title'     => 'Aries / Cancro / Clover / Gucci / Hydrogen / Ido / Kenzo / Leo / Libra / Violet / Virgo / Whyred / Wt88047 Maintainer',
+        'title'     => 'Aries / Cancro / Clover / Gucci / Helium / Hydrogen / Ido / Kenzo / Leo / Libra / Violet / Virgo / Whyred / Wt88047 Maintainer',
         'bio'       => '呀嘞呀嘞DA☆ZE！！！(<ゝω·)~☆',
         'github'    => 'guaiyihu',
         'community' => 'guaiyihu',
         'telegram'  => 'guaiyihu',
         'weibo'     => 'guaiyihu',
         'xda'       => '7442044',
-        'devices'   => ['aries', 'cancro', 'clover', 'gucci', 'hydrogen', 'ido', 'kenzo', 'leo', 'libra', 'violet', 'virgo', 'whyred', 'wt88047']
+        'devices'   => ['aries', 'cancro', 'clover', 'gucci', 'helium', 'hydrogen', 'ido', 'kenzo', 'leo', 'libra', 'violet', 'virgo', 'whyred', 'wt88047']
     ],
     'Dianlujitao' => [
         'title'     => 'Che10 / Cherry / Jason / Oneplus 3 Maintainer',

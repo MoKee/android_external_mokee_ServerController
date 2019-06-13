@@ -12,6 +12,9 @@ $extras_info = [
     'gucci' => [
         'recovery' => 'https://share.weiyun.com/5KFkzcX'
     ],
+    'helium' => [
+        'recovery' => 'https://twrp.me/xiaomi/xiaomimimax.html'
+    ],
     'icesky' => [
         'recovery' => 'https://bbs.mokeedev.com/t/topic/11917'
     ],
