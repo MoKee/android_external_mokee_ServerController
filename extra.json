@@ -67,6 +67,18 @@
   "nx595j": {
     "recovery": "https://share.weiyun.com/5oUwQrC"
   },
+  "odin": {
+    "radio": [
+      {
+        "filename": "RADIO-odin-20190116175637.zip",
+        "filesize": "48168850",
+        "summary": "MK90.0 20190614",
+        "timestamp": "1560441600",
+        "url": "https://androidfilehost.com/?fid=6006931924117895049"
+      }
+    ],
+    "recovery": "https://bbs.mokeedev.com/t/topic/14504"
+  },
   "ocean": {
     "radio": [
       {
