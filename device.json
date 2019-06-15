@@ -232,6 +232,5 @@
   { "model": "zerofltexx", "name": "Galaxy S6", "brand": "Samsung" },
   { "model": "zeroltexx", "name": "Galaxy S6 Edge", "brand": "Samsung" },
   { "model": "zl1", "name": "Le Pro 3", "brand": "LeEco" },
-  { "model": "zoom", "name": "Z90", "brand": "Lenovo"
-  }
+  { "model": "zoom", "name": "Z90", "brand": "Lenovo" }
 ]
