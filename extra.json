@@ -5,8 +5,32 @@
   "cancro": {
     "recovery": "https://www.androidfilehost.com/?w=files&flid=241521"
   },
+  "cheeseburger": {
+    "recovery": "https://sourceforge.net/projects/cheeseburgerdumplings/files/16.0/cheeseburger/recovery",
+    "radio": [
+      {
+        "filename": "firmware_9.0.6_oneplus5.zip",
+        "filesize": "62441839",
+        "summary": "MK90.0 2019-06-16",
+        "timestamp": "1560603937",
+        "url": "https://sourceforge.net/projects/cheeseburgerdumplings/files/16.0/cheeseburger/firmware"
+      }
+    ]
+  },
   "clover": {
     "recovery": "https://pan.baidu.com/s/1HgjIWw2WPdnNEdpMN2GCTw"
+  },
+  "dumpling": {
+    "recovery": "https://sourceforge.net/projects/cheeseburgerdumplings/files/16.0/cheeseburger/dumpling",
+    "radio": [
+      {
+        "filename": "firmware_9.0.6_oneplus5t.zip",
+        "filesize": "62659068",
+        "summary": "MK90.0 2019-06-16",
+        "timestamp": "1560603937",
+        "url": "https://sourceforge.net/projects/cheeseburgerdumplings/files/16.0/dumpling/firmware"
+      }
+    ]
   },
   "gucci": {
     "recovery": "https://www.androidfilehost.com/?fid=1395089523397938486"
