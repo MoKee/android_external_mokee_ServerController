@@ -185,5 +185,17 @@
     "devices": [
       "mido"
     ]
-  }
+  },
+  "Parheliamm": {
+    "title": "Enchilada Maintainer",
+    "bio": "",
+    "github": "Parheliamm",
+    "community": "",
+    "telegram": "",
+    "weibo": "Parheliamm",
+    "xda": "",
+    "devices": [
+      "enchilada"
+    ]
+  },
 }
