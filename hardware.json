@@ -1215,4 +1215,12 @@
     "display": "5.0 inch, 1920x1080 pixel(441ppi)",
     "cpuarch": "ARM"
   }
+  "oxygen": {
+    "cpu": "Qualcomm® Snapdragon™ 625",
+    "ram": "4GB",
+    "rom": "64GB",
+    "battery": "5300mAh",
+    "display": "6.44 inch, 1920x1080 pixel(342ppi)",
+    "cpuarch": "ARM64"
+  },
 }
