@@ -871,6 +871,14 @@
     "display": "4.5 inch, 1280x720 pixel(329ppi)",
     "cpuarch": "ARM"
   },
+  "perseus": {
+    "cpu": "Qualcomm® Snapdragon™ 845",
+    "ram": "6/8/10GB of LP-DDR4X",
+    "rom": "128/256GB",
+    "battery": "3200 mAh",
+    "display": "6.39 inch, 2340x1080 pixel(403ppi)",
+    "cpuarch": "ARM64"
+  },
   "platina": {
     "cpu": "Qualcomm® Snapdragon™ 660",
     "ram": "4/6GB of LP-DDR4X",
