@@ -5,15 +5,15 @@
     "rom": "16GB",
     "battery": "2750 mAh",
     "display": "5.0 inch, 720x1280p pixel(312ppi]/1080x1920 pixel(441ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "albus": {
-    "cpu": "Qualcomm MSM8953-Pro Snapdragon 626",
+    "cpu": "Qualcomm® Snapdragon™ MSM8953-Pro 626",
     "ram": "3/4GB",
     "rom": "32GB/64GB",
     "battery": "3000 mAh",
     "display": "5.2 inch, 1080x1920 pixel(401ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "angler": {
     "cpu": "Qualcomm® Snapdragon™ 810",
@@ -21,7 +21,7 @@
     "rom": "16GB/32GB/128GB",
     "battery": "3450 mAh",
     "display": "5.7 inch, 1440x2560 pixel(518ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "aries": {
     "cpu": "Qualcomm® Snapdragon™ 600",
@@ -29,7 +29,7 @@
     "rom": "16GB/32GB",
     "battery": "2000 mAh",
     "display": "4.3 inch, 1280x720 pixel(342ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "armani": {
     "cpu": "Qualcomm® Snapdragon™ MSM8628",
@@ -37,7 +37,7 @@
     "rom": "8GB",
     "battery": "2000 mAh",
     "display": "4.7 inch, 1280x720 pixel(312ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "athene": {
     "cpu": "Qualcomm® Snapdragon™ 617",
@@ -45,7 +45,7 @@
     "rom": "16GB/32GB/64GB",
     "battery": "3000 mAh",
     "display": "5.5 inch, 1920x1080 pixel(401ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "bacon": {
     "cpu": "Qualcomm® Snapdragon™ 801",
@@ -53,7 +53,7 @@
     "rom": "16GB/64GB",
     "battery": "3100 mAh",
     "display": "5.5 inch, 1920x1080 pixel(401ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "berkeley": {
     "cpu": "HiSilicon® Kirin™ 970",
@@ -61,7 +61,7 @@
     "rom": "64/128GB",
     "battery": "3750 mAh",
     "display": "5.99 inch, 2160x1080 pixel(403ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "beryllium": {
     "cpu": "Qualcomm® Snapdragon™ 845",
@@ -69,7 +69,7 @@
     "rom": "64/128/256GB",
     "battery": "4000 mAh",
     "display": "6.18 inch, 2246x1080 pixel(403ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "cancro": {
     "cpu": "Qualcomm® Snapdragon™ 801",
@@ -77,7 +77,7 @@
     "rom": "16GB/64GB",
     "battery": "3080 mAh",
     "display": "5 inch, 1920x1080 pixel(441ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "capricorn": {
     "cpu": "Qualcomm® Snapdragon™ 821",
@@ -85,7 +85,7 @@
     "rom": "64/128GB",
     "battery": "3200 mAh",
     "display": "5.15 inch, 1920x1080 pixel(428ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "charlotte": {
     "cpu": "HiSilicon® Kirin™ 970",
@@ -93,7 +93,7 @@
     "rom": "64/128/256GB",
     "battery": "4000 mAh",
     "display": "6.1 inch, 2240x1080 pixel(408ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "che10": {
     "cpu": "Qualcomm® Snapdragon™ 410",
@@ -101,7 +101,7 @@
     "rom": "8GB",
     "battery": "3000 mAh",
     "display": "5.5 inch, 1280x720 pixel(267ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "cheeseburger": {
     "cpu": "Qualcomm® Snapdragon™ 835",
@@ -109,7 +109,7 @@
     "rom": "64/128GB of UFS 2.1",
     "battery": "3300 mAh",
     "display": "5.5 inch, 1920x1080 pixel(401ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "cherry": {
     "cpu": "Qualcomm® Snapdragon™ 410",
@@ -117,7 +117,7 @@
     "rom": "8GB",
     "battery": "3000 mAh",
     "display": "5.5 inch, 1280x720 pixel(267ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "chiron": {
     "cpu": "Qualcomm® Snapdragon™ 835",
@@ -125,7 +125,7 @@
     "rom": "64/128/256GB",
     "battery": "3400 mAh",
     "display": "5.99 inch, 2160x1080 pixel(403ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "chm_cl00": {
     "cpu": "Qualcomm® Snapdragon™ 615",
@@ -133,7 +133,7 @@
     "rom": "8GB/16GB",
     "battery": "2550 mAh",
     "display": "5 inch, 1280x720 pixel(294ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "clark": {
     "cpu": "Qualcomm® Snapdragon™ 808",
@@ -141,7 +141,7 @@
     "rom": "16GB/32GB/64GB",
     "battery": "3000 mAh",
     "display": "5.7 inch, 2560x1440 pixel(515ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "clover": {
     "cpu": "Qualcomm® Snapdragon™ 660",
@@ -149,7 +149,7 @@
     "rom": "32GB/64GB",
     "battery": "6000 mAh",
     "display": "8.0 inch, 1900x1200 pixel(283ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "condor": {
     "cpu": "Qualcomm® Snapdragon™ 200",
@@ -157,7 +157,7 @@
     "rom": "4GB",
     "battery": "1980 mAh",
     "display": "4.3 inch, 540x960 pixel(256ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "d802": {
     "cpu": "Qualcomm® Snapdragon™ 800",
@@ -165,7 +165,7 @@
     "rom": "32GB",
     "battery": "3000 mAh",
     "display": "5.2 inch, 1920x1080 pixel(424ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "d803": {
     "cpu": "Qualcomm® Snapdragon™ 800",
@@ -173,7 +173,7 @@
     "rom": "32GB",
     "battery": "3000 mAh",
     "display": "5.2 inch, 1920x1080 pixel(424ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "d852": {
     "cpu": "Qualcomm® MSM8975AC Snapdragon™ 801",
@@ -181,7 +181,7 @@
     "rom": "16GB/32GB",
     "battery": "3000 mAh",
     "display": "5.5 inch, 1440 x 2560 pixels",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "d857": {
     "cpu": "Qualcomm® Snapdragon™ 801",
@@ -189,7 +189,7 @@
     "rom": "32GB",
     "battery": "3000 mAh",
     "display": "5.5 inch, 2560x1440 pixel(538ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "dior": {
     "cpu": "Qualcomm® Snapdragon™ MSM8926",
@@ -197,7 +197,7 @@
     "rom": "8GB",
     "battery": "3100 mAh",
     "display": "5.5 inch, 1280x720 pixel(267ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "dipper": {
     "cpu": "Qualcomm® Snapdragon™ SDM845",
@@ -205,7 +205,7 @@
     "rom": "64/128/256GB",
     "battery": "3400 mAh",
     "display": "6.21 inch, 1080x2248 pixel(402ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "dogo": {
     "cpu": "Qualcomm® Snapdragon™ S4 Pro APQ8064",
@@ -213,7 +213,7 @@
     "rom": "8GB",
     "battery": "2300 mAh",
     "display": "4.55 inch, 1280x720 pixel(319ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "dragon": {
     "cpu": "NVIDIA® Tegra™ X1",
@@ -221,7 +221,7 @@
     "rom": "32/64GB eMMC 5.0",
     "battery": "9000 mAh",
     "display": "10.2 inch, 2560x1800 pixel(308ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "dumpling": {
     "cpu": "Qualcomm® Snapdragon™ 835",
@@ -229,7 +229,7 @@
     "rom": "64/128GB of UFS 2.1",
     "battery": "3300 mAh",
     "display": "6.01 inch, 2160 x 1080 pixel(401ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "enchilada": {
     "cpu": "Qualcomm® Snapdragon™ 845",
@@ -237,7 +237,7 @@
     "rom": "64/128/256GB of UFS 2.1",
     "battery": "3300 mAh",
     "display": "6.28 inch, 2280 x 1080 pixel(402ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "f460": {
     "cpu": "Qualcomm® Snapdragon™ APQ8084",
@@ -245,7 +245,7 @@
     "rom": "32GB",
     "battery": "3000 mAh",
     "display": "5.5 inch, 2560x1440 pixel(538ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "g750c": {
     "cpu": "Qualcomm® Snapdragon™ MSM8628",
@@ -253,7 +253,7 @@
     "rom": "16GB",
     "battery": "3000 mAh",
     "display": "5.5 inch, 1280x720 pixel(267ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "g760l": {
     "cpu": "Qualcomm® Snapdragon™ MSM8928",
@@ -261,7 +261,7 @@
     "rom": "16GB",
     "battery": "3000 mAh",
     "display": "5.5 inch, 1280x720 pixel(267ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "gemini": {
     "cpu": "Qualcomm® Snapdragon™ 820",
@@ -269,7 +269,7 @@
     "rom": "64GB",
     "battery": "3000 mAh",
     "display": "5.15 inch, 1920x1080 pixel(428ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "ghost": {
     "cpu": "Qualcomm® Snapdragon™ MSM8960DT",
@@ -277,7 +277,7 @@
     "rom": "16GB",
     "battery": "2200 mAh",
     "display": "4.7 inch, 1280x720 pixel(312ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "griffin": {
     "cpu": "Qualcomm® Snapdragon™ 820",
@@ -285,7 +285,7 @@
     "rom": "64GB",
     "battery": "2600 mAh",
     "display": "5.5 inch, 1440x2560 pixel(535ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "gucci": {
     "cpu": "Qualcomm® Snapdragon™ 410",
@@ -293,7 +293,7 @@
     "rom": "8GB/16GB",
     "battery": "3100 mAh",
     "display": "5.5 inch, 1280x720 pixel(267ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "h830": {
     "cpu": "Qualcomm® Snapdragon™ 820",
@@ -301,7 +301,7 @@
     "rom": "32GB",
     "battery": "2800 mAh",
     "display": "5.3 inch, 1440 x 2560 pixel(554ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "h850": {
     "cpu": "Qualcomm® Snapdragon™ 820",
@@ -309,7 +309,7 @@
     "rom": "32GB",
     "battery": "2800 mAh",
     "display": "5.3 inch, 1440 x 2560 pixel(554ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "ham": {
     "cpu": "Qualcomm® Snapdragon™ 801",
@@ -317,7 +317,7 @@
     "rom": "64GB",
     "battery": "4100 mAh",
     "display": "5.5 inch, 1920x1080 pixel(401ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "hammerhead": {
     "cpu": "Qualcomm® Snapdragon™ MSM8974",
@@ -325,7 +325,7 @@
     "rom": "16GB/32GB",
     "battery": "2300 mAh",
     "display": "4.95 inch, 1920x1080 pixel(445ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "hammerheadcaf": {
     "cpu": "Qualcomm® Snapdragon™ MSM8974",
@@ -333,7 +333,7 @@
     "rom": "16GB/32GB",
     "battery": "2300 mAh",
     "display": "4.95 inch, 1920x1080 pixel(445ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "harpia": {
     "cpu": "Qualcomm® Snapdragon™ 410",
@@ -341,7 +341,7 @@
     "rom": "8GB/16GB",
     "battery": "2800 mAh",
     "display": "5.0 inch, 1280x720 pixel(294ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "helium": {
     "cpu": "Qualcomm® Snapdragon™ 652",
@@ -349,7 +349,7 @@
     "rom": "32GB/64GB/128GB",
     "battery": "4850 mAh",
     "display": "6.44 inch, 1920x1080 pixel(342ppi)",
-    "cpuarch": "Arm64"
+    "cpuarch": "arm64"
   },
   "herolte": {
     "cpu": "Samsung Exynos 8890",
@@ -357,7 +357,7 @@
     "rom": "32GB",
     "battery": "3000 mAh",
     "display": "5.1 inch, 2160x1440 pixels (577ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "hero2lte": {
     "cpu": "Samsung Exynos 8890",
@@ -365,7 +365,7 @@
     "rom": "32GB",
     "battery": "3600 mAh",
     "display": "5.5 inch, 2160x1440 pixels (534ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "himaul": {
     "cpu": "Qualcomm® Snapdragon™ 810",
@@ -373,7 +373,7 @@
     "rom": "32GB",
     "battery": "2840 mAh",
     "display": "5.0 inch, Full HD 1080p; Corning® Gorilla® Glass",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "hydrogen": {
     "cpu": "Qualcomm® Snapdragon™ 650",
@@ -381,7 +381,7 @@
     "rom": "32GB/64GB/128GB",
     "battery": "4850 mAh",
     "display": "6.44 inch, 1920x1080 pixel(342ppi)",
-    "cpuarch": "Arm64"
+    "cpuarch": "arm64"
   },
   "i9300": {
     "cpu": "Samsung Exynos 4412",
@@ -389,7 +389,7 @@
     "rom": "16GB",
     "battery": "2100 mAh",
     "display": "4.8 inch, 1280x720 pixel(306ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "icesky": {
     "cpu": "Qualcomm® Snapdragon™ 808",
@@ -397,47 +397,47 @@
     "rom": "16/32GB of eMMC 5.0",
     "battery": "2670 mAh",
     "display": "4.95 inch, 1920x1080 pixel(445ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "ido": {
-    "cpu": "Qualcomm MSM8939v2 Snapdragon 616",
+    "cpu": "Qualcomm® MSM8939v2 Snapdragon 616",
     "ram": "2GB/3GB",
     "rom": "16GB/32GB",
     "battery": "4000 mAh",
     "display": "5.0 inch, 720x1280 pixels(294ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "j5ltexx": {
-    "cpu": "Qualcomm msm8916 Snapdragon™ 410",
+    "cpu": "Qualcomm® msm8916 Snapdragon™ 410",
     "ram": "1.5GB",
     "rom": "8/16GB",
     "battery": "2600 mAh",
     "display": "5.0 inch, 1280x720",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "j5nltexx": {
-    "cpu": "Qualcomm msm8916 Snapdragon™ 410",
+    "cpu": "Qualcomm® msm8916 Snapdragon™ 410",
     "ram": "1.5GB",
     "rom": "8/16GB",
     "battery": "2600 mAh",
     "display": "5.0 inch, 1280x720",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "jag3gds": {
-    "cpu": "Qualcomm Snapdragon™ 400",
+    "cpu": "Qualcomm® Snapdragon™ 400",
     "ram": "1GB",
     "rom": "8GB",
     "battery": "2540 mAh",
     "display": "5.0 inch, 1280x720",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "jagnm": {
-    "cpu": "Qualcomm Snapdragon™ 400",
+    "cpu": "Qualcomm® Snapdragon™ 400",
     "ram": "1GB",
     "rom": "8GB",
     "battery": "2540 mAh",
     "display": "5.0 inch, 1280x720",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "jalebi": {
     "cpu": "Qualcomm® Snapdragon™ 410",
@@ -445,7 +445,7 @@
     "rom": "8GB",
     "battery": "2200 mAh",
     "display": "4.7 inch, 1280x720 pixel(312ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "jasmine_sprout": {
     "cpu": "Qualcomm® Snapdragon™ 660",
@@ -453,7 +453,7 @@
     "rom": "64/128GB",
     "battery": "3010 mAh",
     "display": "5.99 inch, 2160x1080 pixel(403ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "jason": {
     "cpu": "Qualcomm® Snapdragon™ 660",
@@ -461,7 +461,7 @@
     "rom": "64GB",
     "battery": "3500 mAh",
     "display": "5.5 inch, 1920x1080 pixel(403ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "jsglte": {
     "cpu": "Qualcomm® Snapdragon™ 800",
@@ -469,7 +469,7 @@
     "rom": "16GB",
     "battery": "2600 mAh",
     "display": "5.0 inch, 1920x1080 pixel(441ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "jfltespr": {
     "cpu": "Qualcomm® Snapdragon™ 800",
@@ -477,7 +477,7 @@
     "rom": "16GB",
     "battery": "2600 mAh",
     "display": "5.0 inch, 1920x1080 pixel(441ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "k3gduosctc": {
     "cpu": "Qualcomm® Snapdragon™ 801",
@@ -485,7 +485,7 @@
     "rom": "16GB",
     "battery": "2800 mAh",
     "display": "5.0 inch, 1920x1080 pixel(441ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "k3gxx": {
     "cpu": "Samsung Exynos 5422",
@@ -493,7 +493,7 @@
     "rom": "16GB",
     "battery": "2800 mAh",
     "display": "5.1 inch, 1920x1080 pixel(432ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "kccat6": {
     "cpu": "Qualcomm® Snapdragon™ 805",
@@ -501,7 +501,7 @@
     "rom": "32GB",
     "battery": "2800 mAh",
     "display": "5.0 inch, 1920x1080 pixel(441ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "kiwi": {
     "cpu": "Qualcomm® Snapdragon™ 616",
@@ -509,7 +509,7 @@
     "rom": "16GB",
     "battery": "3000 mAh",
     "display": "5.5 inch, 1920x1080 pixel(401ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "klte": {
     "cpu": "Qualcomm® Snapdragon™ 801",
@@ -517,7 +517,7 @@
     "rom": "16GB/32GB",
     "battery": "2800 mAh",
     "display": "5.0 inch, 1920x1080 pixel(441ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "kltechn": {
     "cpu": "Qualcomm® Snapdragon™ 801",
@@ -525,7 +525,7 @@
     "rom": "16GB/32GB",
     "battery": "2800 mAh",
     "display": "5.0 inch, 1920x1080 pixel(441ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "kltechnduo": {
     "cpu": "Qualcomm® Snapdragon™ 801",
@@ -533,7 +533,7 @@
     "rom": "16GB/32GB",
     "battery": "2800 mAh",
     "display": "5.0 inch, 1920x1080 pixel(441ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "klteduos": {
     "cpu": "Qualcomm® Snapdragon™ 801",
@@ -541,7 +541,7 @@
     "rom": "16GB/32GB",
     "battery": "2800 mAh",
     "display": "5.0 inch, 1920x1080 pixel(441ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "kltedv": {
     "cpu": "Qualcomm® Snapdragon™ 801",
@@ -549,7 +549,7 @@
     "rom": "16GB/32GB",
     "battery": "2800 mAh",
     "display": "5.0 inch, 1920x1080 pixel(441ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "kltekdi": {
     "cpu": "Qualcomm® Snapdragon™ 801",
@@ -557,7 +557,7 @@
     "rom": "32GB",
     "battery": "2800 mAh",
     "display": "5.0 inch, 1920x1080 pixel(441ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "l900": {
     "cpu": "Samsung Exynos 4412",
@@ -565,7 +565,7 @@
     "rom": "16GB",
     "battery": "3100 mAh",
     "display": "5.5 inch, 1280x720 pixel(267ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "land": {
     "cpu": "Qualcomm® Snapdragon™ 430",
@@ -573,7 +573,7 @@
     "rom": "16/32GB",
     "battery": "4100 mAh",
     "display": "5.0 inch, 1280x720 pixel",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "lavender": {
     "cpu": "Qualcomm® Snapdragon™ 660",
@@ -581,7 +581,7 @@
     "rom": "32/64GB",
     "battery": "4000 mAh",
     "display": " 6.3 inch, 2340 x 1080 pixel(409ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "le_x2": {
     "cpu": "Qualcomm® Snapdragon™ 820",
@@ -589,7 +589,7 @@
     "rom": "64-128GB",
     "battery": "3100 mAh",
     "display": "5.7 inch, 1440x2560 pixel(515ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "lentislte": {
     "cpu": "Qualcomm® Snapdragon™ 805",
@@ -597,7 +597,7 @@
     "rom": "32GB",
     "battery": "2800 mAh",
     "display": "5.1 inch, 2560x1440 pixel(576ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "leo": {
     "cpu": "Qualcomm® Snapdragon™ 810",
@@ -605,7 +605,7 @@
     "rom": "64GB",
     "battery": "3090 mAh",
     "display": "5.7 inch, 2560x1440 pixel(515ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "libra": {
     "cpu": "Qualcomm® Snapdragon™ 808",
@@ -613,7 +613,7 @@
     "rom": "16/32GB",
     "battery": "3000 mAh",
     "display": "5.0 inch, 1920x1080 pixel(441ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "lithium": {
     "cpu": "Qualcomm® Snapdragon™ 821",
@@ -621,7 +621,7 @@
     "rom": "128/256GB",
     "battery": "4400 mAh",
     "display": "6.4 inch, 1080x2040 pixel(362ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "lux": {
     "cpu": "Qualcomm® Snapdragon™ 615",
@@ -629,7 +629,7 @@
     "rom": "16/32GB",
     "battery": "3630mAh",
     "display": "5.5 inch, 1920x1080 pixel(403ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "mako": {
     "cpu": "Qualcomm® Snapdragon™ S4 Pro APQ8064",
@@ -637,7 +637,7 @@
     "rom": "16GB/32GB",
     "battery": "2100 mAh",
     "display": "4.7 inch, 1280x768 pixel(317.6ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "markw": {
     "cpu": "Qualcomm® Snapdragon™ 625",
@@ -645,7 +645,7 @@
     "rom": "32GB",
     "battery": "4100mAh",
     "display": "5 inch, 1920x1080 pixel(443ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "merlin": {
     "cpu": "Qualcomm® Snapdragon™ 615",
@@ -653,7 +653,7 @@
     "rom": "16GB",
     "battery": "2470 mAh",
     "display": "5.0 inch, 1280x720 pixel(294ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "mido": {
     "cpu": "Qualcomm® Snapdragon™ 625",
@@ -661,7 +661,7 @@
     "rom": "32GB",
     "battery": "4100mAh",
     "display": "5.5 inch, 1920x1080 pixel(401ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "natrium": {
     "cpu": "Qualcomm® Snapdragon™ 821",
@@ -669,7 +669,7 @@
     "rom": "128GB",
     "battery": "3800 mAh",
     "display": "5.7 inch, 1920x1080 pixel(386ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "nicki": {
     "cpu": "Qualcomm® Snapdragon™ S4 Plus MSM8227",
@@ -677,7 +677,7 @@
     "rom": "4GB",
     "battery": "1750 mAh",
     "display": "4 inch, 480x854 pixel(245ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "nx503a": {
     "cpu": "Qualcomm® Snapdragon™ 800",
@@ -685,7 +685,7 @@
     "rom": "16/32GB",
     "battery": "2300 mAh",
     "display": "5.0 inch, 1920x1080 pixel(441ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "nx505j": {
     "cpu": "Qualcomm® Snapdragon™ 801",
@@ -693,7 +693,7 @@
     "rom": "32GB",
     "battery": "3100 mAh",
     "display": "5.5 inch, 1920x1080 pixel(441ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "nx507j": {
     "cpu": "Qualcomm® Snapdragon™ 801",
@@ -701,7 +701,7 @@
     "rom": "16GB",
     "battery": "2300 mAh",
     "display": "5 inch, 1920x1080 pixel(441ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "nx510j": {
     "cpu": "Qualcomm® Snapdragon™ 810",
@@ -709,7 +709,7 @@
     "rom": "16GB",
     "battery": "2900 mAh",
     "display": "5.5 inch, 1920x1080 pixel(401ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "nx511j": {
     "cpu": "Qualcomm® Snapdragon™ 615",
@@ -717,7 +717,7 @@
     "rom": "16GB",
     "battery": "2900 mAh",
     "display": "5.0 inch, 1920x1080 pixel(441ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "nx523j": {
     "cpu": "Qualcomm® Snapdragon™ 652",
@@ -725,7 +725,7 @@
     "rom": "64GB of eMMC 5.0",
     "battery": "4000 mAh",
     "display": "6.0 inch, 1920x1080 pixel(367ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "nx529j": {
     "cpu": "Qualcomm® Snapdragon™ 617",
@@ -733,7 +733,7 @@
     "rom": "64GB of eMMC 5.0",
     "battery": "2800 mAh",
     "display": "5.0 inch, 1920x1080 pixel(441ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "nx531j": {
     "cpu": "Qualcomm® Snapdragon™ 820",
@@ -741,7 +741,7 @@
     "rom": "64GB/128GB of eMMC 5.0",
     "battery": "3000 mAh",
     "display": "5.5 inch, 1920x1080 pixel(401ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "nx549j": {
     "cpu": "Qualcomm® Snapdragon™ 625",
@@ -749,7 +749,7 @@
     "rom": "64GB of eMMC 5.1",
     "battery": "3000 mAh",
     "display": "5.2 inch, 1920x1080 pixel(441ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "nx563j": {
     "cpu": "Qualcomm® Snapdragon™ 835",
@@ -757,7 +757,7 @@
     "rom": "64GB/128GB of UFS 2.1",
     "battery": "3200 mAh",
     "display": "5.5 inch, 1920x1080 pixel(403ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "nx569j": {
     "cpu": "Qualcomm® Snapdragon™ 652/653",
@@ -765,7 +765,7 @@
     "rom": "64GB of eMMC 5.1",
     "battery": "3000 mAh",
     "display": "5.2 inch, 1920x1080 pixel(424ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "nx595j": {
     "cpu": "Qualcomm® Snapdragon™ 835",
@@ -773,7 +773,7 @@
     "rom": "64GB/128GB of UFS 2.1",
     "battery": "3100 mAh",
     "display": "5.73 inch, 2040x1080 pixel(403ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "odin": {
     "cpu": "Qualcomm® Snapdragon™ 625/626",
@@ -781,7 +781,7 @@
     "rom": "32GB/64GB/128GB",
     "battery": "3500 mAh",
     "display": "5.5 inch, 1920x1080 pixel(403ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "ocean": {
     "cpu": "Qualcomm® Snapdragon™ 710",
@@ -789,7 +789,7 @@
     "rom": "64GB/128GB",
     "battery": "3600 mAh",
     "display": "6.01 inch, 2160x1080 pixel(403ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "onyx": {
     "cpu": "Qualcomm® Snapdragon™ 801",
@@ -797,7 +797,7 @@
     "rom": "16GB",
     "battery": "2525 mAh",
     "display": "5.0 inch, 1920x1080 pixel(441ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "oneplus2": {
     "cpu": "Qualcomm® Snapdragon™ 810",
@@ -805,7 +805,7 @@
     "rom": "16GB/64GB",
     "battery": "3300 mAh",
     "display": "5.5 inch, 1920x1080 pixel(401ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "oneplus3": {
     "cpu": "Qualcomm® Snapdragon™ 820",
@@ -813,7 +813,7 @@
     "rom": "64GB",
     "battery": "3000 mAh",
     "display": "5.5 inch, 1920x1080 pixel(401ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "osborn": {
     "cpu": "Qualcomm® Snapdragon™ 660",
@@ -821,7 +821,7 @@
     "rom": "32GB/64GB/128GB/256GB",
     "battery": "3500 mAh",
     "display": "5.99 inch, 2160x1080 pixel(403ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "oscar": {
     "cpu": "Qualcomm® Snapdragon™ 625",
@@ -829,7 +829,7 @@
     "rom": "32GB/64GB/128GB",
     "battery": "4000 mAh",
     "display": "5.99 inch, 2160x1080 pixel(403ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "osprey": {
     "cpu": "Qualcomm® Snapdragon™ 410",
@@ -837,7 +837,7 @@
     "rom": "16GB",
     "battery": "2470 mAh",
     "display": "5.0 inch, 720x1280 pixel(294ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "otus": {
     "cpu": "Qualcomm® Snapdragon™ 200",
@@ -845,7 +845,7 @@
     "rom": "8GB",
     "battery": "2390 mAh",
     "display": "4.5 inch, 540x960 pixel(245ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "oxford": {
     "cpu": "Qualcomm® Snapdragon™ 636",
@@ -853,23 +853,23 @@
     "rom": "64GB",
     "battery": "3500 mAh",
     "display": "5.99 inch, 2160x1080 pixel(403ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "peach": {
-    "cpu": "Qualcomm Snapdragon™ 410",
+    "cpu": "Qualcomm® Snapdragon™ 410",
     "ram": "1GB",
     "rom": "8GB",
     "battery": "2100 mAh",
     "display": "5.0 inch, 720x1280 pixel(294ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "peregrine": {
-    "cpu": "Qualcomm Snapdragon™ 400",
+    "cpu": "Qualcomm® Snapdragon™ 400",
     "ram": "1GB",
     "rom": "8GB",
     "battery": "2070 mAh",
     "display": "4.5 inch, 1280x720 pixel(329ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "platina": {
     "cpu": "Qualcomm® Snapdragon™ 660",
@@ -877,7 +877,7 @@
     "rom": "64/128GB",
     "battery": "3350 mAh",
     "display": "6.26 inch, 2280x1080 pixel(403ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "polaris": {
     "cpu": "Qualcomm® Snapdragon™ 845",
@@ -885,7 +885,7 @@
     "rom": "64/128/256GB",
     "battery": "3400 mAh",
     "display": "5.99 inch, 2160x1080 pixel(428ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "quark": {
     "cpu": "Qualcomm® Snapdragon™ 805",
@@ -893,7 +893,7 @@
     "rom": "64GB",
     "battery": "3900 mAh",
     "display": "5.2 inch, 1440x2560 pixel(565ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "rolex": {
     "cpu": "Qualcomm® Snapdragon™ 425",
@@ -901,7 +901,7 @@
     "rom": "16/32GB",
     "battery": "3120 mAh/3000 mAh",
     "display": "5.0 inch, 1280x720 pixel",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "rosy": {
     "cpu": "Qualcomm® Snapdragon™ 450",
@@ -909,7 +909,7 @@
     "rom": "16/32GB",
     "battery": "3300 mAh",
     "display": "5.7 inch, 1440x720 pixel(282ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "s2": {
     "cpu": "Qualcomm® Snapdragon™ 652",
@@ -917,7 +917,7 @@
     "rom": "32GB",
     "battery": "3000 mAh",
     "display": "5.5 inch, 1920x1080 pixel(401ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "sagit": {
     "cpu": "Qualcomm® Snapdragon™ 835",
@@ -925,7 +925,7 @@
     "rom": "64/128GB",
     "battery": "3350 mAh",
     "display": "5.15 inch, 1920x1080 pixel(428ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "sakura": {
     "cpu": "Qualcomm® Snapdragon™ 625",
@@ -933,7 +933,7 @@
     "rom": "32/64GB",
     "battery": "4000 mAh",
     "display": " 5.84 inch, 2280x1080 pixel(432ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "santoni": {
     "cpu": "Qualcomm® Snapdragon™ 435",
@@ -941,7 +941,7 @@
     "rom": "16/32/64GB",
     "battery": "4100 mAh",
     "display": "5.0 inch, 1280x720 pixel",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "satsuki": {
     "cpu": "Qualcomm® Snapdragon™ 810",
@@ -949,7 +949,7 @@
     "rom": "32GB",
     "battery": "3430 mAh",
     "display": "5.5 inch, 2160x3840 pixel",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "scorpio": {
     "cpu": "Qualcomm® Snapdragon™ 821",
@@ -957,7 +957,7 @@
     "rom": "64/128GB",
     "battery": "4070 mAh",
     "display": "5.7 inch, 1920x1080 pixel",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "shamu": {
     "cpu": "Qualcomm® Snapdragon™ 805",
@@ -965,7 +965,7 @@
     "rom": "32G/64GB",
     "battery": "3220 mAh",
     "display": "5.96 inch, 2560x1440 pixel(493ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "sirius": {
     "cpu": "Qualcomm® Snapdragon™ 710",
@@ -973,7 +973,7 @@
     "rom": "64/128GB",
     "battery": "3120 mAh",
     "display": "5.88 inch, 2244x1080 pixel(480ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "sumire": {
     "cpu": "Qualcomm® Snapdragon™ 810",
@@ -981,7 +981,7 @@
     "rom": "32GB",
     "battery": "2900 mAh",
     "display": "5.2 inch, 1920x1080 pixel",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "surnia": {
     "cpu": "Qualcomm® Snapdragon™ 410",
@@ -989,7 +989,7 @@
     "rom": "8GB",
     "battery": "2390 mAh",
     "display": "4.5 inch, 540x960 pixel(245ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "suzuran": {
     "cpu": "Qualcomm® Snapdragon™ 810",
@@ -997,7 +997,7 @@
     "rom": "32GB",
     "battery": "2700 mAh",
     "display": "4.6 inch, 1080x720 pixel",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "thea": {
     "cpu": "Qualcomm® Snapdragon™ MSM8926",
@@ -1005,7 +1005,7 @@
     "rom": "8GB/16GB",
     "battery": "2390 mAh",
     "display": "5.0 inch, 1280x720 pixel(294ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "tissot": {
     "cpu": "Qualcomm® Snapdragon™ 625",
@@ -1013,7 +1013,7 @@
     "rom": "64GB",
     "battery": "3080mAh",
     "display": "5.5 inch, 1920x1080 pixel(401ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "titan": {
     "cpu": "Qualcomm® Snapdragon™ 400 MSM8226",
@@ -1021,7 +1021,7 @@
     "rom": "8GB/16GB",
     "battery": "2070 mAh",
     "display": "5.0 inch, 720x1280 pixel(294ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "tomato": {
     "cpu": "Qualcomm® Snapdragon™ 615",
@@ -1029,7 +1029,7 @@
     "rom": "16GB",
     "battery": "2500 mAh",
     "display": "5.5 inch, 1280x720 pixel(267ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "tsubasa": {
     "cpu": "Qualcomm® Snapdragon™ MSM8960",
@@ -1037,7 +1037,7 @@
     "rom": "8GB",
     "battery": "1700 mAh",
     "display": "4.3 inch, 1280x720 pixel(342ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "tocino": {
     "cpu": "Qualcomm® Snapdragon™ 810",
@@ -1045,7 +1045,7 @@
     "rom": "16GB/64GB",
     "battery": "3300 mAh",
     "display": "5.5 inch, 1920x1080 pixel(401ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "trident": {
     "cpu": "Qualcomm® Snapdragon™ 845",
@@ -1053,7 +1053,7 @@
     "rom": "64GB/128GB/512GB/1TB",
     "battery": "3600 mAh",
     "display": "6.17 inch, 2242x1080 pixel(403ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "tulip": {
     "cpu": "Qualcomm® Snapdragon™ 636",
@@ -1061,7 +1061,7 @@
     "rom": "32GB/64GB",
     "battery": "4000 mAh",
     "display": "6.26 inch, 2280x1080 pixel(403ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "victara": {
     "cpu": "Qualcomm® Snapdragon™ 801",
@@ -1069,7 +1069,7 @@
     "rom": "16GB/32GB",
     "battery": "2300 mAh",
     "display": "5.2 inch, 1920x1080 pixel(424ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "victara_retcn": {
     "cpu": "Qualcomm® Snapdragon™ 801",
@@ -1077,7 +1077,7 @@
     "rom": "16GB/32GB",
     "battery": "2300 mAh",
     "display": "5.2 inch, 1920x1080 pixel(424ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "vince": {
     "cpu": "Qualcomm® Snapdragon™ 625",
@@ -1085,7 +1085,7 @@
     "rom": "32/64GB",
     "battery": "4000 mAh",
     "display": "5.99 inch, 2160x1080 pixel",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "violet": {
     "cpu": "Qualcomm® Snapdragon™ 675",
@@ -1093,7 +1093,7 @@
     "rom": "128GB",
     "battery": "4000 mAh",
     "display": "6.3 inch, 2340x1080 pixel(409ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "virgo": {
     "cpu": "Qualcomm® Snapdragon™ 801",
@@ -1101,7 +1101,7 @@
     "rom": "16GB/64GB",
     "battery": "3080 mAh",
     "display": "5.7 inch, 1920x1080 pixel(386ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "vs980": {
     "cpu": "Qualcomm® Snapdragon™ 800",
@@ -1109,7 +1109,7 @@
     "rom": "16GB/32GB",
     "battery": "3000 mAh",
     "display": "5.2 inch, 1920x1080 pixel(424ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "vs985": {
     "cpu": "Qualcomm® Snapdragon™ 801",
@@ -1117,7 +1117,7 @@
     "rom": "16GB/32GB",
     "battery": "3000 mAh",
     "display": "5.5 inch, 2560x1440 pixel(538ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "wayne": {
     "cpu": "Qualcomm® Snapdragon™ 660",
@@ -1125,7 +1125,7 @@
     "rom": "64/128GB",
     "battery": "3010 mAh",
     "display": "5.99 inch, 2160x1080 pixel(403ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "whyred": {
     "cpu": "Qualcomm® Snapdragon™ 636",
@@ -1133,7 +1133,7 @@
     "rom": "32GB/64GB",
     "battery": "4000 mAh",
     "display": "5.99 inch, 2160x1080 pixel(403ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "wt86528": {
     "cpu": "Qualcomm® Snapdragon™ 410",
@@ -1141,7 +1141,7 @@
     "rom": "8GB/16GB",
     "battery": "2300 mAh",
     "display": "5.0 inch, 1280x720 pixel(312ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "wt88047": {
     "cpu": "Qualcomm® Snapdragon™ 410",
@@ -1149,7 +1149,7 @@
     "rom": "8GB/16GB",
     "battery": "2200 mAh",
     "display": "4.7 inch, 1280x720 pixel(312ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "kenzo": {
     "cpu": "Qualcomm® Snapdragon™ 650",
@@ -1157,7 +1157,7 @@
     "rom": "16G/32GB",
     "battery": "4000 mAh",
     "display": "5.5 inch, 1920x1080 pixel(401ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm64"
   },
   "x2": {
     "cpu": "Qualcomm® Snapdragon™ 820",
@@ -1165,7 +1165,7 @@
     "rom": "64-128GB",
     "battery": "3100 mAh",
     "display": "5.7 inch, 1440x2560 pixel(515ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "x3": {
     "cpu": "Qualcomm® Snapdragon™ 808",
@@ -1173,7 +1173,7 @@
     "rom": "32/64GB",
     "battery": "3600 mAh",
     "display": "5.5 inch, 1920x1080 pixel(401ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "yuga": {
     "cpu": "Qualcomm® Snapdragon™ S4 Pro APQ8064",
@@ -1181,7 +1181,7 @@
     "rom": "16GB",
     "battery": "2370 mAh",
     "display": "5.0 inch, 1920x1080 pixel(441ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "z2": {
     "cpu": "Qualcomm® Snapdragon™ 820",
@@ -1189,7 +1189,7 @@
     "rom": "32GB/64GB",
     "battery": "3100 mAh",
     "display": "5.0 inch, 1920x1080 pixel(441ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "z2pro": {
     "cpu": "Qualcomm® Snapdragon™ 820",
@@ -1197,7 +1197,7 @@
     "rom": "64GB",
     "battery": "3100 mAh",
     "display": "5.2 inch, 1920x1080 pixel(424ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   },
   "zl1": {
     "cpu": "Qualcomm® Snapdragon™ 821",
@@ -1205,7 +1205,7 @@
     "rom": "32GB/64GB",
     "battery": "4070 mAh",
     "display": "5.5 inch, 1920x1080 pixel(401ppi)",
-    "cpuarch": "ARM64"
+    "cpuarch": "arm64"
   },
   "zoom": {
     "cpu": "Qualcomm® Snapdragon™ 615",
@@ -1213,6 +1213,6 @@
     "rom": "16GB/32GB",
     "battery": "2900 mAh",
     "display": "5.0 inch, 1920x1080 pixel(441ppi)",
-    "cpuarch": "ARM"
+    "cpuarch": "arm"
   }
 }
