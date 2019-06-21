@@ -108,6 +108,17 @@
     ],
     "recovery": "https://bbs.mokeedev.com/t/topic/13447"
   },
+  "oneplus3/3T": {
+    "radio": [
+      {
+        "filename": "OnePlus_3/3T_Stable_9.0.3_Firmware.zip",
+        "filesize": "100096358",
+        "summary": "MK90.0 2019-06-20",
+        "timestamp": "1561096917",
+        "url": "https://share.weiyun.com/5MUwCPs"
+      }
+    ]
+  },
   "osborn": {
     "radio": [
       {
