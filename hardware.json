@@ -967,6 +967,14 @@
     "display": "5.7 inch, 1920x1080 pixel",
     "cpuarch": "arm64"
   },
+  "sfo": {
+    "cpu": "Qualcomm® Snapdragon™ 801",
+    "ram": "2GB of LP-DDR3",
+    "rom": "16/32GB of eMMC 5.0",
+    "battery": "2490 mAh",
+    "display": "4.95 inch, 1920x1080 pixel(445ppi)",
+    "cpuarch": "ARM"
+  },
   "shamu": {
     "cpu": "Qualcomm® Snapdragon™ 805",
     "ram": "3GB",
