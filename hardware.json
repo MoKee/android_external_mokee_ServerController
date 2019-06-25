@@ -1023,6 +1023,14 @@
     "display": "5.0 inch, 1280x720 pixel(294ppi)",
     "cpuarch": "arm"
   },
+  "tiffany": {
+    "cpu": "Qualcomm® Snapdragon™ 625",
+    "ram": "4GB",
+    "rom": "64GB",
+    "battery": "3080mAh",
+    "display": "5.5 inch, 1920x1080 pixel(401ppi)",
+    "cpuarch": "arm64"
+  },
   "tissot": {
     "cpu": "Qualcomm® Snapdragon™ 625",
     "ram": "4GB",

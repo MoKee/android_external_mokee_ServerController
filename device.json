@@ -197,6 +197,7 @@
   { "model": "t0lte", "name": "Galaxy Note II (GSM LTE)", "brand": "Samsung", "android": "7.1.2" },
   { "model": "taoshan", "name": "Xperia L", "brand": "Sony", "android": "7.1.2" },
   { "model": "thea", "name": "G 2014 LTE (Unified)", "brand": "Motorola", "android": "7.1.2" },
+  { "model": "tiffany", "name": "Mi 5X", "brand": "Xiaomi", "android": "9.0.0" },
   { "model": "tissot", "name": "Mi A1", "brand": "Xiaomi", "android": "9.0.0" },
   { "model": "titan", "name": "G 2014 (Unified)", "brand": "Motorola", "android": "7.1.2" },
   { "model": "tomato", "name": "Yureka (AO5510)", "brand": "YU", "android": "7.1.2" },
