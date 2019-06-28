@@ -55,6 +55,14 @@
     "display": "5.5 inch, 1920x1080 pixel(401ppi)",
     "cpuarch": "arm"
   },
+  "axon7": {
+    "cpu": "Qualcomm® Snapdragon™ 820",
+    "ram": "4/6GB of LP-DDR4",
+    "rom": "64GB/128GB",
+    "battery": "3194 mAh",
+    "display": "5.5 inch, 2560x1440 pixel(538ppi)",
+    "cpuarch": "arm64"
+  },
   "berkeley": {
     "cpu": "HiSilicon® Kirin™ 970",
     "ram": "4/6GB of LP-DDR4X",
