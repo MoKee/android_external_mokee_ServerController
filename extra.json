@@ -39,7 +39,8 @@
     "recovery": "https://twrp.me/xiaomi/xiaomimimax.html"
   },
   "icesky": {
-    "recovery": "https://bbs.mokeedev.com/t/topic/11917"
+    "install": "https://bbs.mokeedev.com/t/topic/11918/1",
+    "recovery": "https://bbs.mokeedev.com/t/topic/11917/1"
   },
   "leo": {
     "recovery": "https://www.androidfilehost.com/?w=files&flid=197979"
@@ -92,6 +93,7 @@
     "recovery": "https://share.weiyun.com/5oUwQrC"
   },
   "odin": {
+    "install": "https://bbs.mokeedev.com/t/topic/14503/1",
     "radio": [
       {
         "filename": "RADIO-odin-20190116175637.zip",
@@ -101,9 +103,10 @@
         "url": "https://androidfilehost.com/?fid=6006931924117895049"
       }
     ],
-    "recovery": "https://bbs.mokeedev.com/t/topic/14504"
+    "recovery": "https://bbs.mokeedev.com/t/topic/14504/1"
   },
   "ocean": {
+    "install": "https://bbs.mokeedev.com/t/topic/13448/1",
     "radio": [
       {
         "filename": "RADIO-ocean-20190410111028.zip",
@@ -113,7 +116,7 @@
         "url": "https://androidfilehost.com/?fid=1395089523397940134"
       }
     ],
-    "recovery": "https://bbs.mokeedev.com/t/topic/13447"
+    "recovery": "https://bbs.mokeedev.com/t/topic/13447/1"
   },
   "oneplus3": {
     "radio": [
@@ -127,6 +130,7 @@
     ]
   },
   "osborn": {
+    "install": "https://bbs.mokeedev.com/t/topic/6377/1",
     "radio": [
       {
         "filename": "RADIO-osborn-20181029203642.zip",
@@ -150,9 +154,10 @@
         "url": "https://androidfilehost.com/?fid=6006931924117887316"
       }
     ],
-    "recovery": "https://bbs.mokeedev.com/t/topic/8109"
+    "recovery": "https://bbs.mokeedev.com/t/topic/8109/1"
   },
   "oscar": {
+    "install": "https://bbs.mokeedev.com/t/topic/8343/1",
     "radio": [
       {
         "filename": "RADIO-oscar-20181030170847.zip",
@@ -169,9 +174,10 @@
         "url": "https://androidfilehost.com/?fid=1395089523397963620"
       }
     ],
-    "recovery": "https://bbs.mokeedev.com/t/topic/10536"
+    "recovery": "https://bbs.mokeedev.com/t/topic/10536/1"
   },
   "oxford": {
+    "install": "https://bbs.mokeedev.com/t/topic/6377/1",
     "radio": [
       {
         "filename": "RADIO-oxford-20190213155503.zip",
@@ -188,7 +194,7 @@
         "url": "https://androidfilehost.com/?fid=6006931924117887319"
       }
     ],
-    "recovery": "https://bbs.mokeedev.com/t/topic/10674"
+    "recovery": "https://bbs.mokeedev.com/t/topic/10674/1"
   },
   "perseus": {
     "radio": [
@@ -250,6 +256,7 @@
     ]
   },
   "sfo": {
+    "install": "https://bbs.mokeedev.com/t/topic/14699/1",
     "radio": [
       {
         "filename": "RADIO-sfo-3.7.2.zip",
@@ -259,9 +266,10 @@
         "url": "https://androidfilehost.com/?fid=6006931924117902591"
       }
     ],
-    "recovery": "https://bbs.mokeedev.com/t/topic/14699"
+    "recovery": "https://bbs.mokeedev.com/t/topic/14699/1"
   },
   "trident": {
+    "install": "https://bbs.mokeedev.com/t/topic/13653/1",
     "radio": [
       {
         "filename": "RADIO-trident-20190404163805.zip",
@@ -271,7 +279,7 @@
         "url": "https://androidfilehost.com/?fid=1395089523397948762"
       }
     ],
-    "recovery": "https://bbs.mokeedev.com/t/topic/13652"
+    "recovery": "https://bbs.mokeedev.com/t/topic/13652/1"
   },
   "tulip": {
     "radio": [
@@ -285,6 +293,7 @@
     ]
   },
   "violet": {
+    "install": "https://bbs.mokeedev.com/t/topic/13821/1",
     "radio": [
       {
         "filename": "RADIO_violet_9.5.15.zip",
