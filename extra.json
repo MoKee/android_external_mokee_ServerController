@@ -198,6 +198,15 @@
     "recovery": "https://bbs.mokeedev.com/t/topic/10674/1"
   },
   "perseus": {
+    "radio": [
+      {
+        "filename": "RADIO_vendor_perseus_9.2.15_9.0.zip",
+        "filesize": "506975190",
+        "summary": "MK90.0 20190624",
+        "timestamp": "1561463479",
+        "url": "https://share.weiyun.com/5vrUGW3"
+      }
+    ],
     "recovery": "https://share.weiyun.com/5dQFfZR"
   },
   "platina": {
