@@ -123,6 +123,7 @@
     "recovery": "https://bbs.mokeedev.com/t/topic/13447/1"
   },
   "oneplus3": {
+    "install": "https://bbs.mokeedev.com/t/topic/14816/1",
     "radio": [
       {
         "filename": "OnePlus_3/3T_Stable_9.0.3_Firmware.zip",
