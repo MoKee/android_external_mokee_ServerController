@@ -20,6 +20,19 @@
   "clover": {
     "recovery": "https://pan.baidu.com/s/1HgjIWw2WPdnNEdpMN2GCTw"
   },
+  "colombo": {
+    "install": "https://bbs.mokeedev.com/t/topic/14848/1",
+    "radio": [
+      {
+        "filename": "RADIO-colombo-20181016155943.zip",
+        "filesize": "48850128",
+        "summary": "MK90.0 20190701",
+        "timestamp": "1561910400",
+        "url": "https://androidfilehost.com/?fid=6006931924117906901"
+      }
+    ],
+    "recovery": "https://bbs.mokeedev.com/t/topic/14847/1"
+  },
   "dumpling": {
     "recovery": "https://sourceforge.net/projects/cheeseburgerdumplings/files/16.0/dumpling/recovery",
     "radio": [
@@ -258,6 +271,19 @@
       }
     ],
     "recovery": "https://bbs.mokeedev.com/t/topic/14699/1"
+  },
+  "surabaya": {
+    "install": "https://bbs.mokeedev.com/t/topic/14848/1",
+    "radio": [
+      {
+        "filename": "RADIO-surabaya-20181016154239.zip",
+        "filesize": "48856459",
+        "summary": "MK90.0 20190701",
+        "timestamp": "1561910400",
+        "url": "https://androidfilehost.com/?fid=11410963190603866033"
+      }
+    ],
+    "recovery": "https://bbs.mokeedev.com/t/topic/10223/1"
   },
   "trident": {
     "install": "https://bbs.mokeedev.com/t/topic/13653/1",
