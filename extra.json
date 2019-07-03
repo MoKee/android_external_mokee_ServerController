@@ -228,7 +228,7 @@
     ]
   },
   "polaris": {
-    "recovery": "https://dl.twrp.me/polaris/"
+    "recovery": "https://dl.twrp.me/polaris/",
     "install": "https://bbs.mokeedev.com/t/topic/14844/1"
   },
   "rosy": {
