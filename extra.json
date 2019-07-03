@@ -36,6 +36,9 @@
     ],
     "recovery": "https://bbs.mokeedev.com/t/topic/14847/1"
   },
+  "dior": {
+    "install": "https://bbs.mokeedev.com/t/topic/14902/1"
+  },
   "dumpling": {
     "recovery": "https://sourceforge.net/projects/cheeseburgerdumplings/files/16.0/dumpling/recovery",
     "radio": [
