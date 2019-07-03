@@ -681,8 +681,8 @@
   },
   "mido": {
     "cpu": "Qualcomm® Snapdragon™ 625",
-    "ram": "3GB",
-    "rom": "32GB",
+    "ram": "3GB/4GB",
+    "rom": "16GB/32GB/64GB",
     "battery": "4100mAh",
     "display": "5.5 inch, 1920x1080 pixel(401ppi)",
     "cpuarch": "arm64"
@@ -1186,7 +1186,7 @@
   "whyred": {
     "cpu": "Qualcomm® Snapdragon™ 636",
     "ram": "3GB/4GB/6GB",
-    "rom": "32GB/64GB",
+    "rom": "32GB/64GB/128GB",
     "battery": "4000 mAh",
     "display": "5.99 inch, 2160x1080 pixel(403ppi)",
     "cpuarch": "arm64"
