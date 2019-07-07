@@ -275,7 +275,7 @@
     "cpu": "Qualcomm® Snapdragon™ 801",
     "ram": "2GB/3GB",
     "rom": "16GB/32GB",
-    "battery": "3000 mAh",
+    "battery": "2800mAh/3000 mAh",
     "display": "5.5 inch, 1920x1080 pixel(401ppi)/2560x1440 pixel(534ppi)",
     "cpuarch": "arm"
   },
