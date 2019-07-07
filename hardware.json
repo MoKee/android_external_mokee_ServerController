@@ -271,6 +271,22 @@
     "display": "5.5 inch, 2560x1440 pixel(538ppi)",
     "cpuarch": "arm"
   },
+  "find7": {
+    "cpu": "Qualcomm® Snapdragon™ 801",
+    "ram": "2GB/3GB",
+    "rom": "16GB/32GB",
+    "battery": "3000 mAh",
+    "display": "5.5 inch, 1920x1080 pixel(401ppi)/2560x1440 pixel(534ppi)",
+    "cpuarch": "arm"
+  },
+  "find7s": {
+    "cpu": "Qualcomm® Snapdragon™ 801",
+    "ram": "3GB",
+    "rom": "32GB",
+    "battery": "3000 mAh",
+    "display": "5.5 inch, 2560x1440 pixel(534ppi)",
+    "cpuarch": "arm"
+  },
   "g750c": {
     "cpu": "Qualcomm® Snapdragon™ MSM8628",
     "ram": "2GB of LP-DDR3",
@@ -1209,7 +1225,7 @@
   },
   "kenzo": {
     "cpu": "Qualcomm® Snapdragon™ 650",
-    "ram": "2G/3GB",
+    "ram": "2GB/3GB",
     "rom": "16G/32GB",
     "battery": "4000 mAh",
     "display": "5.5 inch, 1920x1080 pixel(401ppi)",
