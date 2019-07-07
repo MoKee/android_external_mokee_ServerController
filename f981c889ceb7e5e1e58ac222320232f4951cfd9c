@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "c3309870_96239966",
+        "filename": "extra.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 233,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2019-07-07T12:52:50Z",
+      "side": 1,
+      "message": "\u0027,\u0027 should delete.",
+      "range": {
+        "startLine": 233,
+        "startChar": 5,
+        "endLine": 233,
+        "endChar": 6
+      },
+      "revId": "f981c889ceb7e5e1e58ac222320232f4951cfd9c",
+      "serverId": "83d63960-fecf-4fd1-a7f6-e01518638a62",
+      "unresolved": true
+    }
+  ]
+}
