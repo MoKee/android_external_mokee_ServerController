@@ -959,6 +959,14 @@
     "display": "5.7 inch, 1440x720 pixel(282ppi)",
     "cpuarch": "arm64"
   },
+  "raphael": {
+    "cpu": "Qualcomm® Snapdragon™ 855",
+    "ram": "4/6/8GB",
+    "rom": "64/128/256GB",
+    "battery": "4000 mAh",
+    "display": "6.39 inch, 2340x1080 pixel(403ppi)",
+    "cpuarch": "arm64"
+  },
   "s2": {
     "cpu": "Qualcomm® Snapdragon™ 652",
     "ram": "3GB",

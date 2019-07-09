@@ -179,6 +179,7 @@
   { "model": "rolex", "name": "4A / 5A", "brand": "Redmi", "android": "8.1.0" },
   { "model": "rosy", "name": "5", "brand": "Redmi", "android": "9.0.0" },
   { "model": "s2", "name": "Le 2", "brand": "LeEco", "android": "8.1.0" },
+  { "model": "raphael", "name": "Redmi K20 Pro", "brand": "Xiaomi", "android": "9.0.0" },
   { "model": "sagit", "name": "6", "brand": "Xiaomi", "android": "9.0.0" },
   { "model": "sakura", "name": "6 Pro", "brand": "Redmi", "android": "9.0.0" },
   { "model": "sambar", "name": "Yutopia", "brand": "YU", "android": "6.0.1" },
