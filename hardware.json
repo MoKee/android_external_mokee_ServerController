@@ -719,6 +719,14 @@
     "display": "4 inch, 480x854 pixel(245ppi)",
     "cpuarch": "arm"
   },
+  "nut": {
+    "cpu": "Qualcomm® Snapdragon™ 615",
+    "ram": "2GB",
+    "rom": "16GB/32GB",
+    "battery": "2900 mAh",
+    "display": "5.5 inch, 1920x1080 pixel(403ppi)",
+    "cpuarch": "arm"
+  },
   "nx503a": {
     "cpu": "Qualcomm® Snapdragon™ 800",
     "ram": "2GB",

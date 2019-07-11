@@ -141,6 +141,7 @@
   { "model": "nash", "name": "Z2 Force", "brand": "Motorola", "android": "9.0.0" },
   { "model": "natrium", "name": "5s Plus", "brand": "Xiaomi", "android": "9.0.0" },
   { "model": "nicki", "name": "Xperia M", "brand": "Sony", "android": "7.1.2" },
+  { "model": "nut", "name": "U1", "brand": "Smartisan", "android": "9.0.0" },
   { "model": "nx503a", "name": "Z5S", "brand": "Nubia", "android": "6.0.1" },
   { "model": "nx505j", "name": "Z7 Max", "brand": "Nubia", "android": "7.1.2" },
   { "model": "nx507j", "name": "Z7 Mini", "brand": "Nubia", "android": "7.1.2" },
