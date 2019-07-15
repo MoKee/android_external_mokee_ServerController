@@ -42,6 +42,12 @@
     ],
     "recovery": "https://bbs.mokeedev.com/t/topic/14847/1"
   },
+  "davinci": {
+    "recovery": "https://github.com/davinci-dev/davinci-twrp/releases"
+  },
+  "davinciin": {
+    "recovery": "https://github.com/davinci-dev/davinci-twrp/releases"
+  },
   "dior": {
     "install": "https://bbs.mokeedev.com/t/topic/14902/1"
   },

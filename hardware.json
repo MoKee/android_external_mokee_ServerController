@@ -215,6 +215,22 @@
     "display": "5.5 inch, 2560x1440 pixel(538ppi)",
     "cpuarch": "arm"
   },
+  "davinci": {
+    "cpu": "Qualcomm® Snapdragon™ 730",
+    "ram": "6GB",
+    "rom": "128GB",
+    "battery": "4000 mAh",
+    "display": "6.3 inch, 2340x1080 pixel(409ppi)",
+    "cpuarch": "arm64"
+  },
+  "davinciin": {
+    "cpu": "Qualcomm® Snapdragon™ 730",
+    "ram": "6GB",
+    "rom": "128GB",
+    "battery": "4000 mAh",
+    "display": "6.3 inch, 2340x1080 pixel(409ppi)",
+    "cpuarch": "arm64"
+  },
   "dior": {
     "cpu": "Qualcomm® Snapdragon™ MSM8926",
     "ram": "2GB",
