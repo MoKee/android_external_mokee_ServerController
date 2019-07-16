@@ -40,6 +40,7 @@
   { "model": "d852", "name": "G3 (Canada)", "brand": "LG", "android": "7.1.2" },
   { "model": "d855", "name": "G3 (Intl)", "brand": "LG", "android": "7.1.2" },
   { "model": "d857", "name": "G3 Dual SIM (D856 / 7 / 8 / 8hk / 9)", "brand": "LG", "android": "7.1.2" },
+  { "model": "davinci", "name": "K20", "brand": "Redmi", "android": "9.0.0" },
   { "model": "deb", "name": "Nexus 7 2013 (LTE)", "brand": "Google", "android": "7.1.2" },
   { "model": "dior", "name": "Note 1 LTE (Single SIM)", "brand": "Redmi", "android": "8.1.0" },
   { "model": "dipper", "name": "8", "brand": "Xiaomi", "android": "9.0.0" },
