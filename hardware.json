@@ -951,6 +951,14 @@
     "display": "5.2 inch, 1440x2560 pixel(565ppi)",
     "cpuarch": "arm"
   },
+  "raphael": {
+    "cpu": "Qualcomm® Snapdragon™ 855",
+    "ram": "6/8GB of LP-DDR4X",
+    "rom": "64/128/256GB",
+    "battery": "4000 mAh",
+    "display": "6.39 inch, 2340x1080 pixel",
+    "cpuarch": "arm64"
+  },
   "rolex": {
     "cpu": "Qualcomm® Snapdragon™ 425",
     "ram": "2/3GB of LP-DDR3",
