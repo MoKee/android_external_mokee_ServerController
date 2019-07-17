@@ -86,6 +86,19 @@
   "libra": {
     "recovery": "https://www.androidfilehost.com/?w=files&flid=293073"
   },
+  "nut": {
+    "install": "https://bbs.mokeedev.com/t/topic/15182/1",
+    "radio": [
+      {
+        "filename": "RADIO-nut-1.0.1.C1-40310.zip",
+        "filesize": "29427986",
+        "summary": "MK90.0 20190717",
+        "timestamp": "1563292800",
+        "url": "https://androidfilehost.com/?fid=6006931924117918383"
+      }
+    ],
+    "recovery": "https://bbs.mokeedev.com/t/topic/15180/1"
+  },
   "nx531j": {
     "recovery": "https://share.weiyun.com/5EvT4FK"
   },
