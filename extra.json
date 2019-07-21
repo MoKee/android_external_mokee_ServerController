@@ -26,6 +26,9 @@
   "cherry": {
     "recovery": "https://forum.xda-developers.com/honor-4x/development/recovery-twrp-3-0-0-0-touch-recovery-t3309504"
   },
+  "chiron": {
+    "install": "https://bbs.mokeedev.com/t/topic/15207/1"
+  },
   "clover": {
     "recovery": "https://pan.baidu.com/s/1HgjIWw2WPdnNEdpMN2GCTw"
   },
@@ -62,6 +65,9 @@
         "url": "https://sourceforge.net/projects/cheeseburgerdumplings/files/16.0/dumpling/firmware"
       }
     ]
+  },
+  "find7": {
+    "install": "https://bbs.mokeedev.com/t/topic/15246/1"
   },
   "gucci": {
     "install": "https://bbs.mokeedev.com/t/topic/14809/1",
