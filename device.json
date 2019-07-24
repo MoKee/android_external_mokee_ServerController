@@ -133,7 +133,7 @@
   { "model": "m8d", "name": "One 2014 Dual SIM", "brand": "HTC", "android": "7.1.2" },
   { "model": "m8", "name": "One 2014", "brand": "HTC", "android": "7.1.2" },
   { "model": "mako", "name": "Nexus 4", "brand": "Google", "android": "8.1.0" },
-  { "model": "markw", "name": "4 Prime", "brand": "Redmi", "android": "7.1.2" },
+  { "model": "markw", "name": "4 Prime", "brand": "Redmi", "android": "9.0.0" },
   { "model": "merlin", "name": "G3 Turbo", "brand": "Motorola", "android": "7.1.2" },
   { "model": "mido", "name": "Note 4 & 4X (Qualcomm)", "brand": "Redmi", "android": "9.0.0" },
   { "model": "mint", "name": "Xperia T", "brand": "Sony", "android": "7.1.2" },
