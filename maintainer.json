@@ -97,7 +97,7 @@
     ]
   },
   "chenzc": {
-    "title": "nx549j / nx563j / nx569j / nx595j / z2pro Maintainer",
+    "title": "nx531j / nx549j / nx563j / nx569j / nx595j / nx616j / z2pro Maintainer",
     "bio": "?????",
     "github": "dazzworld",
     "community": "chenzc",
@@ -105,10 +105,12 @@
     "weibo": "2434134362",
     "xda": "",
     "devices": [
+      "nx531j",
       "nx549j",
       "nx563j",
       "nx569j",
       "nx595j",
+      "nx616j",
       "z2pro"
     ]
   },

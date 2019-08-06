@@ -831,6 +831,14 @@
     "display": "5.73 inch, 2040x1080 pixel(403ppi)",
     "cpuarch": "arm64"
   },
+  "nx616j": {
+    "cpu": "Qualcomm® Snapdragon™ 845",
+    "ram": "6GB/8GB of LPDDR4X",
+    "rom": "64GB/128GB/256GB of UFS 2.1",
+    "battery": "3800 mAh",
+    "display": "Front: 6.26 inch, 2280x1080 pixel, Back: 5.1 inch, 1520x720 pixel",
+    "cpuarch": "arm64"
+  },
   "odin": {
     "cpu": "Qualcomm® Snapdragon™ 625/626",
     "ram": "4GB",
