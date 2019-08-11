@@ -49,7 +49,7 @@
   { "model": "dragon", "name": "Pixel C", "brand": "Google", "android": "9.0.0" },
   { "model": "dumpling", "name": "5T", "brand": "OnePlus", "android": "9.0.0" },
   { "model": "enchilada", "name": "6", "brand": "OnePlus", "android": "9.0.0" },
-  { "model": "ether", "name": "Robin", "brand": "Nextbit", "android": "8.1.0" },
+  { "model": "ether", "name": "Robin", "brand": "Nextbit", "android": "9.0.0" },
   { "model": "f400", "name": "G3 (Korea)", "brand": "LG", "android": "7.1.2" },
   { "model": "f460", "name": "G3 Cat.6(Korea)", "brand": "LG", "android": "6.0.1" },
   { "model": "falcon", "name": "G (Unified)", "brand": "Motorola", "android": "7.1.2" },
