@@ -26,7 +26,7 @@
   { "model": "clover", "name": "Pad 4 / 4 Plus", "brand": "Xiaomi", "android": "9.0.0" },
   { "model": "colombo", "name": "M1L", "brand": "Smartisan", "android": "9.0.0" },
   { "model": "condor", "name": "E", "brand": "Motorola", "android": "7.1.2" },
-  { "model": "crackling", "name": "Swift", "brand": "Wileyfox", "android": "8.1.0" },
+  { "model": "crackling", "name": "Swift", "brand": "Wileyfox", "android": "9.0.0" },
   { "model": "d2att", "name": "Galaxy S III (AT&T)", "brand": "Samsung", "android": "7.1.2" },
   { "model": "d2spr", "name": "Galaxy S III (Sprint)", "brand": "Samsung", "android": "7.1.2" },
   { "model": "d2tmo", "name": "Galaxy S III (T-Mobile)", "brand": "Samsung", "android": "7.1.2" },
