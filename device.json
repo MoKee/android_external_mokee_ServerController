@@ -107,7 +107,7 @@
   { "model": "kccat6", "name": "Galaxy S5 Plus", "brand": "Samsung", "android": "7.1.2" },
   { "model": "kenzo", "name": "Note 3", "brand": "Redmi", "android": "9.0.0" },
   { "model": "kingdom", "name": "Vibe Z2 Pro", "brand": "Lenovo", "android": "7.1.2" },
-  { "model": "kipper", "name": "Storm", "brand": "Wileyfox", "android": "8.1.0" },
+  { "model": "kipper", "name": "Storm", "brand": "Wileyfox", "android": "9.0.0" },
   { "model": "kiwi", "name": "Honor 5X", "brand": "Huawei", "android": "9.0.0" },
   { "model": "kltechnduo", "name": "Galaxy S5 (China DualSIM,SM-G9006W,G9008W,G9009W)", "brand": "Samsung", "android": "7.1.2" },
   { "model": "kltechn", "name": "Galaxy S5 (China,SM-G9006V,G9008V)", "brand": "Samsung", "android": "8.1.0" },
