@@ -695,6 +695,14 @@
     "display": "5 inch, 1920x1080 pixel(443ppi)",
     "cpuarch": "arm64"
   },
+  "mata": {
+    "cpu": "Qualcomm® Snapdragon™ 835",
+    "ram": "4GB",
+    "rom": "128GB",
+    "battery": "3040mAh",
+    "display": "5.71 inch, 2560x1312 pixels(505ppi)",
+    "cpuarch": "arm64"
+  },
   "merlin": {
     "cpu": "Qualcomm® Snapdragon™ 615",
     "ram": "2GB",
