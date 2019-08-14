@@ -142,11 +142,11 @@
     "install": "https://bbs.mokeedev.com/t/topic/14864/1",
     "radio": [
       {
-        "filename": "RADIO_lavender_9.6.27.zip",
-        "filesize": "63348980",
-        "summary": "MK90.0 20190703",
-        "timestamp": "1562070787",
-        "url": "https://share.weiyun.com/5jEEGmT"
+        "filename": "RADIO_lavender_9.8.1.zip",
+        "filesize": "63348028",
+        "summary": "MK90.0 20190814",
+        "timestamp": "1565794331",
+        "url": "https://share.weiyun.com/5R8K5jK"
       }
     ],
     "recovery": "https://share.weiyun.com/5mXqlIW"
