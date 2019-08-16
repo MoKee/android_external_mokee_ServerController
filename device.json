@@ -212,6 +212,7 @@
   { "model": "tissot", "name": "A1", "brand": "Xiaomi", "android": "9.0.0" },
   { "model": "titan", "name": "G 2014 (Unified)", "brand": "Motorola", "android": "7.1.2" },
   { "model": "tomato", "name": "Yureka (AO5510)", "brand": "YU", "android": "7.1.2" },
+  { "model": "trident", "name": "R1", "brand": "Smartisan", "android": "9.0.0" },
   { "model": "tsubasa", "name": "Xperia V", "brand": "Sony", "android": "8.1.0" },
   { "model": "tulip", "name": "Note 6 Pro", "brand": "Redmi", "android": "9.0.0" },
   { "model": "v500", "name": "G Pad 8.3", "brand": "LG", "android": "7.1.2" },

@@ -1151,6 +1151,14 @@
     "display": "5.5 inch, 1920x1080 pixel(401ppi)",
     "cpuarch": "arm64"
   },
+  "trident": {
+    "cpu": "Qualcomm® Snapdragon™ 845",
+    "ram": "6GB/8GB",
+    "rom": "64GB/128GB/512GB/1TB",
+    "battery": "3600 mAh",
+    "display": "6.17 inch, 2242x1080 pixel(403ppi)",
+    "cpuarch": "arm64"
+  },
   "tulip": {
     "cpu": "Qualcomm® Snapdragon™ 636",
     "ram": "3GB/4GB/6GB",
