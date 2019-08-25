@@ -68,6 +68,7 @@
   { "model": "gemini", "name": "5", "brand": "Xiaomi", "android": "9.0.0" },
   { "model": "ghost", "name": "X (Unified)", "brand": "Motorola", "android": "6.0.1" },
   { "model": "griffin", "name": "Z 2016 (Unified)", "brand": "Motorola", "android": "9.0.0" },
+  { "model": "guacamole", "name": "7 Pro", "brand": "OnePlus", "android": "9.0.0" },
   { "model": "gucci", "name": "Note 1S", "brand": "Redmi", "android": "9.0.0" },
   { "model": "h3gduoschn", "name": "Galaxy Note 3 (China DualSIM,SM-N9002)", "brand": "Samsung", "android": "8.1.0" },
   { "model": "h811", "name": "G4 (T-Mobile)", "brand": "LG", "android": "7.1.2" },
