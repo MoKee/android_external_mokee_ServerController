@@ -83,6 +83,18 @@
   "find7": {
     "install": "https://bbs.mokeedev.com/t/topic/15246/1"
   },
+  "grus": {
+    "radio": [
+      {
+        "filename": "RADIO_grus_vendor_V10.3.3.0_9.0.zip",
+        "filesize": "461702911",
+        "summary": "MK90.0 20190829",
+        "timestamp": "1567010251",
+        "url": "https://share.weiyun.com/5FYeeTk"
+      }
+    ],
+    "recovery": "https://share.weiyun.com/5AQPSUX"
+  },
   "gucci": {
     "install": "https://bbs.mokeedev.com/t/topic/14809/1",
     "recovery": "https://www.androidfilehost.com/?fid=1395089523397938486"
