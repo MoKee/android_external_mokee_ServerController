@@ -975,6 +975,14 @@
     "display": "6.26 inch, 2280x1080 pixel(403ppi)",
     "cpuarch": "arm64"
   },
+  "pme": {
+    "cpu": "Qualcomm® Snapdragon™ 820",
+    "ram": "4GB of LP-DDR4",
+    "rom": "64GB",
+    "battery": "3000 mAh",
+    "display": "5.2 inch, 2560x1440 pixel(565ppi)",
+    "cpuarch": "arm64"
+  },
   "polaris": {
     "cpu": "Qualcomm® Snapdragon™ 845",
     "ram": "6/8GB of LP-DDR4X",
