@@ -967,6 +967,14 @@
     "display": "6.39 inch, 2340x1080 pixel(403ppi)",
     "cpuarch": "arm64"
   },
+  "pine": {
+    "cpu": "Qualcomm® Snapdragon™ 439",
+    "ram": "2/3GB of LP-DDR4X",
+    "rom": "16/32GB",
+    "battery": "4000 mAh",
+    "display": "5.45 inch, 1440x720 pixel(295ppi)",
+    "cpuarch": "arm"
+  },
   "platina": {
     "cpu": "Qualcomm® Snapdragon™ 660",
     "ram": "4/6GB of LP-DDR4X",

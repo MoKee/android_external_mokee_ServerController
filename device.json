@@ -183,6 +183,7 @@
   { "model": "peregrine", "name": "G LTE (Unified)", "brand": "Motorola", "android": "7.1.2" },
   { "model": "perseus", "name": "MIX 3", "brand": "Xiaomi", "android": "9.0.0" },
   { "model": "pioneer", "name": "Xperia XA2", "brand": "Sony", "android": "9.0.0" },
+  { "model": "pine", "name": "7A", "brand": "Redmi", "android": "9.0.0" },
   { "model": "platina", "name": "8 Lite", "brand": "Xiaomi", "android": "9.0.0" },
   { "model": "pme", "name": "10", "brand": "HTC", "android": "7.1.2" },
   { "model": "polaris", "name": "MIX 2S", "brand": "Xiaomi", "android": "9.0.0" },
