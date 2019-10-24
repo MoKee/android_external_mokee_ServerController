@@ -855,6 +855,14 @@
     "display": "5.73 inch, 2040x1080 pixel(403ppi)",
     "cpuarch": "arm64"
   },
+  "nx611j": {
+    "cpu": "Qualcomm® Snapdragon™ 660",
+    "ram": "6GB of LPDDR4X",
+    "rom": "64GB/128GB of UFS 2.1",
+    "battery": "3450 mAh",
+    "display": "5.7 inch, 2160x1080 pixel(424ppi)",
+    "cpuarch": "arm64"
+  },
   "nx616j": {
     "cpu": "Qualcomm® Snapdragon™ 845",
     "ram": "6GB/8GB of LPDDR4X",
