@@ -406,6 +406,22 @@
   },
   "trident": {
     "install": "https://bbs.mokeedev.com/t/topic/13653/1",
+    "radio": [
+      {
+        "filename": "RADIO-trident-20190724110828.zip",
+        "filesize": "72475469",
+        "summary": "MK90.0 20191105",
+        "timestamp": "1572883200",
+        "url": "https://androidfilehost.com/?fid=6006931924117938275"
+      },
+      {
+        "filename": "RADIO-trident-20191016181012.zip",
+        "filesize": "72480806",
+        "summary": "MK100.0 20191118",
+        "timestamp": "1574006400",
+        "url": "https://androidfilehost.com/?fid=4349826312261635207"
+      }
+    ],
     "recovery": "https://bbs.mokeedev.com/t/topic/13652/1"
   },
   "tulip": {
