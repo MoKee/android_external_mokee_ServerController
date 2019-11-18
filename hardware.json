@@ -855,6 +855,14 @@
     "display": "5.2 inch, 1920x1080 pixel(424ppi)",
     "cpuarch": "arm64"
   },
+  "nx591j": {
+    "cpu": "Qualcomm® Snapdragon™ 653",
+    "ram": "6GB of LPDDR3",
+    "rom": "64GB of eMMC 5.1",
+    "battery": "3200 mAh (NeoPower 3.0)",
+    "display": "5.2 inch, 1920x1080 pixel(401ppi)",
+    "cpuarch": "arm64"
+  },
   "nx595j": {
     "cpu": "Qualcomm® Snapdragon™ 835",
     "ram": "6GB/8GB of LPDDR4X",
