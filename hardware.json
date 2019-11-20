@@ -95,14 +95,6 @@
     "display": "5.15 inch, 1920x1080 pixel(428ppi)",
     "cpuarch": "arm64"
   },
-  "cepheus": {
-    "cpu": "Qualcomm® Snapdragon™ 855",
-    "ram": "6/8GB of LP-DDR4",
-    "rom": "64/128GB",
-    "battery": "3300 mAh",
-    "display": "6.39 inch, 2340x1080 pixel(403ppi)",
-    "cpuarch": "arm64"
-  },
   "charlotte": {
     "cpu": "HiSilicon® Kirin™ 970",
     "ram": "6/8GB of LP-DDR4X",
