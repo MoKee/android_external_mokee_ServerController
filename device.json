@@ -132,7 +132,7 @@
   { "model": "l01f", "name": "G2 (Japan)", "brand": "LG", "android": "6.0.1" },
   { "model": "l900", "name": "Galaxy Note II (Sprint)", "brand": "Samsung", "android": "6.0.1" },
   { "model": "land", "name": "3S / 3X", "brand": "Redmi", "android": "8.1.0" },
-  { "model": "lavender", "name": "Note 7", "brand": "Redmi", "android": "9.0.0" },
+  { "model": "lavender", "name": "Note 7", "brand": "Redmi", "android": "10.0.0" },
   { "model": "lentislte", "name": "Galaxy S5 LTE-A", "brand": "Samsung", "android": "9.0.0" },
   { "model": "leo", "name": "Note Pro", "brand": "Xiaomi", "android": "9.0.0" },
   { "model": "lettuce", "name": "Yuphoria (YU5010)", "brand": "YU", "android": "8.1.0" },
