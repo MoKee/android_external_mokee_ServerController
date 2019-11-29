@@ -1,14 +1,22 @@
 {
+  "a5dwg": {
+    "cpu": "Qualcomm® Snapdragon™ 400",
+    "ram": "1.5GB of LP-DDR2",
+    "rom": "8GB",
+    "battery": "2600 mAh",
+    "display": "5.5 inch, 720x1280 pixel(267ppi)",
+    "cpuarch": "arm"
+  },
   "a6020": {
     "cpu": "Qualcomm® Snapdragon™ 415/616",
     "ram": "2/3GB",
     "rom": "16GB",
     "battery": "2750 mAh",
-    "display": "5.0 inch, 720x1280p pixel(312ppi]/1080x1920 pixel(441ppi)",
+    "display": "5.0 inch, 720x1280 pixel(312ppi)/1080x1920 pixel(441ppi)",
     "cpuarch": "arm64"
   },
   "albus": {
-    "cpu": "Qualcomm® Snapdragon™ MSM8953-Pro 626",
+    "cpu": "Qualcomm® Snapdragon™ 626",
     "ram": "3/4GB",
     "rom": "32GB/64GB",
     "battery": "3000 mAh",
@@ -77,6 +85,14 @@
     "rom": "64/128/256GB",
     "battery": "4000 mAh",
     "display": "6.18 inch, 2246x1080 pixel(403ppi)",
+    "cpuarch": "arm64"
+  },
+  "bullhead": {
+    "cpu": "Qualcomm® Snapdragon™ 808",
+    "ram": "2GB of LP-DDR3",
+    "rom": "16/32GB",
+    "battery": "2700 mAh",
+    "display": "5.2 inch, 1920x1080 pixel(423ppi)",
     "cpuarch": "arm64"
   },
   "cancro": {
@@ -223,6 +239,14 @@
     "display": "6.3 inch, 2340x1080 pixel(409ppi)",
     "cpuarch": "arm64"
   },
+  "deb": {
+    "cpu": "Qualcomm® Snapdragon™ S4 Pro",
+    "ram": "2GB",
+    "rom": "16GB/32GB of LP-DDR3",
+    "battery": "3950 mAh",
+    "display": "7 inch, 1920x1200 pixel(323ppi)",
+    "cpuarch": "arm"
+  },
   "dior": {
     "cpu": "Qualcomm® Snapdragon™ MSM8926",
     "ram": "2GB",
@@ -293,6 +317,30 @@
     "rom": "32GB",
     "battery": "3000 mAh",
     "display": "5.5 inch, 2560x1440 pixel(534ppi)",
+    "cpuarch": "arm"
+  },
+  "flo": {
+    "cpu": "Qualcomm® Snapdragon™ S4 Pro",
+    "ram": "2GB",
+    "rom": "16GB/32GB of LP-DDR3",
+    "battery": "3950 mAh",
+    "display": "7 inch, 1920x1200 pixel(323ppi)",
+    "cpuarch": "arm"
+  },
+  "flounder_lte": {
+    "cpu": "Nvdia® Tegra™ K1",
+    "ram": "2GB",
+    "rom": "16GB/32GB of LP-DDR3",
+    "battery": "6700 mAh",
+    "display": "8.9 inch, 2048x1536 pixel(281ppi)",
+    "cpuarch": "arm"
+  },
+  "flounder": {
+    "cpu": "Nvdia® Tegra™ K1",
+    "ram": "2GB",
+    "rom": "16GB/32GB of LP-DDR3",
+    "battery": "6700 mAh",
+    "display": "8.9 inch, 2048x1536 pixel(281ppi)",
     "cpuarch": "arm"
   },
   "g750c": {
