@@ -200,6 +200,18 @@
   "nx595j": {
     "recovery": "https://share.weiyun.com/5oUwQrC"
   },
+  "nx609j": {
+    "radio": [
+      {
+        "filename": "RADIO_NX609J_MK90.0",
+        "filesize": "93813844",
+        "summary": "MK90.0",
+        "timestamp": "1575733562",
+        "url": "https://share.weiyun.com/5wZdzUc"
+      }
+    ],
+    "recovery": "https://share.weiyun.com/5cZl8pi"
+  },
   "nx611j": {
     "recovery": "https://www.androidfilehost.com/?fid=4349826312261603743"
   },
