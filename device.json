@@ -47,7 +47,7 @@
   { "model": "davinci", "name": "K20", "brand": "Redmi", "android": "9.0.0" },
   { "model": "deb", "name": "Nexus 7 2013 (LTE)", "brand": "Google", "android": "7.1.2" },
   { "model": "dior", "name": "Note 1 LTE (Single SIM)", "brand": "Redmi", "android": "8.1.0" },
-  { "model": "dipper", "name": "8", "brand": "Xiaomi", "android": "9.0.0" },
+  { "model": "dipper", "name": "8", "brand": "Xiaomi", "android": "10.0.0" },
   { "model": "discovery", "name": "Xperia XA2 Ultra", "brand": "Sony", "android": "8.1.0" },
   { "model": "dogo", "name": "Xperia ZR", "brand": "Sony", "android": "8.1.0" },
   { "model": "dragon", "name": "Pixel C", "brand": "Google", "android": "10.0.0" },
