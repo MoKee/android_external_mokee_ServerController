@@ -1,12 +1,4 @@
 {
-  "a5dwg": {
-    "cpu": "Qualcomm® Snapdragon™ 400",
-    "ram": "1.5GB of LP-DDR2",
-    "rom": "8GB",
-    "battery": "2600 mAh",
-    "display": "5.5 inch, 720x1280 pixel(267ppi)",
-    "cpuarch": "arm"
-  },
   "a6020": {
     "cpu": "Qualcomm® Snapdragon™ 415/616",
     "ram": "2/3GB",
@@ -159,14 +151,6 @@
     "display": "5.99 inch, 2160x1080 pixel(403ppi)",
     "cpuarch": "arm64"
   },
-  "chm_cl00": {
-    "cpu": "Qualcomm® Snapdragon™ 615",
-    "ram": "2GB of LP-DDR3",
-    "rom": "8GB/16GB",
-    "battery": "2550 mAh",
-    "display": "5 inch, 1280x720 pixel(294ppi)",
-    "cpuarch": "arm"
-  },
   "clark": {
     "cpu": "Qualcomm® Snapdragon™ 808",
     "ram": "3GB of LP-DDR3",
@@ -295,14 +279,6 @@
     "display": "6.28 inch, 2280 x 1080 pixel(402ppi)",
     "cpuarch": "arm64"
   },
-  "f460": {
-    "cpu": "Qualcomm® Snapdragon™ APQ8084",
-    "ram": "3GB",
-    "rom": "32GB",
-    "battery": "3000 mAh",
-    "display": "5.5 inch, 2560x1440 pixel(538ppi)",
-    "cpuarch": "arm"
-  },
   "find7": {
     "cpu": "Qualcomm® Snapdragon™ 801",
     "ram": "2GB/3GB",
@@ -325,22 +301,6 @@
     "rom": "16GB/32GB of LP-DDR3",
     "battery": "3950 mAh",
     "display": "7 inch, 1920x1200 pixel(323ppi)",
-    "cpuarch": "arm"
-  },
-  "flounder_lte": {
-    "cpu": "Nvdia® Tegra™ K1",
-    "ram": "2GB",
-    "rom": "16GB/32GB of LP-DDR3",
-    "battery": "6700 mAh",
-    "display": "8.9 inch, 2048x1536 pixel(281ppi)",
-    "cpuarch": "arm"
-  },
-  "flounder": {
-    "cpu": "Nvdia® Tegra™ K1",
-    "ram": "2GB",
-    "rom": "16GB/32GB of LP-DDR3",
-    "battery": "6700 mAh",
-    "display": "8.9 inch, 2048x1536 pixel(281ppi)",
     "cpuarch": "arm"
   },
   "g750c": {
@@ -366,14 +326,6 @@
     "battery": "3000 mAh",
     "display": "5.15 inch, 1920x1080 pixel(428ppi)",
     "cpuarch": "arm64"
-  },
-  "ghost": {
-    "cpu": "Qualcomm® Snapdragon™ MSM8960DT",
-    "ram": "2GB",
-    "rom": "16GB",
-    "battery": "2200 mAh",
-    "display": "4.7 inch, 1280x720 pixel(312ppi)",
-    "cpuarch": "arm"
   },
   "griffin": {
     "cpu": "Qualcomm® Snapdragon™ 820",
@@ -421,14 +373,6 @@
     "rom": "64GB",
     "battery": "4100 mAh",
     "display": "5.5 inch, 1920x1080 pixel(401ppi)",
-    "cpuarch": "arm"
-  },
-  "hammerhead": {
-    "cpu": "Qualcomm® Snapdragon™ MSM8974",
-    "ram": "2GB",
-    "rom": "16GB/32GB",
-    "battery": "2300 mAh",
-    "display": "4.95 inch, 1920x1080 pixel(445ppi)",
     "cpuarch": "arm"
   },
   "hammerheadcaf": {
@@ -583,14 +527,6 @@
     "display": "5.0 inch, 1920x1080 pixel(441ppi)",
     "cpuarch": "arm"
   },
-  "k3gduosctc": {
-    "cpu": "Qualcomm® Snapdragon™ 801",
-    "ram": "2GB",
-    "rom": "16GB",
-    "battery": "2800 mAh",
-    "display": "5.0 inch, 1920x1080 pixel(441ppi)",
-    "cpuarch": "arm"
-  },
   "k3gxx": {
     "cpu": "Samsung Exynos 5422",
     "ram": "2GB",
@@ -661,14 +597,6 @@
     "rom": "32GB",
     "battery": "2800 mAh",
     "display": "5.0 inch, 1920x1080 pixel(441ppi)",
-    "cpuarch": "arm"
-  },
-  "l900": {
-    "cpu": "Samsung Exynos 4412",
-    "ram": "2GB of LP-DDR3",
-    "rom": "16GB",
-    "battery": "3100 mAh",
-    "display": "5.5 inch, 1280x720 pixel(267ppi)",
     "cpuarch": "arm"
   },
   "land": {
@@ -805,14 +733,6 @@
     "rom": "16GB/32GB",
     "battery": "2900 mAh",
     "display": "5.5 inch, 1920x1080 pixel(403ppi)",
-    "cpuarch": "arm"
-  },
-  "nx503a": {
-    "cpu": "Qualcomm® Snapdragon™ 800",
-    "ram": "2GB",
-    "rom": "16/32GB",
-    "battery": "2300 mAh",
-    "display": "5.0 inch, 1920x1080 pixel(441ppi)",
     "cpuarch": "arm"
   },
   "nx505j": {
@@ -1079,14 +999,6 @@
     "display": "5.99 inch, 2160x1080 pixel(428ppi)",
     "cpuarch": "arm64"
   },
-  "quark": {
-    "cpu": "Qualcomm® Snapdragon™ 805",
-    "ram": "3GB",
-    "rom": "64GB",
-    "battery": "3900 mAh",
-    "display": "5.2 inch, 1440x2560 pixel(565ppi)",
-    "cpuarch": "arm"
-  },
   "raphael": {
     "cpu": "Qualcomm® Snapdragon™ 855",
     "ram": "6/8GB of LP-DDR4X",
@@ -1325,14 +1237,6 @@
     "rom": "16GB/64GB",
     "battery": "3080 mAh",
     "display": "5.7 inch, 1920x1080 pixel(386ppi)",
-    "cpuarch": "arm"
-  },
-  "vs980": {
-    "cpu": "Qualcomm® Snapdragon™ 800",
-    "ram": "2GB",
-    "rom": "16GB/32GB",
-    "battery": "3000 mAh",
-    "display": "5.2 inch, 1920x1080 pixel(424ppi)",
     "cpuarch": "arm"
   },
   "vs985": {
