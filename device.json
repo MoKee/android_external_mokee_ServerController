@@ -162,7 +162,7 @@
   { "model": "nx511j", "name": "Z9 Mini / Z9 Mini Elite(Marshmallow Only)", "brand": "Nubia", "android": "7.1.2" },
   { "model": "nx523j", "name": "Z11 Max (NX523J_V1)", "brand": "Nubia", "android": "7.1.2" },
   { "model": "nx529j", "name": "Z11 Mini", "brand": "Nubia", "android": "7.1.2" },
-  { "model": "nx531j", "name": "Z11", "brand": "Nubia", "android": "9.0.0" },
+  { "model": "nx531j", "name": "Z11", "brand": "Nubia", "android": "10.0.0" },
   { "model": "nx549j", "name": "Z11 MiniS", "brand": "Nubia", "android": "9.0.0" },
   { "model": "nx563j", "name": "Z17", "brand": "Nubia", "android": "10.0.0" },
   { "model": "nx569j", "name": "Z17 Mini", "brand": "Nubia", "android": "9.0.0" },
