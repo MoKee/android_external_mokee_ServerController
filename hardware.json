@@ -1,4 +1,14 @@
 {
+
+  "A520sf (Samsung)" : {
+    "cpu" : "exynos 7880" ,
+    "ram" :3GB",
+    "ROM" : "32GB",
+    "Battery" : "3000MAH" ,
+    "display" : "5.2 inch 1080×1920 pixel(422/424)",
+    "Cpuarch" : "arm64",
+     }
+
   "a6020": {
     "cpu": "Qualcomm® Snapdragon™ 415/616",
     "ram": "2/3GB",
