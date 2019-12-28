@@ -124,6 +124,7 @@
   { "model": "lithium", "name": "MIX", "brand": "Xiaomi", "android": "9.0.0" },
   { "model": "ls990", "name": "G3 (Sprint)", "brand": "LG", "android": "7.1.2" },
   { "model": "lux", "name": "X Play", "brand": "Motorola", "android": "7.1.2" },
+  { "model": "m1928", "name": "16T", "brand": "Meizu", "android": "10.0.0" },
   { "model": "m8d", "name": "One 2014 Dual SIM", "brand": "HTC", "android": "9.0.0" },
   { "model": "m8", "name": "One 2014", "brand": "HTC", "android": "9.0.0" },
   { "model": "mako", "name": "Nexus 4", "brand": "Google", "android": "8.1.0" },
