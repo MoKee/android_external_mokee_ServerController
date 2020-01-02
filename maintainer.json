@@ -119,7 +119,7 @@
     ]
   },
   "Isaac Chen": {
-    "title": "Raphael/ Vince / Wt86528 Maintainer",
+    "title": "Land / Raphael/ Santoni / Vince / Wt86528 Maintainer",
     "bio": "",
     "github": "tingyichen",
     "community": "tingyichen",
@@ -128,7 +128,9 @@
     "xda": "7500669",
     "devices": [
       "wt86528",
+      "land",
       "raphael",
+      "santoni",
       "vince"
     ]
   },
