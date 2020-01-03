@@ -72,7 +72,6 @@
   { "model": "h830", "name": "G5 (T-Mobile)", "brand": "LG", "android": "7.1" },
   { "model": "h850", "name": "G5 (Intl)", "brand": "LG", "android": "7.1" },
   { "model": "ha3g", "name": "Galaxy Note 3 (Exynos)", "brand": "Samsung", "android": "7.1" },
-  { "model": "hammerheadcaf", "name": "Nexus 5 CAF", "brand": "Google", "android": "7.1" },
   { "model": "ham", "name": "Z1", "brand": "ZUK", "android": "9.0" },
   { "model": "harpia", "name": "G4 Play", "brand": "Motorola", "android": "7.1" },
   { "model": "hayabusa", "name": "Xperia TX", "brand": "Sony", "android": "7.1" },
