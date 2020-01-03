@@ -375,14 +375,6 @@
     "display": "5.5 inch, 1920x1080 pixel(401ppi)",
     "cpuarch": "arm"
   },
-  "hammerheadcaf": {
-    "cpu": "Qualcomm® Snapdragon™ MSM8974",
-    "ram": "2GB",
-    "rom": "16GB/32GB",
-    "battery": "2300 mAh",
-    "display": "4.95 inch, 1920x1080 pixel(445ppi)",
-    "cpuarch": "arm"
-  },
   "harpia": {
     "cpu": "Qualcomm® Snapdragon™ 410",
     "ram": "1GB/2GB",
