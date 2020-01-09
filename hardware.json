@@ -655,6 +655,22 @@
     "display": "5.5 inch, 1920x1080 pixel(403ppi)",
     "cpuarch": "arm"
   },
+  "m1923": {
+    "cpu": "Qualcomm® Snapdragon™ 675",
+    "ram": "4GB/6GB",
+    "rom": "64GB/128GB of eMMC 5.1",
+    "battery": "4000 mAh",
+    "display": "6.2 inch, 2244x1080 pixel(403ppi)",
+    "cpuarch": "arm64"
+  },
+  "m1926": {
+    "cpu": "Qualcomm® Snapdragon™ 675",
+    "ram": "6GB of LPDDR4X",
+    "rom": "64GB/128GB of eMMC 5.1",
+    "battery": "4000 mAh",
+    "display": "6.2 inch, 2232x1080 pixel(403ppi)",
+    "cpuarch": "arm64"
+  },
   "m1928": {
     "cpu": "Qualcomm® Snapdragon™ 855",
     "ram": "6GB/8GB of LPDDR4X",
