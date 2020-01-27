@@ -167,14 +167,6 @@
     "display": "8.0 inch, 1900x1200 pixel(283ppi)",
     "cpuarch": "arm64"
   },
-  "colombo": {
-    "cpu": "Qualcomm® Snapdragon™ 821",
-    "ram": "4/6GB of LP-DDR4",
-    "rom": "32/64GB of UFS 2.0",
-    "battery": "4080 mAh",
-    "display": "5.7 inch, 2560x1440 pixel(515ppi)",
-    "cpuarch": "arm64"
-  },
   "condor": {
     "cpu": "Qualcomm® Snapdragon™ 200",
     "ram": "1GB",
@@ -1125,14 +1117,6 @@
     "rom": "32GB",
     "battery": "2900 mAh",
     "display": "5.2 inch, 1920x1080 pixel",
-    "cpuarch": "arm64"
-  },
-  "surabaya": {
-    "cpu": "Qualcomm® Snapdragon™ 821",
-    "ram": "4/6GB of LP-DDR4",
-    "rom": "32/64GB of UFS 2.0",
-    "battery": "3050 mAh",
-    "display": "5.15 inch, 1920x1080 pixel(428ppi)",
     "cpuarch": "arm64"
   },
   "surnia": {
