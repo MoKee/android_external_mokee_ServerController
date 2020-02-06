@@ -1111,6 +1111,14 @@
     "display": "5.96 inch, 2560x1440 pixel(493ppi)",
     "cpuarch": "arm"
   },
+  "sirius": {
+    "cpu": "Qualcomm® Snapdragon™ 710",
+    "ram": "4/6GB",
+    "rom": "64/128GB",
+    "battery": "3120 mAh",
+    "display": "5.88 inch, 2244x1080 pixel(480ppi)",
+    "cpuarch": "arm64"
+  },
   "sumire": {
     "cpu": "Qualcomm® Snapdragon™ 810",
     "ram": "3GB of LP-DDR4",
