@@ -229,5 +229,17 @@
     "devices": [
       "dragon"
     ]
-  }
+  },
+    "Galitsky Dmytro": {
+    "title": "Onclite Maintainer",
+    "bio": "",
+    "github": "krot-melles",
+    "community": "",
+    "telegram": "mrshterben",
+    "weibo": "",
+    "xda": "7269091",
+    "devices": [
+      "onclite"
+    ]
+  },
 }
