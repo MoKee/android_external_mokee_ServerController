@@ -647,6 +647,22 @@
     "display": "5.5 inch, 1920x1080 pixel(403ppi)",
     "cpuarch": "arm"
   },
+  "m1882": {
+    "cpu": "Qualcomm® Snapdragon™ 845",
+    "ram": "6GB/8GB of LPDDR4X",
+    "rom": "64GB/128GB of UFS 2.1",
+    "battery": "3010 mAh",
+    "display": "6.0 inch, 2160x1080 pixel(402ppi)",
+    "cpuarch": "arm64"
+  },
+  "m1892": {
+    "cpu": "Qualcomm® Snapdragon™ 845",
+    "ram": "6GB/8GB of LPDDR4X",
+    "rom": "128GB/256GB of UFS 2.1",
+    "battery": "3640 mAh",
+    "display": "6.5 inch, 2160x1080 pixel(374ppi)",
+    "cpuarch": "arm64"
+  },
   "m1923": {
     "cpu": "Qualcomm® Snapdragon™ 675",
     "ram": "4GB/6GB",
