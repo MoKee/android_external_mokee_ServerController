@@ -1023,6 +1023,14 @@
     "display": "5.45 inch, 1440x720 pixel(295ppi)",
     "cpuarch": "arm"
   },
+  "pioneer": {
+    "cpu": "Qualcomm® Snapdragon™ 630",
+    "ram": "3GB of LP-DDR4X",
+    "rom": "32GB",
+    "battery": "3300 mAh",
+    "display": "5.2 inch, 1920x1080 pixel(424ppi)",
+    "cpuarch": "arm64"
+  },
   "platina": {
     "cpu": "Qualcomm® Snapdragon™ 660",
     "ram": "4/6GB of LP-DDR4X",
