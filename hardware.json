@@ -647,6 +647,22 @@
     "display": "5.5 inch, 1920x1080 pixel(403ppi)",
     "cpuarch": "arm"
   },
+  "m1852": {
+    "cpu": "Qualcomm® Snapdragon™ 710",
+    "ram": "4GB/6GB of LPDDR4X",
+    "rom": "64GB/128GB of eMMC 5.1",
+    "battery": "3210 mAh",
+    "display": "6.2 inch, 2220x1080 pixel(401ppi)",
+    "cpuarch": "arm64"
+  },
+  "m1872": {
+    "cpu": "Qualcomm® Snapdragon™ 710",
+    "ram": "6GB of LPDDR4X",
+    "rom": "64GB/128GB of eMMC 5.1",
+    "battery": "3100 mAh",
+    "display": "6.0 inch, 2160x1080 pixel(402ppi)",
+    "cpuarch": "arm64"
+  },
   "m1882": {
     "cpu": "Qualcomm® Snapdragon™ 845",
     "ram": "6GB/8GB of LPDDR4X",

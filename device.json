@@ -122,6 +122,8 @@
   { "model": "lithium", "name": "MIX", "brand": "Xiaomi", "android": "9.0" },
   { "model": "ls990", "name": "G3 (Sprint)", "brand": "LG", "android": "7.1" },
   { "model": "lux", "name": "X Play", "brand": "Motorola", "android": "7.1" },
+  { "model": "m1852", "name": "X8", "brand": "Meizu", "android": "10.0" },
+  { "model": "m1872", "name": "16 X", "brand": "Meizu", "android": "10.0" },
   { "model": "m1882", "name": "16th", "brand": "Meizu", "android": "10.0" },
   { "model": "m1892", "name": "16th Plus", "brand": "Meizu", "android": "10.0" },
   { "model": "m1923", "name": "Note9", "brand": "Meizu", "android": "10.0" },
