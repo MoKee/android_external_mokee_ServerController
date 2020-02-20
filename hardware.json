@@ -71,6 +71,14 @@
     "display": "5.99 inch, 2160x1080 pixel(403ppi)",
     "cpuarch": "arm64"
   },
+  "berlin": {
+    "cpu": "HiSilicon® Kirin™ 655",
+    "ram": "3GB/4GB",
+    "rom": "32GB/64GB",
+    "battery": "3340 mAh",
+    "display": "5.5 inch, 1920x1080 pixel(401ppi)",
+    "cpuarch": "error"
+  },
   "beryllium": {
     "cpu": "Qualcomm® Snapdragon™ 845",
     "ram": "6/8GB of LP-DDR4X",
