@@ -495,6 +495,14 @@
     "display": "5.5 inch, 1920x1080 pixel(403ppi)",
     "cpuarch": "arm64"
   },
+  "jd2018": {
+    "cpu": "Qualcomm® Snapdragon™ 636",
+    "ram": "4GB/6GB",
+    "rom": "64GB/128GB",
+    "battery": "3300 mAh",
+    "display": "6.2 inch, 2246x1080 pixel(403ppi)",
+    "cpuarch": "arm64"
+  },
   "jsglte": {
     "cpu": "Qualcomm® Snapdragon™ 800",
     "ram": "2GB",

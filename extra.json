@@ -106,6 +106,9 @@
   "jason": {
     "install": "https://bbs.mokeedev.com/t/topic/14785/1"
   },
+  "jd2018": {
+    "recovery": "https://files.chenxy.moe/roms/Lenovo/Z5/Recovery/bootimage-with-TWRP.img"
+  },
   "kenzo": {
     "install": "https://bbs.mokeedev.com/t/topic/14795/1"
   },
