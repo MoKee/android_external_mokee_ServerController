@@ -234,7 +234,7 @@
       "dragon"
     ]
   },
-    "Galitsky Dmytro": {
+  "Galitsky Dmytro": {
     "title": "Onclite Maintainer",
     "bio": "",
     "github": "krot-melles",
@@ -244,6 +244,18 @@
     "xda": "7269091",
     "devices": [
       "onclite"
+    ]
+  },
+  "Art_Chen": {
+    "title": "jd2018 Maintainer",
+    "bio": "嗡嗡嗡~",
+    "github": "Art-Chen",
+    "community": "",
+    "telegram": "imChenxy",
+    "weibo": "imChenxy",
+    "xda": "7255300",
+    "devices": [
+      "jd2018"
     ]
   }
 }
