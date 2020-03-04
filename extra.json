@@ -484,6 +484,9 @@
       }
     ]
   },
+  "rmx1901": {
+    "recovery": "https://files.chenxy.moe/roms/realme/realme%20X/Recovery/TWRP-realme_X-recovery.img"
+  },
   "sagit": {
     "install": "https://bbs.mokeedev.com/t/topic/14799/1",
     "recovery": "https://www.lanzous.com/i4rw7id",
