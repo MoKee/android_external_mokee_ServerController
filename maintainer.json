@@ -247,7 +247,7 @@
     ]
   },
   "Art_Chen": {
-    "title": "jd2018 Maintainer",
+    "title": "jd2018 / RMX1901 Maintainer",
     "bio": "嗡嗡嗡~",
     "github": "Art-Chen",
     "community": "",
@@ -255,7 +255,8 @@
     "weibo": "imChenxy",
     "xda": "7255300",
     "devices": [
-      "jd2018"
+      "jd2018",
+      "RMX1901"
     ]
   }
 }
