@@ -186,6 +186,7 @@
   { "model": "r5", "name": "R5 / R5s (Intl)", "brand": "OPPO", "android": "7.1" },
   { "model": "r7plus", "name": "R7 Plus (R7plusf Intl)", "brand": "OPPO", "android": "9.0" },
   { "model": "r7sf", "name": "R7s (R7sf Intl)", "brand": "OPPO", "android": "9.0" },
+  { "model": "rmx1901", "name": "Realme X", "brand": "Realme", "android": "10.0" },
   { "model": "raphael", "name": "K20 Pro", "brand": "Redmi", "android": "10.0" },
   { "model": "rolex", "name": "4A / 5A", "brand": "Redmi", "android": "8.1" },
   { "model": "rosy", "name": "5", "brand": "Redmi", "android": "9.0" },
