@@ -195,20 +195,8 @@
       "platina"
     ]
   },
-  "andersonmendess": {
-    "title": "Mido Maintainer",
-    "bio": ":p",
-    "github": "andersonmendess",
-    "community": "",
-    "telegram": "andersu",
-    "xda": "5696327",
-    "weibo": "",
-    "devices": [
-      "mido"
-    ]
-  },
   "Yang Cyborg": {
-    "title": "Nubia | nx589j / nx591j / nx609j / nx611j | Maintainer",
+    "title": "Redmi: mido | Nubia: nx589j / nx591j / nx609j / nx611j | Maintainer",
     "bio": "还差的远呢！",
     "github": "Cyborg2017",
     "community": "",
@@ -216,6 +204,7 @@
     "xda": "6999542",
     "weibo": "",
     "devices": [
+      "mido",
       "nx589j",
       "nx591j",
       "nx609j",
