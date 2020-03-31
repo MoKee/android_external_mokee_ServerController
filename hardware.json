@@ -7,6 +7,14 @@
     "display": "5.0 inch, 720x1280 pixel(312ppi)/1080x1920 pixel(441ppi)",
     "cpuarch": "arm64"
   },
+  "addison": {
+    "cpu": "Qualcomm® Snapdragon™ 625",
+    "ram": "3GB",
+    "rom": "32GB",
+    "battery": "3510 mAh",
+    "display": "5.5 inch, 1080x1920 pixel(403ppi)",
+    "cpuarch": "arm64"
+  },
   "albus": {
     "cpu": "Qualcomm® Snapdragon™ 626",
     "ram": "3/4GB",
