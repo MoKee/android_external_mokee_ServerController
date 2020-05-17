@@ -279,6 +279,14 @@
     "display": "6.28 inch, 2280 x 1080 pixel(402ppi)",
     "cpuarch": "arm64"
   },
+  "fajita": {
+    "cpu": "Qualcomm® Snapdragon™ 845",
+    "ram": "6/8GB",
+    "rom": "64/128/256GB",
+    "battery": "37000 mAh",
+    "display": "6.41 inch, 1080x2340 pixel(402ppi)",
+    "cpuarch": "arm64"
+  },
   "find7": {
     "cpu": "Qualcomm® Snapdragon™ 801",
     "ram": "2GB/3GB",
