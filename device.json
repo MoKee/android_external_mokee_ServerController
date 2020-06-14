@@ -15,7 +15,7 @@
   { "model": "berkeley", "name": "Honor View 10", "brand": "Huawei", "android": "9.0" },
   { "model": "berlin", "name": "Honor 6X", "brand": "Huawei", "android": "7.1" },
   { "model": "bullhead", "name": "Nexus 5X", "brand": "Google", "android": "8.1" },
-  { "model": "beryllium", "name": "Pocophone F1", "brand": "Xiaomi", "android": "9.0" },
+  { "model": "beryllium", "name": "Pocophone F1", "brand": "Xiaomi", "android": "10.0" },
   { "model": "cancro", "name": "3w / 4", "brand": "Xiaomi", "android": "10.0" },
   { "model": "capricorn", "name": "5s", "brand": "Xiaomi", "android": "9.0" },
   { "model": "cepheus", "name": "9", "brand": "Xiaomi", "android": "10.0" },
