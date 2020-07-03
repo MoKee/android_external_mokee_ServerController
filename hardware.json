@@ -767,6 +767,22 @@
     "display": "6.2 inch, 2232x1080 pixel(403ppi)",
     "cpuarch": "arm64"
   },
+  "m2081": {
+    "cpu": "Qualcomm® Snapdragon™ 865",
+    "ram": "8GB of LPDDR4X",
+    "rom": "128GB/256GB of UFS 3.1",
+    "battery": "4500 mAh",
+    "display": "6.6 inch, 2340x1080 pixel(390ppi)",
+    "cpuarch": "arm64"
+  },
+  "m2091": {
+    "cpu": "Qualcomm® Snapdragon™ 865",
+    "ram": "8GB/12GB of LPDDR5",
+    "rom": "128GB/256GB of UFS 3.1",
+    "battery": "4500 mAh",
+    "display": "6.6 inch, 2340x1080 pixel(390ppi)",
+    "cpuarch": "arm64"
+  },
   "mako": {
     "cpu": "Qualcomm® Snapdragon™ S4 Pro APQ8064",
     "ram": "2GB",

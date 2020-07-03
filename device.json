@@ -136,6 +136,8 @@
   { "model": "m1928", "name": "16T", "brand": "Meizu", "android": "10.0" },
   { "model": "m1971", "name": "16s", "brand": "Meizu", "android": "10.0" },
   { "model": "m1973", "name": "16s Pro", "brand": "Meizu", "android": "10.0" },
+  { "model": "m2081", "name": "17", "brand": "Meizu", "android": "10.0" },
+  { "model": "m2091", "name": "17 Pro", "brand": "Meizu", "android": "10.0" },
   { "model": "m8d", "name": "One 2014 Dual SIM", "brand": "HTC", "android": "9.0" },
   { "model": "m8", "name": "One 2014", "brand": "HTC", "android": "9.0" },
   { "model": "mako", "name": "Nexus 4", "brand": "Google", "android": "8.1" },
