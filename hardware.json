@@ -1,4 +1,12 @@
 {
+  "a5y17lte": {
+    "cpu": "Samsung Exynos™ 7880",
+    "ram": "3GB",
+    "rom": "32GB/64GB",
+    "battery": "3000 mAh",
+    "display": "5.2 inch, 1920x1080 pixel(424ppi)",
+    "cpuarch": "arm64"
+  },
   "a6020": {
     "cpu": "Qualcomm® Snapdragon™ 415/616",
     "ram": "2/3GB",
