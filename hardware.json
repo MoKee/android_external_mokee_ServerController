@@ -1502,5 +1502,12 @@
     "battery": "3500 mAh",
     "display": "5.0 inch, 1920x1080 pixel(441ppi)",
     "cpuarch": "arm"
-  }
+  },
+  "a5y17lte": {
+    "cpu": "Samsung Exynos™ 7880",
+    "ram": "3GB",
+    "rom": "32GB/64GB",
+    "battery": "3000 mAh",
+    "display": "5.2 inch, 1920x1080 pixel(424ppi)",
+    "cpuarch": "arm64"
 }
