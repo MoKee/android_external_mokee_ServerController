@@ -70,6 +70,9 @@
   "find7": {
     "install": "https://bbs.mokeedev.com/t/topic/15246/1"
   },
+  "gemini": {
+    "recovery": "https://dl.twrp.me/gemini/"
+  },
   "grus": {
     "install": "https://bbs.mokeedev.com/t/topic/16280",
     "radio": [
