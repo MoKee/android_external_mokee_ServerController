@@ -1,12 +1,12 @@
 {
   "aries": {
-    "recovery": "https://www.androidfilehost.com/?w=files&flid=293896"
+    "recovery": "https://dl.twrp.me/aries/"
   },
   "cancro": {
-    "recovery": "https://www.androidfilehost.com/?w=files&flid=241521"
+    "recovery": "https://dl.twrp.me/cancro/"
   },
   "cepheus": {
-    "install": "https://bbs.mokeedev.com/t/topic/14887/1"
+    "install": "https://dl.twrp.me/cepheus/"
   },
   "che10": {
     "recovery": "https://forum.xda-developers.com/honor-4x/development/recovery-twrp-3-0-0-0-touch-recovery-t3309504"

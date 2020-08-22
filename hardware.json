@@ -337,8 +337,8 @@
   },
   "gemini": {
     "cpu": "Qualcomm® Snapdragon™ 820",
-    "ram": "3GB of LP-DDR4",
-    "rom": "64GB",
+    "ram": "3GB/4GB of LP-DDR4",
+    "rom": "31GB/64GB/128GB of UFS 2.0",
     "battery": "3000 mAh",
     "display": "5.15 inch, 1920x1080 pixel(428ppi)",
     "cpuarch": "arm64"
