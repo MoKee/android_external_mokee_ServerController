@@ -1,4 +1,5 @@
 {
+{
   "aries": {
     "recovery": "https://dl.twrp.me/aries/"
   },
@@ -504,14 +505,14 @@
   },
   "sagit": {
     "install": "https://bbs.mokeedev.com/t/topic/14799/1",
-    "recovery": "https://www.lanzous.com/i4rw7id",
+    "recovery": "https://dl.twrp.me/sagit/",
     "radio": [
       {
-        "filename": "fw_sagit_miui_MI6_9.8.22_84d2050352_9.0.zip",
-        "filesize": "59129360",
-        "summary": "MK90.0 20190907",
-        "timestamp": "1567790900",
-        "url": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.22/sagit/"
+        "filename": "fw_sagit_miui_MI6_9.5.16_683d50274b_9.0.zip",
+        "filesize": "59576898",
+        "summary": "MK90.0 20190804",
+        "timestamp": "1558156860",
+        "url": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.16/sagit/"
       }
     ]
   },
