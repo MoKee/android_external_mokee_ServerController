@@ -1533,6 +1533,6 @@
     "rom": "64GB/128GB",
     "battery": "4000 mAh",
     "display": "6.3 inch, 2340x1080 pixel(410ppi)",
-    "cpuarch": "arm"
+    "cpuarch": "arm64"
   }
 }
