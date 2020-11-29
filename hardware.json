@@ -703,6 +703,14 @@
     "display": "6.4 inch, 1080x2040 pixel(362ppi)",
     "cpuarch": "arm64"
   },
+  "lmi": {
+    "cpu": "Qualcomm® Snapdragon™ 865",
+    "ram": "6/8/12GB",
+    "rom": "128/256GB",
+    "battery": "4700 mAh",
+    "display": "6.67 inch, 1080x2400 pixel(395ppi)",
+    "cpuarch": "arm64"
+  },
   "lux": {
     "cpu": "Qualcomm® Snapdragon™ 615",
     "ram": "2GB",

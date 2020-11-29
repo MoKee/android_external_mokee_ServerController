@@ -277,6 +277,17 @@
     ],
     "recovery": "https://www.lanzous.com/i8gupaj"
   },
+  "lmi": {
+    "radio": [
+      {
+        "filename": "miui_LMI_V12.0.8.0.QJKCNXM_fef952411e_10.0.zip",
+        "filesize": "3294304989",
+        "summary": "MK100.0 20201129",
+        "timestamp": "1606579200",
+        "url": "https://bigota.d.miui.com/V12.0.8.0.QJKCNXM/miui_LMI_V12.0.8.0.QJKCNXM_fef952411e_10.0.zip"
+      }
+    ]
+  },
   "nx563j": {
     "install": "https://bbs.mokeedev.com/t/topic/14787/1",
     "radio": [
