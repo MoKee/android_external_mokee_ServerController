@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "55bcbe1c_11ad0efa",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 2140
+      },
+      "writtenOn": "2021-01-10T16:08:46Z",
+      "side": 1,
+      "message": "MoKee 110.0 has not been released yet, and the firmware I will use is not this version.",
+      "revId": "6bbf33ddec13a354ff4c48dcd138996851c7e3cf",
+      "serverId": "83d63960-fecf-4fd1-a7f6-e01518638a62"
+    }
+  ]
+}
