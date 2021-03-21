@@ -114,17 +114,16 @@
     ]
   },
   "Isaac Chen": {
-    "title": "Land / Raphael/ Santoni / Sirius / Vince / Wt86528 Maintainer",
+    "title": "Land / Santoni / Sirius / Vince / Wt86528 Maintainer",
     "bio": "",
     "github": "tingyichen",
     "community": "tingyichen",
-    "telegram": "ChenTingyi",
+    "telegram": "TingyiChen",
     "weibo": "tingyiisaac",
     "xda": "7500669",
     "devices": [
       "wt86528",
       "land",
-      "raphael",
       "santoni",
       "sirius",
       "vince"
@@ -146,7 +145,7 @@
     ]
   },
   "TH779": {
-    "title": "Lmi Maintainer",
+    "title": "Maintainer for lmi / raphael",
     "bio": "|･ω･｀)",
     "github": "hh2333",
     "community": "hh2333",
@@ -154,7 +153,8 @@
     "weibo": "TH779",
     "xda": "",
     "devices": [
-      "lmi"
+      "lmi",
+      "raphael"
     ]
   },
   "subdragonzj": {
