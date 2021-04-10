@@ -37,7 +37,16 @@
     "install": "https://bbs.mokeedev.com/t/topic/15207/1"
   },
   "clover": {
-    "recovery": "https://pan.baidu.com/s/1HgjIWw2WPdnNEdpMN2GCTw"
+    "recovery": "https://pan.baidu.com/s/1HgjIWw2WPdnNEdpMN2GCTw",
+    "radio": [
+      {
+        "filename": "fw-vendor_clover_V10.3.2.0.ODJCNXM.zip",
+        "filesize": "287516",
+        "summary": "2019-07-15",
+        "timestamp": "1563152400",
+        "url": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/clover-stable/fw-vendor_clover_V10.3.2.0.ODJCNXM.zip"
+      }
+    ]
   },
   "davinci": {
     "recovery": "https://github.com/davinci-dev/davinci-twrp/releases"
