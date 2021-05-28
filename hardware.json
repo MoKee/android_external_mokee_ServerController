@@ -1295,6 +1295,14 @@
     "display": "5.88 inch, 2244x1080 pixel(480ppi)",
     "cpuarch": "arm64"
   },
+  "star2lte": {
+    "cpu": "Qualcomm® Snapdragon™ 845",
+    "ram": "6GB",
+    "rom": "64GB/128GB/256GB",
+    "battery": "3500 mAh",
+    "display": "6.2 inch, 2960x1440 pixel(531ppi)",
+    "cpuarch": "arm64"
+  },
   "sumire": {
     "cpu": "Qualcomm® Snapdragon™ 810",
     "ram": "3GB of LP-DDR4",
