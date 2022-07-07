@@ -9,6 +9,7 @@
   { "model": "akari", "name": "Xperia XZ2", "brand": "Sony", "android": "11.0" },
   { "model": "akatsuki", "name": "Xperia XZ3", "brand": "Sony", "android": "11.0" },
   { "model": "albus", "name": "Z2 Play", "brand": "Motorola", "android": "8.1" },
+  { "model": "alioth", "name": "POCO F3 / Redmi K40 / 11X", "brand": "Xiaomi", "android": "11.0" },
   { "model": "angler", "name": "Nexus 6P", "brand": "Google", "android": "8.1" },
   { "model": "aries", "name": "2 / 2S", "brand": "Xiaomi", "android": "10.0" },
   { "model": "armani", "name": "1S (C / W)", "brand": "Redmi", "android": "7.1" },
