@@ -27,6 +27,7 @@
   { "model": "capricorn", "name": "5s", "brand": "Xiaomi", "android": "9.0" },
   { "model": "cedric", "name": "G5", "brand": "Motorola", "android": "11.0" },
   { "model": "cepheus", "name": "9", "brand": "Xiaomi", "android": "10.0" },
+  { "model": "channel", "name": "G7 Play", "brand": "Motorola", "android": "11.0" },
   { "model": "charlotte", "name": "P20 Pro", "brand": "Huawei", "android": "9.0" },
   { "model": "che10", "name": "Honor 4X (China Telecom)", "brand": "Huawei", "android": "9.0" },
   { "model": "cheeseburger", "name": "5", "brand": "OnePlus", "android": "10.0" },
