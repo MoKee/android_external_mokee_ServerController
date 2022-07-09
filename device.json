@@ -55,7 +55,7 @@
   { "model": "deb", "name": "Nexus 7 2013 (LTE)", "brand": "Google", "android": "7.1" },
   { "model": "dior", "name": "Note 1 LTE (Single SIM)", "brand": "Redmi", "android": "8.1" },
   { "model": "dipper", "name": "8", "brand": "Xiaomi", "android": "11.0" },
-  { "model": "discovery", "name": "Xperia XA2 Ultra", "brand": "Sony", "android": "10.0" },
+  { "model": "discovery", "name": "Xperia XA2 Ultra", "brand": "Sony", "android": "11.0" },
   { "model": "dogo", "name": "Xperia ZR", "brand": "Sony", "android": "8.1" },
   { "model": "dragon", "name": "Pixel C", "brand": "Google", "android": "10.0" },
   { "model": "dumpling", "name": "5T", "brand": "OnePlus", "android": "10.0" },
