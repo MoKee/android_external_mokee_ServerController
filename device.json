@@ -58,7 +58,7 @@
   { "model": "discovery", "name": "Xperia XA2 Ultra", "brand": "Sony", "android": "11.0" },
   { "model": "dogo", "name": "Xperia ZR", "brand": "Sony", "android": "8.1" },
   { "model": "dragon", "name": "Pixel C", "brand": "Google", "android": "10.0" },
-  { "model": "dumpling", "name": "5T", "brand": "OnePlus", "android": "10.0" },
+  { "model": "dumpling", "name": "5T", "brand": "OnePlus", "android": "11.0" },
   { "model": "enchilada", "name": "6", "brand": "OnePlus", "android": "10.0" },
   { "model": "ether", "name": "Robin", "brand": "Nextbit", "android": "10.0" },
   { "model": "evert", "name": "G6 Plus", "brand": "Motorola", "android": "10.0" },
