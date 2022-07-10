@@ -71,7 +71,7 @@
   { "model": "g2m", "name": "G2 Mini", "brand": "LG", "android": "7.1" },
   { "model": "g750c", "name": "B199", "brand": "Huawei", "android": "7.1" },
   { "model": "g760l", "name": "C199", "brand": "Huawei", "android": "7.1" },
-  { "model": "gauguin", "name": "Note 9 Pro", "brand": "Redmi", "android": "11.0" },
+  { "model": "gauguin", "name": "10T Lite / 10i / Redmi Note 9 Pro 5G", "brand": "Xiaomi", "android": "11.0" },
   { "model": "gemini", "name": "5", "brand": "Xiaomi", "android": "10.0" },
   { "model": "ginkgo", "name": "Note 8 / 8T", "brand": "Redmi", "android": "10.0" },
   { "model": "griffin", "name": "Z 2016 (Unified)", "brand": "Motorola", "android": "10.0" },
