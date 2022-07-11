@@ -89,6 +89,7 @@
   { "model": "hannah", "name": "E5 Plus", "brand": "Motorola", "android": "11.0" },
   { "model": "harpia", "name": "G4 Play", "brand": "Motorola", "android": "10.0" },
   { "model": "hayabusa", "name": "Xperia TX", "brand": "Sony", "android": "7.1" },
+  { "model": "heart", "name": "Z5 Pro GT", "brand": "Lenovo", "android": "11.0" },
   { "model": "helium", "name": "Max Pro", "brand": "Xiaomi", "android": "10.0" },
   { "model": "hero2lte", "name": "Galaxy S7 Edge", "brand": "Samsung", "android": "7.1" },
   { "model": "herolte", "name": "Galaxy S7 Flat", "brand": "Samsung", "android": "7.1" },
