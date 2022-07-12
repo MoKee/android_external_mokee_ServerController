@@ -137,7 +137,7 @@
   { "model": "klte", "name": "Galaxy S5 (Intl,SM-G900F / M / T)", "brand": "Samsung", "android": "8.1" },
   { "model": "kuntao", "name": "P2 (P2a42 Intl)", "brand": "Lenovo", "android": "11.0" },
   { "model": "land", "name": "3S / 3X", "brand": "Redmi", "android": "9.0" },
-  { "model": "lake", "name": "G7 Plus", "brand": "Motorola", "android": "10.0" },
+  { "model": "lake", "name": "G7 Plus", "brand": "Motorola", "android": "11.0" },
   { "model": "lavender", "name": "Note 7", "brand": "Redmi", "android": "10.0" },
   { "model": "lentislte", "name": "Galaxy S5 LTE-A", "brand": "Samsung", "android": "9.0" },
   { "model": "leo", "name": "Note Pro", "brand": "Xiaomi", "android": "10.0" },
