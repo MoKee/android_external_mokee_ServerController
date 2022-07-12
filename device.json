@@ -122,6 +122,7 @@
   { "model": "jsglte", "name": "Galaxy S4 (China Mobile 4gLTE,GT-I9508V)", "brand": "Samsung", "android": "8.1" },
   { "model": "k3gxx", "name": "Galaxy S5 (Exynos Varient,SM-G900H)", "brand": "Samsung", "android": "7.1" },
   { "model": "kccat6", "name": "Galaxy S5 Plus", "brand": "Samsung", "android": "9.0" },
+  { "model": "kebab", "name": "8T", "brand": "OnePlus", "android": "11.0" },
   { "model": "kenzo", "name": "Note 3", "brand": "Redmi", "android": "9.0" },
   { "model": "kingdom", "name": "Vibe Z2 Pro", "brand": "Lenovo", "android": "7.1" },
   { "model": "kipper", "name": "Storm", "brand": "Wileyfox", "android": "9.0" },
