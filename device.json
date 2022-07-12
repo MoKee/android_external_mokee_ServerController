@@ -106,6 +106,8 @@
   { "model": "i9305", "name": "Galaxy S III (GSM LTE)", "brand": "Samsung", "android": "7.1" },
   { "model": "icesky", "name": "T2", "brand": "Smartisan", "android": "9.0" },
   { "model": "ido", "name": "3 / Prime", "brand": "Redmi", "android": "10.0" },
+  { "model": "instantnoodle", "name": "8", "brand": "OnePlus", "android": "11.0" },
+  { "model": "instantnoodlep", "name": "8 Pro", "brand": "OnePlus", "android": "11.0" },
   { "model": "j5ltexx", "name": "Galaxy J5 (J500F / M / G)", "brand": "Samsung", "android": "7.1" },
   { "model": "j5nltexx", "name": "Galaxy J5 (J500FN)", "brand": "Samsung", "android": "7.1" },
   { "model": "jactivelte", "name": "Galaxy S4 Active (GT-I9295)", "brand": "Samsung", "android": "9.0" },
