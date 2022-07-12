@@ -139,6 +139,8 @@
   { "model": "land", "name": "3S / 3X", "brand": "Redmi", "android": "9.0" },
   { "model": "lake", "name": "G7 Plus", "brand": "Motorola", "android": "11.0" },
   { "model": "lavender", "name": "Note 7", "brand": "Redmi", "android": "11.0" },
+  { "model": "lemonade", "name": "9", "brand": "OnePlus", "android": "11.0" },
+  { "model": "lemonadep", "name": "9 Pro", "brand": "OnePlus", "android": "11.0" },
   { "model": "lentislte", "name": "Galaxy S5 LTE-A", "brand": "Samsung", "android": "9.0" },
   { "model": "leo", "name": "Note Pro", "brand": "Xiaomi", "android": "10.0" },
   { "model": "lettuce", "name": "Yuphoria (YU5010)", "brand": "YU", "android": "8.1" },
