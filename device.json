@@ -213,7 +213,7 @@
   { "model": "pine", "name": "7A", "brand": "Redmi", "android": "10.0" },
   { "model": "platina", "name": "8 Lite", "brand": "Xiaomi", "android": "10.0" },
   { "model": "pme", "name": "10", "brand": "HTC", "android": "7.1" },
-  { "model": "polaris", "name": "MIX 2S", "brand": "Xiaomi", "android": "10.0" },
+  { "model": "polaris", "name": "MIX 2S", "brand": "Xiaomi", "android": "11.0" },
   { "model": "pollux", "name": "Xperia Tablet Z LTE", "brand": "Sony", "android": "8.1" },
   { "model": "pollux_windy", "name": "Xperia Tablet Z Wi-Fi", "brand": "Sony", "android": "8.1" },
   { "model": "r5", "name": "R5 / R5s (Intl)", "brand": "OPPO", "android": "7.1" },
