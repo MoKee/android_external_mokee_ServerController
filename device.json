@@ -267,6 +267,7 @@
   { "model": "wt88047", "name": "2", "brand": "Redmi", "android": "10.0" },
   { "model": "x2", "name": "Max 2", "brand": "LeEco", "android": "11.0" },
   { "model": "x3", "name": "X3c50 / X3c70", "brand": "Lenovo", "android": "7.1" },
+  { "model": "xz2c", "name": "Xperia XZ2 Compact", "brand": "Sony", "android": "11.0" },
   { "model": "yuga", "name": "Xperia Z", "brand": "Sony", "android": "8.1" },
   { "model": "z008", "name": "Zenfone 2 (720p)", "brand": "Asus", "android": "7.1" },
   { "model": "z00a", "name": "Zenfone 2 (1080p)", "brand": "Asus", "android": "7.1" },
