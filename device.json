@@ -281,6 +281,6 @@
   { "model": "z3c", "name": "Xperia Z3 Compact", "brand": "Sony", "android": "11.0" },
   { "model": "zerofltexx", "name": "Galaxy S6", "brand": "Samsung", "android": "7.1" },
   { "model": "zeroltexx", "name": "Galaxy S6 Edge", "brand": "Samsung", "android": "7.1" },
-  { "model": "zl1", "name": "Le Pro 3", "brand": "LeEco", "android": "10.0" },
+  { "model": "zl1", "name": "Le Pro 3", "brand": "LeEco", "android": "11.0" },
   { "model": "zoom", "name": "Z90", "brand": "Lenovo", "android": "7.1" }
 ]
