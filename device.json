@@ -276,7 +276,7 @@
   { "model": "z00t", "name": "Zenfone 2 Laser / Selfie (1080p)", "brand": "Asus", "android": "7.1" },
   { "model": "z2", "name": "Z2", "brand": "ZUK", "android": "7.1" },
   { "model": "z2pro", "name": "Z2 Pro", "brand": "ZUK", "android": "9.0" },
-  { "model": "z2_plus", "name": "Z2 Plus", "brand": "ZUK", "android": "10.0" },
+  { "model": "z2_plus", "name": "Z2 Plus", "brand": "ZUK", "android": "11.0" },
   { "model": "zerofltexx", "name": "Galaxy S6", "brand": "Samsung", "android": "7.1" },
   { "model": "zeroltexx", "name": "Galaxy S6 Edge", "brand": "Samsung", "android": "7.1" },
   { "model": "zl1", "name": "Le Pro 3", "brand": "LeEco", "android": "10.0" },
