@@ -73,6 +73,7 @@
   { "model": "falcon", "name": "G (Unified)", "brand": "Motorola", "android": "7.1" },
   { "model": "find7", "name": "Find 7 (A / S)", "brand": "OPPO", "android": "9.0" },
   { "model": "find7s", "name": "Find 7 (S)", "brand": "OPPO", "android": "7.1" },
+  { "model": "flame", "name": "Pixel 4", "brand": "Google", "android": "11.0" },
   { "model": "flo", "name": "Nexus 7 2013 (Wi-Fi)", "brand": "Google", "android": "7.1" },
   { "model": "g2m", "name": "G2 Mini", "brand": "LG", "android": "7.1" },
   { "model": "g750c", "name": "B199", "brand": "Huawei", "android": "7.1" },
