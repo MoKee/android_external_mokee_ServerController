@@ -84,7 +84,7 @@
   { "model": "griffin", "name": "Z 2016 (Unified)", "brand": "Motorola", "android": "10.0" },
   { "model": "grus", "name": "9se", "brand": "Xiaomi", "android": "9.0" },
   { "model": "guacamole", "name": "7 Pro", "brand": "OnePlus", "android": "11.0" },
-  { "model": "guacamoleb", "name": "7", "brand": "OnePlus", "android": "10.0" },
+  { "model": "guacamoleb", "name": "7", "brand": "OnePlus", "android": "11.0" },
   { "model": "gucci", "name": "Note 1S", "brand": "Redmi", "android": "10.0" },
   { "model": "h3gduoschn", "name": "Galaxy Note 3 (China DualSIM,SM-N9002)", "brand": "Samsung", "android": "8.1" },
   { "model": "h811", "name": "G4 (T-Mobile)", "brand": "LG", "android": "7.1" },
