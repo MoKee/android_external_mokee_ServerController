@@ -184,7 +184,7 @@
     ]
   },
   "Yang Cyborg": {
-    "title": "Redmi: mido | Nubia: nx589j / nx591j / nx609j / nx611j | Maintainer",
+    "title": "Nubia: nx563j | Co-maintainer, Redmi: mido | Nubia: nx589j / nx591j / nx609j / nx611j | Maintainer",
     "bio": "还差的远呢！",
     "github": "Cyborg2017",
     "community": "",
@@ -193,6 +193,7 @@
     "weibo": "",
     "devices": [
       "mido",
+      "nx563j",
       "nx589j",
       "nx591j",
       "nx609j",
