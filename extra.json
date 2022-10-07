@@ -273,19 +273,6 @@
     "install": "https://bbs.mokeedev.com/t/topic/15330/1",
     "recovery": "https://share.weiyun.com/5EvT4FK"
   },
-  "lavender": {
-    "install": "https://bbs.mokeedev.com/t/topic/14864/1",
-    "radio": [
-      {
-        "filename": "firmware_lavender_V11.0.4.0_9.0.zip",
-        "filesize": "63380123",
-        "summary": "MK90.0/MK100.0 20191209",
-        "timestamp": "1575899752",
-        "url": "https://www.lanzous.com/i8guq5a"
-      }
-    ],
-    "recovery": "https://www.lanzous.com/i8gupaj"
-  },
   "lmi": {
     "radio": [
       {
@@ -478,13 +465,6 @@
         "summary": "MK90.0 20190624",
         "timestamp": "1561463479",
         "url": "https://share.weiyun.com/5vrUGW3"
-      },
-      {
-        "filename": "firmware_perseus_V11.0.1.0.QEECNXM-10.0.zip",
-        "filesize": "95318086",
-        "summary": "MK100.0 20200215",
-        "timestamp": "1581829478",
-        "url": "https://www.lanzous.com/i9ed2fi"
       }
     ]
   },
