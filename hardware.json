@@ -1566,5 +1566,13 @@
     "battery": "4000 mAh",
     "display": "6.3 inch, 2340x1080 pixel(410ppi)",
     "cpuarch": "arm64"
+  },
+  "instantnoodlep": {
+    "cpu": "Qualcomm® Snapdragon™ 865",
+    "ram": "8GB/12GB",
+    "rom": "128GB/256GB",
+    "battery": "4510 mAh",
+    "display": "6.78 inch, 3168x1440 pixel(513ppi)",
+    "cpuarch": "arm64"
   }
 }
