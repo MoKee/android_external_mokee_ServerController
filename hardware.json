@@ -1191,6 +1191,14 @@
     "display": "6.39 inch, 2340x1080 pixel",
     "cpuarch": "arm64"
   },
+  "r7sf": {
+    "cpu": "Qualcomm® Snapdragon™ 515",
+    "ram": "4GB of LP-DDR3",
+    "rom": "32GB",
+    "battery": "3070 mAh",
+    "display": "5.5 inch, 1920x1080 pixel",
+    "cpuarch": "arm64"
+  },
   "river": {
     "cpu": "Qualcomm® Snapdragon™ 632",
     "ram": "4GB of LP-DDR3",
